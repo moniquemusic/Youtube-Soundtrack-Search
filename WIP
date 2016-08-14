@@ -1,21 +1,18 @@
 # Load the necessary packages
 require(curl)
 require(jsonlite)
+library(dyplr)
 
-# Your API key obtained via https://console.developers.google.com/ 
-API_key='<paste_your_API_key_here>'
+#basic api url
+yt_search <- "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&order=relevance&publishedBefore=%s%%3A00%%3A00Z&q=%s+soundtrack+full+-cover+-radio&type=video&key=%s"
 
-# Base URL for Google API's services and YouTube specific API's
-Base_URL='https://developers.google.com/apis-explorer/#p/youtube/v3'
+create_url <- function(x) {paste0(sprintf(yt_search, "2016-06-24T00", x, "AIzaSyCPOy2cpD0SOXEfGDoc2v0riFqtSQ172ow"))}
 
-# YouTube Search
-#based off of previously done API search https://developers.google.com/apis-explorer/#p/youtube/v3/youtube.search.list?part=snippet&maxResults=4&q=dog&type=video&_h=1&
-#other url= https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=4&q=dog&type=video&key=AIzaSyCPOy2cpD0SOXEfGDoc2v0riFqtSQ172ow
-YT_Search <- c( 'search?part=snippet&maxResults=%&q=%&type=video&key=AIzaSyCPOy2cpD0SOXEfGDoc2v0riFqtSQ172ow')
+games <- c('overwatch', 'witcher 3', 'dark souls', 'pony island')
 
-# Form request URL
-# dog is what we are looking for, used here as an example
-url <- paste0(Base_URL, "/", sprintf(YT_Search, '4', 'cat'))
+url_list <- unlist(lapply(games, create_url))
 
-# Perform query
-result <- fromJSON(txt=url)
+get_list <-function(y){frgomJSON(y)}
+
+overwatch <- lapply(url_list[1], get_list)
+witcher 3 <- lapply(url_list[2], get_list)
