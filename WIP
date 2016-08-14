@@ -10,7 +10,7 @@ Base_URL='https://developers.google.com/apis-explorer/#p/youtube/v3'
 
 # YouTube Search
 #based off of previously done API search https://developers.google.com/apis-explorer/#p/youtube/v3/youtube.search.list?part=snippet&maxResults=4&q=dog&type=video&_h=1&
-#other url= https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=4&q=dog&type=video&key={AIzaSyCPOy2cpD0SOXEfGDoc2v0riFqtSQ172ow}
+#other url= https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=4&q=dog&type=video&key=AIzaSyCPOy2cpD0SOXEfGDoc2v0riFqtSQ172ow
 YT_Search <- c( 'youtube.search.list?part=snippet&maxResults=%s&q=%s&type=video&_h=1&')
 
 # Form request URL
