@@ -1,0 +1,18 @@
+#setup
+require(curl)
+require(jsonlite)
+library(dplyr)
+
+#basic api url
+yt_search <- "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&order=relevance&publishedBefore=%s%%3A00%%3A00Z&q=%s+soundtrack+full+-cover+-radio&type=video&videoDuration=long&key=%s"
+
+create_url <- function(x) {paste0(sprintf(yt_search, "2016-06-24T00", x, "AIzaSyCPOy2cpD0SOXEfGDoc2v0riFqtSQ172ow"))}
+
+games <- c('overwatch', 'witcher 3', 'dark souls', 'pony island')
+
+url_list <- lapply(games, create_url)
+
+get_list <-function(y){fromJSON(y)}
+
+#when test is litterally the url
+master_list_2<- lapply(test, get_list)
