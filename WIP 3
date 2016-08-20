@@ -1,0 +1,53 @@
+require(curl)
+require(jsonlite)
+library(dplyr)
+
+get_JSON <- function(x){fromJSON(x)}
+
+#search api
+#basic search url API
+yt_search <- "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&order=relevance&publishedBefore=%s%%3A00%%3A00Z&q=%s+soundtrack+full+-cover+-radio&type=video&videoDuration=long&key=%s"
+
+#function to paste elements into the search API url
+create_search_url <- function(x) {paste0(sprintf(yt_search, "2016-06-24T00", x, "AIzaSyCPOy2cpD0SOXEfGDoc2v0riFqtSQ172ow"))}
+
+#list of game titles from 2016
+games <- c('overwatch', 'witcher 3', 'dark souls', 'pony island')
+#replace spaces with "+" so it works within the url
+games <- gsub(pattern=" ", replacement= "+", x=games)
+
+#create list of search API urls from the list of games
+search_url_list <- sapply(games, create_url)
+
+#getting JSON data from each search API url inquiry
+search_JSON <- sapply(search_url_list, get_JSON)
+
+#creating dataframe for collect JSON
+search_JSON_df <- data.frame(search_JSON)
+View(search_JSON_df)
+
+#stats api, same as search API but using videoID from search_JSON_df
+
+yt_stats <- "https://www.googleapis.com/youtube/v3/videos?part=statistics&id=%s&key=%s"
+
+create_stats_url <-function(x) {paste0(sprintf(yt_stat_search, x, "AIzaSyCPOy2cpD0SOXEfGDoc2v0riFqtSQ172ow"))}
+
+#create list of videoID
+video_id_list <- result_3$items.id$videoId
+
+video_title <-result_3$items.snippet$title
+
+#create dataframe with video_title and video_id
+video_id_df <- data.frame(video_title, video_id)
+View(video_id_df)
+
+stats_url_list <- sapply(video_id, create_stats_url)
+
+stats_JSON <- sapply(stats_url_list, get_JSON)
+#transposing database to have videos in rows and video stats in columns
+stats_JSON <-t(stats_JSON)
+
+stats_JSON_df <- data.frame(stats_JSON)
+View(stats_JSON_df)
+
+#use the title column from video_id_df as the row names for stats_JSON_df
