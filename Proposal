@@ -1,16 +1,16 @@
 Capstone Project Proposal
 Foundations of Data Science
 
-1.From personal experience, one of the most reliable ways to listen to video game soundtracks is on Youtube. I am curious to see how the general interest in game soundtracks on Youtube has changed over time. 
+1.From personal experience, one of the most reliable ways to listen to video game soundtracks is through Youtube. I am curious to see how the general interest in game soundtracks on Youtube has changed over time. 
 2.Clients who could potentially be interested in this project include video game studios and merchants. If there are trends in the data that show increased interest in the form of views and likes, companies might consider making the game soundtracks more available for purchase individually or as a part of a collectors edition. 
 3.Data on number of uploads, views, and likes will be acquired through Youtube’s API. The list of noteworthy games will come from Metacritic’s list of top 100 PC games. 
 4.	A) Create script for accessing Youtube API
     B) Create list of top 100 games for the past 10 years from Metacritic
     C) Run script to collect data
-    D) Analyze data for trends in number of uploaded videos using linear regression
-    E) Analyze data for trends in the number of views using linear regression
-    F) Analyze data for trends in the number of likes using linear regression
-    G) Analyze data for correltation between how well a game did and how popular the soundtrack was (upload, views, and like numbers). 
+    D) Analyze data for trends in number of uploaded videos using linear regression. Are more users uploading more game soundtracks each year?
+    E) Analyze data for trends in the number of views using linear regression. Are more individuals listening to soundtrack videos?
+    F) Analyze data for trends in the number of likes using linear regression. Are individuals enjoying the soundtrack videos more?
+    G) Analyze data for correltation between how well a game did and how popular the soundtrack was (views= game popularity/notoriety, likes= soundtrack popularity). 
 5.Deliverables:
     Submission.csv with predictions of demand
     R Code used for the analysis in github.
