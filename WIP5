@@ -131,7 +131,10 @@ row.names(witcher_6)<- "witcher_6"
 
 witcher_stats <- rbind(witcher_1, witcher_2, witcher_3, witcher_4, witcher_5, witcher_6)
 
-
+#testing merge
+witcher_test_df <- data.frame(best_witcher_df[1:6, 1:2])
+best_witcher_test_df <- data.frame(cbind(witcher_test_df, witcher_stats))
+View(best_witcher_test_df)
 
 
 
