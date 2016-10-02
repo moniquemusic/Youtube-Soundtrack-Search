@@ -134,6 +134,17 @@ witcher_stats <- rbind(witcher_1, witcher_2, witcher_3, witcher_4, witcher_5, wi
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 #create list of search API urls from the list of games
 
 search_url_list_2 <- lapply(games, create_search_url)
