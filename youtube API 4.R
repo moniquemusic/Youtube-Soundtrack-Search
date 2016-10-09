@@ -1,0 +1,245 @@
+#setup
+require(curl)
+require(jsonlite)
+library(dplyr)
+library(tidyr)
+library(lubridate)
+
+get_JSON <- function(x){fromJSON(x)}
+
+#create games list
+#read the original metacritic page
+thepage <- readLines("http://www.metacritic.com/browse/games/score/metascore/year/pc/filtered")
+
+#create funtions to read the specific line for game title and game release date
+find_title <- function(x){thepage[26*(x-1)+573]}
+find_date <- function(x){thepage[26*(x-1)+583]}
+
+#focus on the top 100 games
+top_100_games <- c(1:100)
+
+#scrape for top 100 game titles and their corresponding release dates
+game_title <- sapply(top_100_games, find_title)
+
+game_date <- sapply(top_100_games, find_date)
+
+#create data frame to contain game titles
+game_title_df <-data.frame(game_title, game_date)
+View(game_title_df)
+
+#remove the white space in front of game titles
+trim.leading <- function (x)  sub("^\\s+", "", x)
+
+game_title_df$game_title <- trim.leading(game_title_df$game_title)
+
+#change date format from Month, Day, Year to Year-Month-Day
+
+game_title_df$game_date <- mdy(game_title_df$game_date)
+
+#search api
+#basic search url API
+yt_search <- "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&order=relevance&publishedBefore=%s%%3A00%%3A00Z&q=%s+soundtrack+full+-cover+-radio&type=video&videoDuration=long&key=%s"
+
+#function to paste elements into the search API url
+create_search_url <- function(x) {paste0(sprintf(yt_search, "2017-06-24T00", x, "AIzaSyCPOy2cpD0SOXEfGDoc2v0riFqtSQ172ow"))}
+
+#create_search_url <- function(x, y) {paste0(sprintf(yt_search, y, x, "AIzaSyCPOy2cpD0SOXEfGDoc2v0riFqtSQ172ow"))}
+
+#list of game titles from 2016
+games <- game_title_df$game_title
+#replace spaces with "+" so it works within the url
+games <- gsub(pattern=" ", replacement= "+", x=games)
+
+#create list of urls to use
+search_url_list <- sapply(games, create_search_url)
+
+#use urls that were created and JSON function to scrape Youtube API for data
+search_JSON <- sapply(search_url_list, get_JSON)
+
+#inconsistent line in search_JSON, removed line 18
+search_JSON_2_df <- data.frame(search_JSON[19:50])
+
+#created dataframe
+search_JSON_df <- data.frame(cbind(search_JSON_df, search_JSON_2_df))
+View(search_JSON_df)
+
+#create dataframe with just the .items.snippet column
+new_df <- subset.data.frame(select(search_JSON_df, ends_with("snippet")))
+
+#create function to specify the title column of each game's .item.snippet
+get_title <- function(x){subset.data.frame(select(x, starts_with("title")))}
+titles <- mapply(get_title, new_df)
+
+#turn titles list into dataframe and clean up
+#turn titles into dataframe
+titles_df <- data.frame(titles)
+
+#remove .items.snippet.title from the end of each column name
+colnames(titles_df) <- gsub(".items.snippet.title", "", x= colnames(titles_df))
+
+#replace "." with "_" from each row
+colnames(titles_df) <- gsub("\\.", "_", x= colnames(titles_df))
+colnames(titles_df) <- gsub("__", "_", x= colnames(titles_df))
+
+
+
+
+
+
+
+
+#create data frame for each game with video title and video id
+witcher_video_titles <- search_JSON_df$The.Witcher.3..Wild.Hunt...Blood.and.Wine$items$snippet$title
+witcher_video_ids <- search_JSON_df$The.Witcher.3..Wild.Hunt...Blood.and.Wine$items$id$videoId
+
+witcher_df <- data.frame(witcher_video_titles, witcher_video_ids)
+
+#filter for relevent titles
+test1 <- grep("witcher", witcher_df$witcher_video_titles, ignore.case = TRUE)
+test2 <- grep("soundtrack", witcher_df$witcher_video_titles, ignore.case = TRUE)
+test3 <- grep("music", witcher_df$witcher_video_titles, ignore.case = TRUE)
+best_vid <- intersect(test1, union(test2, test3))
+
+best_witcher <- witcher_df[c(best_vid),]
+
+best_witcher_df <- data.frame(best_witcher)
+
+#stats api
+yt_stat_search <- "https://www.googleapis.com/youtube/v3/videos?part=statistics&id=%s&key=%s"
+
+#name to create url for stats api
+create_stats_url <-function(x) {paste0(sprintf(yt_stat_search, x, "AIzaSyCPOy2cpD0SOXEfGDoc2v0riFqtSQ172ow"))}
+
+#create list of urls to use
+witcher_stats_url <- sapply(best_witcher_df$witcher_video_ids, create_stats_url)
+
+#apply api urls and get JSON
+witcher_stats_JSON <- sapply(witcher_stats_url, get_JSON, USE.NAMES = FALSE)
+
+#witcher_stats_JSON <-t(witcher_stats_JSON)
+
+#turn stats data into data frame
+witcher_stats_JSON_df <- data.frame(witcher_stats_JSON)
+
+#give columns in stats data frame the original video names
+witcher_title_names <- best_witcher_df$witcher_video_titles
+
+colnames(witcher_stats_JSON_df) <- witcher_title_names
+
+#eliminate kind, etag, page info rows
+witcher_stats_df <- data.frame(witcher_stats_JSON_df[4,1:30])
+
+#transpose stats data frame to put video titles as rows
+witcher_stats_df<-as.data.frame(t(witcher_stats_df))
+
+#reduce stats table
+witcher_stats_df <- data.frame(witcher_stats_df$items)
+
+#collect relevent information from stats table
+witcher_1 <- witcher_stats_df$The.Witcher.3..Wild.Hunt...Blood.and.Wine.Soundtrack..Full..statistics
+row.names(witcher_1)<- "witcher_1"
+
+witcher_2 <- witcher_stats_df$The.Witcher.3.Blood.and.Wine.Soundtrack..Full.OST..statistics
+row.names(witcher_2)<- "witcher_2"
+
+witcher_3 <-witcher_stats_df$The.Witcher.3..Blood.and.Wine...Full.Soundtrack.OST.statistics
+row.names(witcher_3)<- "witcher_3"
+
+witcher_4 <- witcher_stats_df$The.Witcher.3..Blood.and.Wine...Complete.Soundtrack.statistics
+row.names(witcher_4)<- "witcher_4"
+
+witcher_5 <- witcher_stats_df$The.Witcher.3.Wild.Hunt.Blood.and.Wine.Original.Soundtrack.statistics
+row.names(witcher_5)<- "witcher_5"
+
+witcher_6 <- witcher_stats_df$X..The.Witcher.3..Blood.and.Wine...Full.Soundtrack.OST.statistics
+row.names(witcher_6)<- "witcher_6"
+
+witcher_stats <- rbind(witcher_1, witcher_2, witcher_3, witcher_4, witcher_5, witcher_6)
+
+#testing merge
+witcher_test_df <- data.frame(best_witcher_df[1:6, 1:2])
+best_witcher_test_df <- data.frame(cbind(witcher_test_df, witcher_stats))
+View(best_witcher_test_df)
+
+
+
+
+
+
+
+
+
+
+
+#create list of search API urls from the list of games
+
+search_url_list_2 <- lapply(games, create_search_url)
+
+#getting JSON data from each search API url inquiry, finding line 17 "Chime Sharp" seperate due to smaller JSON return
+search_JSON_spread <-lapply(search_url_list_2[1:17], get_JSON)
+search_JSON_spread_2 <-lapply(search_url_list_2[19:50], get_JSON)
+
+#creating dataframe for collect JSON
+search_JSON_spread_df <-data.frame(search_JSON_spread)
+
+search_JSON_spread_2_df <-data.frame(search_JSON_spread_2)
+
+new_search_JSON_spread_df <- data.frame(cbind(search_JSON_spread_df, search_JSON_spread_2_df))
+
+
+#stats api, same as search API but using videoID from search_JSON_df
+
+yt_stat_search <- "https://www.googleapis.com/youtube/v3/videos?part=statistics&id=%s&key=%s"
+
+create_stats_url <-function(x) {paste0(sprintf(yt_stat_search, x, "AIzaSyCPOy2cpD0SOXEfGDoc2v0riFqtSQ172ow"))}
+
+#create list of videoID
+video_id_list <-search_JSON_spread$items.id$videoId
+
+video_title <-search_JSON_spread$items.snippet$title
+
+#create dataframe with video_title and video_id
+video_id_df <- data.frame(video_title, video_id_list)
+View(video_id_df)
+
+stats_url_list <- sapply(video_id_list, create_stats_url)
+
+stats_JSON <- sapply(stats_url_list, get_JSON)
+#transposing database to have videos in rows and video stats in columns
+stats_JSON <-t(stats_JSON)
+
+stats_JSON_df <- data.frame(stats_JSON)
+View(stats_JSON_df)
+
+#use the title column from video_id_df as the row names for stats_JSON_df
+
+
+
+#count relevent videos
+grepl(pattern="Soundtrack", x= video_id_df$video_title)
+overwatch_count <- grepl(pattern="Soundtrack", x= video_id_df$video_title)
+sum(overwatch_count, na.rm=TRUE)
+
+#find relevent videos
+target_videos <- grep(pattern="Soundtrack", x= video_id_df$video_title)
+target_videos_df <- data.frame(video_id_df$video_title[target_videos], video_id_df$video_id_list[target_videos])
+View(target_videos_df)
+
+#get stats for just target_videos
+target_stats_url_list <- sapply(video_id_list[target_videos], create_stats_url)
+target_stats_JSON <-sapply(target_stats_url_list, get_JSON)
+target_stats_JSON <-t(target_stats_JSON)
+target_stats_JSON_df <-data.frame(target_stats_JSON)
+View(target_stats_JSON_df)
+
+#Filter video_id_df to get only relevent videos
+
+#create conditions to find the words "overwatch", and either "soundtrack" or "music"
+test1 <- grep("overwatch", video_id_df$video_title, ignore.case = TRUE)
+test2 <- grep("soundtrack", video_id_df$video_title, ignore.case = TRUE)
+test3 <- grep("music", video_id_df$video_title, ignore.case = TRUE)
+
+#create 
+best_vid <- intersect(test1, union(test2, test3))
+best_vid_id <- video_id_df[c(best_vid),]
+best_vid_id_df <- data.frame(best_vid_id)
