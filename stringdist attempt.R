@@ -11,7 +11,7 @@ term_startt <- c(1:20)
 #create a blank master list where the top 5 terms for each game will be stored into
 #key_terms<-c()
 #key_terms_2<-c()
-key_terms_3<- c()
+#key_terms_3<- c()
 num_terms_per_game<- c(1:5)
 
 
@@ -20,6 +20,10 @@ for(gg_g in gg_games){
   #each game will deal different terms, so create a blank list for matching term to be stored into
   matching_term<-c()
   gg2<- gg_g
+  
+  list_of_test2<- c()
+  best_term_from_test <- c()
+  num_best_appeared<- c()
   
   #each video titles is compared to every other title in the list within the game
   for(title in title_number){
@@ -55,8 +59,15 @@ for(gg_g in gg_games){
         
         match_distance<- stringdist(c(test1),c(list_of_test2))
         
-        if(table(match_distance)["1"] > 0){
+        if(is.na(table(match_distance)["1"]) == FALSE){
           exact_matches <- grep("1", match_distance)
+          
+          best_term_from_test <- append(best_term_from_test, list_of_test2[exact_matches])
+          
+          num_best_appeared <- append(num_best_appeared, length(exact_matches))
+        }
+        if(is.na(table(match_distance)["2"]) == FALSE){
+          exact_matches <- grep("2", match_distance)
           
           best_term_from_test <- append(best_term_from_test, list_of_test2[exact_matches])
           
