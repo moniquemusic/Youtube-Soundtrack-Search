@@ -1,1 +1,1001 @@
-""
+"","all_game_titles","all_game_dates","all_game_scores","all_game_user_ratings"
+"1","The Orange Box",2007-10-10,96,9.3
+"2","BioShock",2007-08-21,96,8.5
+"3","Call of Duty 4: Modern Warfare",2007-11-05,92,8.5
+"4","Crysis",2007-11-13,91,8
+"5","World of Warcraft: The Burning Crusade",2007-01-16,91,7.9
+"6","Galactic Civilizations II: Dark Avatar",2007-02-14,91,8.3
+"7","Half-Life 2: Episode Two",2007-10-10,90,9.2
+"8","World in Conflict",2007-09-18,89,8.1
+"9","Company of Heroes: Opposing Fronts",2007-09-24,87,8.6
+"10","Gears of War",2007-11-06,87,7.8
+"11","Supreme Commander",2007-02-20,86,8.3
+"12","Sid Meier's Civilization IV: Beyond the Sword",2007-07-23,86,8.6
+"13","Worldwide Soccer Manager 2008",2007-10-23,86,8
+"14","The Lord of the Rings Online: Shadows of Angmar",2007-04-24,86,8.1
+"15","IL-2 Sturmovik: 1946",2007-03-13,86,8.8
+"16","The Elder Scrolls IV: Shivering Isles",2007-03-26,86,8.4
+"17","Command & Conquer 3: Tiberium Wars",2007-03-26,85,8
+"18","Medieval II: Total War Kingdoms",2007-08-28,85,8.8
+"19","Puzzle Quest: Challenge of the Warlords",2007-10-10,84,8.3
+"20","DiRT",2007-06-19,84,7.3
+"21","Enemy Territory: Quake Wars",2007-10-02,84,8.3
+"22","Unreal Tournament III",2007-11-19,83,8
+"23","Tomb Raider: Anniversary",2007-06-05,83,8
+"24","RACE 07: Official WTCC Game",2007-10-09,83,9
+"25","EverQuest II: Rise of Kunark",2007-11-13,83,7.9
+"26","Europa Universalis III",2007-01-23,83,8.4
+"27","Sam & Max Episode 105: Reality 2.0",2007-03-29,82,8.4
+"28","Neverwinter Nights 2: Mask of The Betrayer",2007-10-09,82,8.8
+"29","Aquaria",2007-12-07,82,8.3
+"30","S.T.A.L.K.E.R.: Shadow of Chernobyl",2007-03-20,82,8.4
+"31","Sam & Max Episode 201: Ice Station Santa",2007-11-08,82,8.5
+"32","Flight Simulator X: Acceleration",2007-10-23,82,7.3
+"33","Supreme Commander: Forged Alliance",2007-11-06,81,8.9
+"34","The Witcher",2007-10-30,81,8.8
+"35","Jade Empire: Special Edition",2007-02-26,81,8.2
+"36","Overlord",2007-06-26,81,8.1
+"37","Age of Empires III: The Asian Dynasties",2007-10-23,81,8.5
+"38","Sam & Max Episode 104: Abe Lincoln Must Die!",2007-02-22,80,7.7
+"39","Titan Quest: Immortal Throne",2007-03-05,80,8.7
+"40","Test Drive Unlimited",2007-03-20,79,8.1
+"41","Silent Hunter: Wolves of the Pacific",2007-03-20,79,7
+"42","Sword of the Stars: Born of Blood",2007-06-05,79,8.1
+"43","Sam & Max Episode 106: Bright Side of the Moon",2007-04-26,79,7.3
+"44","Guitar Hero III: Legends of Rock",2007-11-13,79,7.2
+"45","Shadowgrounds Survivor",2007-12-06,79,7.8
+"46","Guild Wars: Eye of the North",2007-08-28,79,8.6
+"47","Nancy Drew: Legend of the Crystal Skull",2007-10-08,79,8.3
+"48","The Sims 2 Seasons",2007-02-27,78,7.3
+"49","Viva Pinata",2007-11-06,78,7.8
+"50","Medal of Honor: Airborne",2007-09-04,78,7.3
+"51","Tabula Rasa",2007-10-30,78,8
+"52","Universe at War: Earth Assault",2007-12-10,77,8.5
+"53","FIFA Soccer 08",2007-10-09,77,6.1
+"54","Stranglehold",2007-09-18,77,7.4
+"55","Battlefield 2142: Northern Strike",2007-03-08,77,8.9
+"56","Battlestations: Midway",2007-01-30,76,7.3
+"57","Tom Clancy's Ghost Recon Advanced Warfighter 2",2007-07-17,76,7.2
+"58","Geometry Wars: Retro Evolved",2007-03-07,76,8.8
+"59","Resident Evil 4",2007-05-15,76,7.4
+"60","City Life: World Edition",2007-02-09,75,8.2
+"61","Sega Rally Revo",2007-11-19,74,7.6
+"62","Baseball Mogul 2008",2007-03-20,74,6.5
+"63","ArmA: Combat Operations",2007-05-04,74,8
+"64","Destination: Treasure Island",2007-08-21,74,7.7
+"65","Sam & Max Episode 103: The Mole, the Mob and the Meatball",2007-01-25,74,8.2
+"66","The Sims 2: Bon Voyage",2007-09-04,74,7.3
+"67","War Front: Turning Point",2007-02-23,73,7.2
+"68","Secrets of the Ark: A Broken Sword Game",2007-02-13,73,6.1
+"69","Penumbra: Overture",2007-05-08,73,7.8
+"70","Nancy Drew: The White Wolf of Icicle Creek",2007-06-07,73,6.4
+"71","The Sims: Life Stories",2007-02-06,72,7.6
+"72","Sherlock Holmes: The Awakened",2007-09-11,72,7.4
+"73","Call of Juarez",2007-06-12,72,7.8
+"74","Blazing Angels 2: Secret Missions of WWII",2007-09-21,72,4.9
+"75","Halo 2",2007-05-31,72,5.5
+"76","UFO: Afterlight",2007-06-11,71,7.6
+"77","Brian Lara International Cricket 2007",2007-03-23,71,8.3
+"78","TimeShift",2007-10-30,71,7.6
+"79","Hellgate: London",2007-10-31,70,6.3
+"80","Thrillville: Off the Rails",2007-10-09,70,3
+"81","Need for Speed: ProStreet",2007-11-13,70,6
+"82","Making History: The Calm and the Storm",2007-03-13,70,8.8
+"83","Top Spin 2",2007-03-16,70,7.2
+"84","Nostradamus: The Last Prophecy",2007-09-30,70,5.9
+"85","Heroes of Might and Magic V: Tribes of the East",2007-10-16,70,8.6
+"86","Rag Doll Kung Fu",2007-02-12,69,5
+"87","FreeStyle Street Basketball",2007-05-15,69,8.4
+"88","Death to Spies",2007-10-16,69,7.7
+"89","Vanguard: Saga of Heroes",2007-01-30,68,7.1
+"90","UFO: Extraterrestrials",2007-05-30,68,6.9
+"91","Galactic Assault: Prisoner of Power",2007-09-12,68,8
+"92","Avencast: Rise of the Mage",2007-11-14,68,7.3
+"93","Championship Manager 2008",2007-11-06,68,6.8
+"94","Alien Shooter: Vengeance",2007-02-16,67,8.3
+"95","Fantasy Wars",2007-11-08,67,8.4
+"96","Shadowrun",2007-05-29,67,6.3
+"97","Kane & Lynch: Dead Men",2007-11-20,67,5.9
+"98","The Sims: Pet Stories",2007-06-19,67,7.8
+"99","Runaway: The Dream of the Turtle",2007-03-14,67,8.1
+"100","Culpa Innata",2007-11-02,66,7.9
+"101","Team Fortress 2",2008-04-08,92,9.1
+"102","Galactic Civilizations II: Twilight of the Arnor",2008-04-30,92,8.4
+"103","World of Warcraft: Wrath of the Lich King",2008-11-13,91,7.5
+"104","Fallout 3",2008-10-28,91,7.9
+"105","World of Goo",2008-10-12,90,8.5
+"106","Portal",2008-04-08,90,9.3
+"107","Grand Theft Auto IV",2008-12-02,90,6.6
+"108","Left 4 Dead",2008-11-18,89,9.2
+"109","Mass Effect",2008-05-28,89,8.6
+"110","GRID",2008-06-03,87,7.8
+"111","Sins of a Solar Empire",2008-02-04,87,8.2
+"112","The Witcher: Enhanced Edition",2008-09-16,86,8.5
+"113","Warhammer Online: Age of Reckoning",2008-09-16,86,7.9
+"114","Dead Space",2008-10-20,86,8
+"115","Bionic Commando Rearmed",2008-08-13,86,7
+"116","Sam & Max Episode 205: What's New, Beelzebub?",2008-04-10,85,7.9
+"117","The Lord of the Rings Online: Mines of Moria",2008-11-17,85,8.2
+"118","Peggle Deluxe",2008-02-19,85,8.1
+"119","Sam & Max Episode 204: Chariots of the Dogs",2008-03-13,85,8.1
+"120","Far Cry 2",2008-10-21,85,5.8
+"121","AudioSurf",2008-02-15,85,8.8
+"122","Spore",2008-09-07,84,5.3
+"123","Crysis Warhead",2008-09-16,84,7.9
+"124","Worldwide Soccer Manager 2009",2008-11-18,83,8.1
+"125","Call of Duty: World at War",2008-11-10,83,7.5
+"126","Spore Creature Creator",2008-06-17,83,8.1
+"127","GTR Evolution",2008-09-01,83,8.2
+"128","Sid Meier's Civilization IV: Colonization",2008-09-22,83,6.7
+"129","Command & Conquer: Red Alert 3",2008-10-28,82,6.8
+"130","Strong Bad's Cool Game for Attractive People Episode 5: 8-Bit Is Enough",2008-12-15,82,7.5
+"131","Prince of Persia",2008-12-09,82,7.2
+"132","Out of the Park Baseball 9",2008-06-01,82,7.4
+"133","Strong Bad's Cool Game for Attractive People Episode 2: Strong Badia the Free",2008-09-15,81,8.2
+"134","Strong Bad's Cool Game for Attractive People Episode 4: Dangeresque 3: The Criminal Projective",2008-11-17,81,8.5
+"135","Age of Conan: Hyborian Adventures",2008-05-20,80,7.3
+"136","Sam & Max Episode 202: Moai Better Blues",2008-01-10,80,7.7
+"137","Pure",2008-09-16,80,7
+"138","Tomb Raider: Underworld",2008-11-18,80,7.7
+"139","Penny Arcade Adventures: Episode Two",2008-11-07,80,7.7
+"140","LEGO Batman: The Videogame",2008-09-23,80,7.8
+"141","Brothers in Arms: Hell's Highway",2008-10-07,79,7.9
+"142","Europa Universalis: Rome - Vae Victis",2008-11-19,79,8.6
+"143","Pro Evolution Soccer 2009",2008-11-12,79,7.4
+"144","Assassin's Creed: Director's Cut Edition",2008-04-08,79,7.5
+"145","Strong Bad's Cool Game for Attractive People Episode 3: Baddest of the Bands",2008-10-27,79,8.1
+"146","Sam & Max Episode 203: Night of the Raving Dead",2008-02-12,79,8.2
+"147","FlatOut: Ultimate Carnage",2008-09-02,79,7.7
+"148","King's Bounty: The Legend",2008-09-23,79,8.6
+"149","LEGO Indiana Jones: The Original Adventures",2008-06-03,78,7.7
+"150","Tom Clancy's Rainbow Six: Vegas 2",2008-04-15,78,7.3
+"151","Devil May Cry 4",2008-07-08,78,8.5
+"152","Penumbra: Black Plague",2008-02-13,78,8.7
+"153","Bejeweled Twist",2008-10-27,78,7.3
+"154","FIFA Soccer 09",2008-10-14,77,6.8
+"155","Command & Conquer 3: Kane's Wrath",2008-03-24,77,8.1
+"156","Penny Arcade Adventures: Episode One",2008-05-21,77,8.3
+"157","Pirates of the Burning Sea",2008-01-21,76,7.6
+"158","Multiwinia: Survival of the Flattest",2008-09-19,76,8.8
+"159","S.T.A.L.K.E.R.: Clear Sky",2008-09-15,75,7.7
+"160","The Sims 2 Apartment Life",2008-08-26,75,7.7
+"161","Savage 2: A Tortured Soul",2008-01-16,75,8.7
+"162","A Vampyre Story",2008-12-02,75,8.5
+"163","Dungeon Runners",2008-07-02,74,5.8
+"164","Puzzlegeddon",2008-11-27,74,8.3
+"165","The Sims 2: FreeTime",2008-02-26,74,7.3
+"166","Europa Universalis: Rome",2008-04-15,73,6.3
+"167","Strong Bad's Cool Game for Attractive People Episode 1: Homestar Ruiner",2008-08-11,73,8
+"168","The Sims: Castaway Stories",2008-01-29,73,7.6
+"169","The Political Machine 2008",2008-06-24,73,6.6
+"170","Frontlines: Fuel of War",2008-02-25,73,6.9
+"171","Warhammer 40,000: Dawn of War - Soulstorm",2008-03-04,73,8.1
+"172","Neverwinter Nights 2: Storm of Zehir",2008-11-18,73,7.2
+"173","X3: Terran Conflict",2008-10-16,73,7.9
+"174","Bully: Scholarship Edition",2008-10-21,72,7.5
+"175","Mount & Blade",2008-09-30,72,8.7
+"176","Crazy Machines 2",2008-06-20,72,7.4
+"177","Roogoo",2008-06-30,72,7.4
+"178","Rail Simulator",2008-01-16,72,6.9
+"179","The Lost Crown: A Ghost-hunting Adventure",2008-03-03,71,7.5
+"180","Sherlock Holmes: Nemesis",2008-04-14,71,7.5
+"181","Sacred 2: Fallen Angel",2008-11-11,71,6.8
+"182","DreamWorks Kung Fu Panda",2008-06-03,71,7.8
+"183","Romance of the Three Kingdoms XI",2008-09-09,70,8.3
+"184","007: Quantum of Solace",2008-11-04,70,6.3
+"185","Overclocked: A History of Violence",2008-04-07,70,7.1
+"186","MySims",2008-10-28,70,6.4
+"187","Lost Planet: Extreme Condition Colonies Edition",2008-05-27,70,7.4
+"188","Mercenaries 2: World in Flames",2008-09-04,70,5.9
+"189","Dracula: Origin",2008-06-02,70,6.5
+"190","Nancy Drew: The Phantom of Venice",2008-07-11,69,6.6
+"191","Rhem 3: The Secret Library",2008-02-28,69,NA
+"192","Jack Keane",2008-04-15,69,7
+"193","FIFA Manager 09",2008-12-19,69,7.1
+"194","Nikopol: Secrets of the Immortals",2008-09-20,68,6
+"195","Buccaneer: The Pursuit of Infamy",2008-12-05,68,6.7
+"196","Sinking Island",2008-08-21,68,7.1
+"197","The Experiment",2008-02-05,68,6.5
+"198","Penumbra: Requiem",2008-08-27,67,5.8
+"199","Rhiannon: Curse of the Four Branches",2008-10-05,67,7.1
+"200","Tank Universal: Challenger Eight",2008-08-21,67,7.6
+"201","Minecraft",2009-05-10,93,7.4
+"202","Batman: Arkham Asylum",2009-09-15,91,8.7
+"203","Street Fighter IV",2009-07-01,91,7.9
+"204","Dragon Age: Origins",2009-11-03,91,8.6
+"205","Empire: Total War",2009-03-03,90,6.9
+"206","Left 4 Dead 2",2009-11-17,89,8.5
+"207","DiRT 2",2009-12-08,89,8.2
+"208","EVE Online: Special Edition",2009-03-10,88,7.7
+"209","Plants vs. Zombies",2009-08-18,87,8.9
+"210","Football Manager 2010",2009-11-03,87,9
+"211","Burnout Paradise: The Ultimate Box",2009-02-05,87,7.5
+"212","Resident Evil 5",2009-09-15,86,7.1
+"213","The Sims 3",2009-06-02,86,7.6
+"214","Call of Duty: Modern Warfare 2",2009-11-10,86,4.2
+"215","The Secret of Monkey Island: Special Edition",2009-07-15,86,9
+"216","Warhammer 40,000: Dawn of War II",2009-02-18,85,8.1
+"217","Machinarium",2009-10-16,85,8.8
+"218","Time Gentlemen, Please!",2009-07-02,84,7.6
+"219","The Lord of the Rings Online: Siege of Mirkwood",2009-12-01,83,7.1
+"220","Out of the Park Baseball 10",2009-06-02,83,8.3
+"221","Need for Speed: Shift",2009-09-15,83,5.8
+"222","Red Faction: Guerrilla",2009-09-15,82,7.5
+"223","Dawn of Discovery",2009-06-17,82,8.8
+"224","Tales of Monkey Island Chapter 3: Lair of the Leviathan",2009-09-29,82,7.9
+"225","Football Manager Live",2009-01-23,82,3.1
+"226","DCS: Black Shark",2009-04-13,82,8.5
+"227","The Sims 3: World Adventures",2009-11-16,81,8
+"228","Tales of Monkey Island Chapter 5: Rise of the Pirate God",2009-12-08,81,8.4
+"229","Borderlands",2009-10-26,81,7.8
+"230","Fallout 3: Broken Steel",2009-05-05,81,7.4
+"231","AaaaaAAaaaAAAaaAAAAaAAAAA!!!: A Reckless Disregard for Gravity",2009-09-03,81,7.2
+"232","Mirror's Edge",2009-01-12,81,8.1
+"233","Defense Grid: The Awakening",2009-07-29,81,8.8
+"234","Osmos",2009-08-18,80,7.6
+"235","The Chronicles of Riddick: Assault on Dark Athena",2009-04-07,80,8
+"236","AI War: Fleet Command",2009-05-14,80,8.3
+"237","Trine",2009-09-11,80,8.2
+"238","Men of War",2009-03-16,80,8.1
+"239","Tales of Monkey Island Chapter 4: The Trial and Execution of Guybrush Threepwood",2009-10-30,80,8.4
+"240","Sins of a Solar Empire: Entrenchment",2009-02-25,80,8.1
+"241","Fallout 3: Point Lookout",2009-06-23,79,7.8
+"242","The Path",2009-03-18,79,7
+"243","Bookworm Adventures: Volume 2",2009-07-30,79,7.6
+"244","Tropico 3",2009-10-20,79,8.2
+"245","Tales of Monkey Island Chapter 1: Launch of the Screaming Narwhal",2009-07-07,79,8.2
+"246","Prototype",2009-06-10,79,7.9
+"247","Free Realms",2009-04-29,79,6.4
+"248","King Arthur: The Role-Playing Wargame",2009-11-24,79,7.9
+"249","Overlord II",2009-06-23,79,8.1
+"250","F.E.A.R. 2: Project Origin",2009-02-10,79,7.8
+"251","Crayon Physics Deluxe",2009-01-07,79,7.6
+"252","Zuma's Revenge!",2009-09-15,78,7.9
+"253","Closure",2009-01-01,78,6.6
+"254","League of Legends",2009-10-27,78,5.5
+"255","Wings of Prey",2009-12-25,78,7.7
+"256","Pro Evolution Soccer 2010",2009-10-23,78,6.9
+"257","Call of Juarez: Bound in Blood",2009-06-30,78,8
+"258","Nancy Drew: The Ransom of the Seven Ships",2009-07-14,78,8.6
+"259","Fallout 3: The Pitt",2009-03-24,78,6.9
+"260","ArmA II",2009-06-26,77,7.5
+"261","Tales of Monkey Island Chapter 2: The Siege of Spinner Cay",2009-08-20,77,7.5
+"262","Hearts of Iron III",2009-08-11,77,7.1
+"263","The Void",2009-12-15,77,8.3
+"264","Rise of Flight: The First Great Air War",2009-06-29,77,7.6
+"265","Risen",2009-10-02,77,8.1
+"266","X-Men Origins: Wolverine",2009-05-01,77,8.1
+"267","Men of War: Red Tide",2009-11-01,77,8.2
+"268","Aion",2009-09-22,76,6.6
+"269","Peggle Nights",2009-03-26,76,8.1
+"270","Operation Flashpoint: Dragon Rising",2009-10-06,76,4.9
+"271","The Saboteur",2009-12-08,76,7.9
+"272","Nancy Drew: Warnings at Waverly Academy",2009-10-13,76,6.7
+"273","Wallace & Gromit's Grand Adventures, Episode 1: Fright of the Bumblebees",2009-03-23,76,7.5
+"274","Demigod",2009-04-14,76,7.9
+"275","FIFA Manager 10",2009-10-30,75,5.5
+"276","Wallace & Gromit's Grand Adventures, Episode 3: Muzzled!",2009-06-15,75,7.5
+"277","BattleForge",2009-03-23,75,7
+"278","And Yet It Moves",2009-04-02,75,6.2
+"279","The Dark Eye: Drakensang",2009-02-23,75,8.6
+"280","Battlestations: Pacific",2009-05-12,74,8.4
+"281","Ghostbusters: The Video Game",2009-06-16,74,7.7
+"282","Wolfenstein",2009-08-18,74,7.2
+"283","Mini Ninjas",2009-09-08,74,8.3
+"284","RACE On",2009-10-05,73,8.2
+"285","Cogs",2009-04-14,73,7.5
+"286","Sherlock Holmes vs. Jack the Ripper",2009-05-26,73,8.1
+"287","Neverwinter Nights 2: Mysteries of Westgate",2009-04-29,73,7.3
+"288","Ceville",2009-09-28,73,8.2
+"289","Gratuitous Space Battles",2009-11-16,72,6.7
+"290","Majesty 2: The Fantasy Kingdom Sim",2009-09-17,72,7.3
+"291","Wallace & Gromit's Grand Adventures, Episode 4: The Bogey Man",2009-07-30,72,7.9
+"292","Grand Ages: Rome",2009-03-17,72,8
+"293","Shattered Horizon",2009-11-04,72,8.1
+"294","Wallace & Gromit's Grand Adventures, Episode 2: The Last Resort",2009-05-05,72,8.6
+"295","Puzzle Quest: Galactrix",2009-02-24,72,6.7
+"296","Section 8",2009-08-25,72,7
+"297","Champions Online",2009-09-01,72,6.2
+"298","World in Conflict: Soviet Assault",2009-03-10,72,8.3
+"299","Saints Row 2",2009-01-05,72,6.8
+"300","Mevo & the Grooveriders",2009-03-20,72,6.2
+"301","Mass Effect 2",2010-01-26,94,8.8
+"302","Starcraft II: Wings of Liberty",2010-07-27,93,8.2
+"303","World of Warcraft: Cataclysm",2010-12-07,90,5.5
+"304","Braid",2010-01-26,90,8.6
+"305","Sid Meier's Civilization V",2010-09-21,90,7.9
+"306","BioShock 2",2010-02-09,88,8
+"307","Battlefield: Bad Company 2",2010-03-02,87,8.3
+"308","Monkey Island 2 Special Edition: LeChuck's Revenge",2010-07-07,87,8.9
+"309","Borderlands: The Secret Armory of General Knoxx",2010-02-25,86,7.2
+"310","Need for Speed: Hot Pursuit",2010-11-16,86,6.7
+"311","Mass Effect 2: Lair of the Shadow Broker",2010-09-07,86,8.6
+"312","Battlefield: Bad Company 2 Vietnam",2010-12-18,86,8
+"313","Assassin's Creed II",2010-03-09,86,6.9
+"314","Football Manager 2011",2010-11-23,85,8.4
+"315","Warhammer 40,000: Dawn of War II - Chaos Rising",2010-03-10,85,8.7
+"316","Fallout: New Vegas",2010-10-19,84,8.6
+"317","Just Cause 2",2010-03-23,84,7.7
+"318","F1 2010",2010-09-21,84,6.6
+"319","Shatter",2010-03-15,84,7.4
+"320","FIFA Soccer 11",2010-09-28,83,7.7
+"321","Sam & Max: The Devil's Playhouse - Episode 2: The Tomb of Sammun-Mak",2010-05-18,83,7.8
+"322","Darksiders",2010-09-22,83,7.7
+"323","Age of Conan: Rise of the Godslayer",2010-05-11,83,8.4
+"324","Torchlight",2010-01-05,83,8
+"325","Tom Clancy's Splinter Cell: Conviction",2010-04-27,83,5.2
+"326","Bejeweled 3",2010-12-07,82,8.1
+"327","Dragon Age: Origins - Awakening",2010-03-16,82,7.8
+"328","Lara Croft and the Guardian of Light",2010-09-28,82,8.1
+"329","Desktop Dungeons",2010-10-17,82,8.2
+"330","Recettear: An Item Shop's Tale",2010-09-10,82,8.6
+"331","King's Bounty: Armored Princess",2010-09-10,82,8.6
+"332","Divinity II: The Dragon Knight Saga",2010-11-05,82,8.2
+"333","VVVVVV",2010-01-11,81,8.1
+"334","Metro 2033",2010-03-16,81,8.1
+"335","Blur",2010-05-25,81,7.4
+"336","Sam & Max: The Devil's Playhouse - Episode 1: The Penal Zone",2010-04-15,81,8.3
+"337","Napoleon: Total War",2010-02-23,81,7.9
+"338","Call of Duty: Black Ops",2010-11-09,81,5.2
+"339","Sam & Max: The Devil's Playhouse - Episode 5: The City That Dares Not Sleep",2010-08-30,81,8
+"340","Toki Tori",2010-01-28,80,7.9
+"341","S.T.A.L.K.E.R.: Call of Pripyat",2010-02-02,80,8.7
+"342","Revenge of the Titans",2010-05-24,79,7.6
+"343","Cart Life",2010-07-29,79,5.9
+"344","Worms Reloaded",2010-08-26,79,6.8
+"345","Puzzle Dimension",2010-06-21,79,7.6
+"346","Split/Second",2010-05-18,79,8.2
+"347","Tropico 3: Absolute Power",2010-05-17,79,7.6
+"348","The Misadventures of P.B. Winterbottom",2010-04-20,79,8.3
+"349","The Settlers 7: Paths to a Kingdom",2010-03-23,79,5.2
+"350","LEGO Harry Potter: Years 1-4",2010-06-29,79,7.8
+"351","Dead Rising 2",2010-09-27,78,6.3
+"352","DeathSpank: Thongs of Virtue",2010-11-30,78,7.8
+"353","Mount & Blade: Warband",2010-03-30,78,8.7
+"354","King's Bounty: Crossworlds",2010-09-17,78,8.6
+"355","Dawn of Discovery: Venice",2010-02-26,78,8.3
+"356","Mafia II",2010-08-23,77,7.9
+"357","DeathSpank",2010-10-25,77,7.9
+"358","Zeno Clash",2010-02-07,77,7.9
+"359","Alien Swarm",2010-07-19,77,8.2
+"360","Supreme Commander 2",2010-03-02,77,6.2
+"361","The Dream Machine",2010-12-14,77,8.7
+"362","Lost Horizon",2010-09-24,77,7.9
+"363","Singularity",2010-06-29,76,7.8
+"364","Heroes of Newerth",2010-05-12,76,7.3
+"365","Plain Sight",2010-04-05,76,7.7
+"366","R.U.S.E.",2010-09-07,76,8.1
+"367","Serious Sam HD: The Second Encounter",2010-04-28,76,8
+"368","Greed Corp",2010-12-10,76,7.1
+"369","Din's Curse",2010-03-31,76,7.6
+"370","Sam & Max: The Devil's Playhouse - Episode 4: Beyond the Alley of the Dolls",2010-07-20,76,8
+"371","Victoria II",2010-08-13,75,8.2
+"372","FIFA Manager 11",2010-11-03,75,5.5
+"373","Prince of Persia: The Forgotten Sands",2010-06-08,75,6.6
+"374","Left 4 Dead 2: The Passing",2010-04-22,75,8.1
+"375","Transformers: War for Cybertron",2010-06-22,75,7.9
+"376","Dark Fall 3: Lost Souls",2010-04-21,75,7.2
+"377","Sam & Max: The Devil's Playhouse - Episode 3: They Stole Max's Brain!",2010-06-22,75,7.4
+"378","Sol Survivor",2010-03-15,75,8.2
+"379","Back to the Future: The Game - Episode I: It's About Time",2010-12-22,74,7.1
+"380","The Sims 3: Late Night Expansion Pack",2010-10-26,74,5.3
+"381","The Sims 3: Ambitions",2010-06-01,74,7.3
+"382","Disney/Pixar Toy Story 3",2010-06-15,73,6.3
+"383","ArmA II: Operation Arrowhead",2010-06-29,73,8.1
+"384","Blood Bowl: Legendary Edition",2010-10-28,73,6.4
+"385","Alpha Protocol",2010-06-01,72,7.5
+"386","Medal of Honor",2010-10-12,72,6.4
+"387","Blood Bowl",2010-01-26,72,6.5
+"388","Divinity II: Ego Draconis",2010-01-06,72,7.7
+"389","Flotilla",2010-02-26,72,7.3
+"390","Poker Night at the Inventory",2010-11-22,71,7
+"391","Europa Universalis III: Divine Wind",2010-12-14,71,8.7
+"392","Jolly Rover",2010-06-07,71,8
+"393","Max & the Magic Marker",2010-02-08,71,5.7
+"394","Mass Effect 2: Kasumi - Stolen Memory",2010-04-06,71,7.3
+"395","The Kings' Crusade",2010-10-08,71,6.9
+"396","Lead and Gold: Gangs of the Wild West",2010-04-08,70,8.4
+"397","Global Agenda",2010-02-01,70,7.9
+"398","Evochron Mercenary",2010-09-17,70,7.8
+"399","Puzzle Agent",2010-06-30,70,6.9
+"400","The Whispered World",2010-04-26,70,7.6
+"401","Portal 2",2011-04-19,95,8.8
+"402","The Elder Scrolls V: Skyrim",2011-11-10,94,8.1
+"403","Batman: Arkham City",2011-11-21,91,8.6
+"404","Deus Ex: Human Revolution",2011-08-23,90,8.5
+"405","Total War: Shogun 2",2011-03-15,90,8.3
+"406","FIFA Soccer 12",2011-09-27,89,7.1
+"407","Battlefield 3",2011-10-25,89,7.5
+"408","LIMBO",2011-08-02,88,8.1
+"409","Assassin's Creed: Brotherhood",2011-03-22,88,8.2
+"410","The Witcher 2: Assassins of Kings",2011-05-17,88,8.5
+"411","Super Meat Boy",2011-04-05,87,8.3
+"412","Dead Space 2",2011-01-25,87,8.3
+"413","Bastion",2011-08-16,86,8.6
+"414","Crysis 2",2011-03-22,86,6.8
+"415","DiRT 3",2011-05-24,86,7
+"416","Battlefield 3: Back to Karkand",2011-12-13,86,7.2
+"417","Amnesia: The Dark Descent",2011-02-17,85,8.6
+"418","Frozen Synapse",2011-05-26,85,7.7
+"419","Star Wars: The Old Republic",2011-12-20,85,5.9
+"420","Saints Row: The Third",2011-11-14,84,8.1
+"421","SpaceChem",2011-03-02,84,8.4
+"422","Super Street Fighter IV: Arcade Edition",2011-07-07,84,7.8
+"423","Football Manager 2012",2011-10-20,84,8
+"424","Unity of Command",2011-11-15,84,7.2
+"425","The Binding of Isaac",2011-09-28,84,8.3
+"426","Trine 2",2011-12-07,84,8.4
+"427","Rift",2011-03-01,84,7.3
+"428","Shift 2: Unleashed",2011-03-29,84,6.1
+"429","Anno 2070",2011-11-17,83,7
+"430","Orcs Must Die!",2011-10-11,83,8.1
+"431","Terraria",2011-05-16,83,8.5
+"432","L.A. Noire: The Complete Edition",2011-11-08,83,7.9
+"433","F1 2011",2011-09-19,83,7.2
+"434","The Book of Unwritten Tales",2011-10-28,82,8.2
+"435","Gemini Rue",2011-02-24,82,8.4
+"436","Dragon Age II",2011-03-08,82,4.5
+"437","Monday Night Combat",2011-01-24,82,7.3
+"438","Bulletstorm",2011-02-21,82,7.7
+"439","Fallout: New Vegas - Old World Blues",2011-07-19,82,7.8
+"440","Rochard",2011-11-15,81,8
+"441","Jamestown: Legend of the Lost Colony",2011-06-08,81,7.5
+"442","TrackMania 2 Canyon",2011-09-14,81,7.7
+"443","Dungeon Defenders",2011-10-18,81,7.3
+"444","Anomaly: Warzone Earth",2011-04-08,80,7.3
+"445","Dead Island",2011-09-05,80,6.8
+"446","Assassin's Creed: Revelations",2011-11-29,80,7.4
+"447","World of Tanks",2011-09-06,80,3.7
+"448","Warhammer 40,000: Dawn of War II - Retribution",2011-02-28,80,7.8
+"449","Panzer Corps",2011-07-11,80,7.5
+"450","Driver: San Francisco",2011-09-27,80,7
+"451","CAPSIZED",2011-04-29,80,7.2
+"452","Runaway: A Twist of Fate",2011-04-21,79,8.2
+"453","Bloodline Champions",2011-01-13,79,8
+"454","Dungeons of Dredmor",2011-07-13,79,7.8
+"455","Rage",2011-10-03,79,5.2
+"456","The Sims 3: Pets",2011-10-18,79,6
+"457","Two Worlds II: Pirates of the Flying Fortress",2011-09-30,78,7.5
+"458","Call of Duty: Modern Warfare 3",2011-11-08,78,2.5
+"459","Tropico 4",2011-08-30,78,7.7
+"460","Sonic Generations",2011-11-03,77,8.3
+"461","Men of War: Assault Squad",2011-06-14,77,8.2
+"462","Section 8: Prejudice",2011-05-04,77,7.8
+"463","Might & Magic: Heroes VI",2011-10-13,77,6
+"464","Pro Evolution Soccer 2012",2011-09-27,77,6.4
+"465","Magic: The Gathering - Duels of the Planeswalkers 2012",2011-06-15,77,5.8
+"466","The Sims Medieval",2011-03-22,77,6
+"467","Hamilton's Great Adventure",2011-05-31,77,7.5
+"468","From Dust",2011-08-17,76,4.9
+"469","Renegade Ops",2011-10-26,76,7.4
+"470","LEGO Star Wars III: The Clone Wars",2011-03-22,76,7.5
+"471","Red Orchestra 2: Heroes of Stalingrad",2011-09-13,76,7.3
+"472","Who's That Flying?!",2011-01-31,76,6.7
+"473","Payday: The Heist",2011-10-20,76,7.8
+"474","Two Worlds II",2011-02-03,76,6.5
+"475","Avadon: The Black Fortress",2011-05-02,75,7.9
+"476","Black Mirror III: Final Fear",2011-04-19,75,7.5
+"477","Red Faction: Armageddon",2011-06-07,75,6.7
+"478","Back to the Future: The Game - Episode V: OUTATIME",2011-06-23,75,7.2
+"479","Atom Zombie Smasher",2011-01-23,75,7.1
+"480","Fable III",2011-05-17,75,5.4
+"481","Alice: Madness Returns",2011-06-14,75,8.4
+"482","Hector: Badge of Carnage - Episode 1: We Negotiate With Terrorists",2011-04-27,75,7.1
+"483","The Next Big Thing",2011-04-21,75,7.9
+"484","Back to the Future: The Game - Episode II: Get Tannen!",2011-02-17,74,7.3
+"485","Edge",2011-08-11,74,7.6
+"486","Space Pirates and Zombies",2011-08-15,74,7.7
+"487","Magicka",2011-02-15,74,7.6
+"488","Warhammer 40,000: Space Marine",2011-09-05,74,7.4
+"489","F.E.A.R. 3",2011-06-21,74,5.9
+"490","Rock of Ages",2011-09-07,74,7.8
+"491","Fortix 2",2011-05-06,74,6.8
+"492","Deus Ex: Human Revolution - The Missing Link",2011-10-18,73,7.3
+"493","Hector: Badge of Carnage - Episode 2: Senseless Acts of Justice",2011-08-25,73,6.7
+"494","LEGO Pirates of the Caribbean: The Video Game",2011-05-24,73,6.6
+"495","The Blackwell Deception",2011-10-12,73,8.5
+"496","Hard Reset",2011-09-13,73,7.3
+"497","Solar 2",2011-06-17,72,7.1
+"498","Serious Sam 3: BFE",2011-11-22,72,8.2
+"499","Blocks That Matter",2011-08-19,72,7.3
+"500","DC Universe Online",2011-01-11,72,6.8
+"501","Dishonored",2012-10-08,91,8.4
+"502","Mark of the Ninja",2012-10-16,91,8
+"503","Guild Wars 2",2012-08-28,90,7.9
+"504","The Walking Dead: A Telltale Games Series",2012-04-24,89,8.7
+"505","The Walking Dead: Episode 5 - No Time Left",2012-11-21,89,8.9
+"506","Borderlands 2",2012-09-17,89,8.2
+"507","XCOM: Enemy Unknown",2012-10-09,89,8.2
+"508","Mass Effect 3",2012-03-06,89,5.5
+"509","Far Cry 3",2012-12-04,88,8.2
+"510","Torchlight II",2012-09-20,88,8.6
+"511","Thirty Flights of Loving",2012-08-20,88,5
+"512","Diablo III",2012-05-15,88,4
+"513","Max Payne 3",2012-05-31,87,7.6
+"514","Battlefield 3: Armored Kill",2012-09-11,87,7.1
+"515","Total War: Shogun 2 - Fall of the Samurai",2012-03-23,86,8.5
+"516","Football Manager 2013",2012-11-01,86,6.8
+"517","Black Mesa",2012-09-14,86,8.9
+"518","FIFA Soccer 13",2012-09-25,86,6.6
+"519","Tribes: Ascend",2012-04-12,86,7.8
+"520","Rayman Origins",2012-03-29,86,8.4
+"521","Hotline Miami",2012-10-23,85,8.5
+"522","Out of the Park Baseball 13",2012-04-09,85,8.2
+"523","Dark Souls: Prepare to Die Edition",2012-08-23,85,7.5
+"524","The Walking Dead: Episode 3 - Long Road Ahead",2012-08-29,85,8.4
+"525","The Walking Dead: Episode 2 - Starved for Help",2012-06-29,84,8.6
+"526","Pinball FX 2",2012-10-27,84,7.9
+"527","PlanetSide 2",2012-11-20,84,7
+"528","FTL: Faster Than Light",2012-09-14,84,8.4
+"529","Orcs Must Die! 2",2012-07-30,83,7.9
+"530","Alan Wake",2012-02-16,83,8
+"531","Superbrothers: Sword & Sworcery EP",2012-04-16,83,6.3
+"532","Counter-Strike: Global Offensive",2012-08-21,83,7.8
+"533","Sins of a Solar Empire: Rebellion",2012-06-12,82,7.8
+"534","Legend of Grimrock",2012-04-11,82,8.1
+"535","Borderlands 2: Mr. Torgue's Campaign of Carnage",2012-11-20,82,7.3
+"536","Crusader Kings II",2012-02-14,82,8.7
+"537","World of Warcraft: Mists of Pandaria",2012-09-25,82,4.8
+"538","The Walking Dead: Episode 1 - A New Day",2012-04-24,82,8.4
+"539","Botanicula",2012-04-19,82,8.3
+"540","To the Moon",2012-09-07,81,8.9
+"541","Darksiders II",2012-08-13,81,7.8
+"542","Lone Survivor",2012-04-23,81,7.2
+"543","Vessel",2012-03-01,81,7.9
+"544","Kingdoms of Amalur: Reckoning",2012-02-07,81,6.6
+"545","Sleeping Dogs",2012-08-13,81,8.2
+"546","Wargame: European Escalation",2012-02-22,81,8.1
+"547","Sid Meier's Civilization V: Gods & Kings",2012-06-18,80,7.7
+"548","Pro Evolution Soccer 2013",2012-09-25,80,6.9
+"549","Assassin's Creed III",2012-11-20,80,6.2
+"550","La-Mulana (Remake)",2012-07-13,80,7.1
+"551","Natural Selection 2",2012-10-30,80,8.4
+"552","Borderlands 2: Captain Scarlett and Her Pirate's Booty",2012-10-16,80,7.4
+"553","The Walking Dead: Episode 4 - Around Every Corner",2012-10-10,80,8.5
+"554","F1 2012",2012-09-18,80,6.9
+"555","Stealth Bastard Deluxe",2012-11-28,80,8.2
+"556","Stacking",2012-03-06,80,7.9
+"557","FLY'N",2012-11-09,80,8.2
+"558","Dustforce",2012-01-17,79,7.9
+"559","Hitman: Absolution",2012-11-19,79,7
+"560","Street Fighter X Tekken",2012-05-11,79,6.4
+"561","Chivalry: Medieval Warfare",2012-10-16,79,7.8
+"562","Rift: Storm Legion",2012-11-13,79,7.8
+"563","Need for Speed: Most Wanted - A Criterion Game",2012-10-30,78,4.4
+"564","Baldur's Gate: Enhanced Edition",2012-11-28,78,6.8
+"565","Transformers: Fall of Cybertron",2012-08-20,78,7.9
+"566","Chaos on Deponia",2012-11-06,78,8.3
+"567","Tropico 4: Modern Times",2012-03-29,78,8
+"568","Elemental: Fallen Enchantress",2012-10-23,78,7.3
+"569","Deadlight",2012-10-25,78,7.3
+"570","Giana Sisters: Twisted Dreams",2012-10-23,77,7.8
+"571","Thomas Was Alone",2012-06-30,77,8.1
+"572","Quantum Conundrum",2012-06-21,77,7.3
+"573","Endless Space",2012-07-04,77,7.4
+"574","Penny Arcade Adventures: Episode Three",2012-06-25,77,7.3
+"575","The Darkness II",2012-02-06,77,7.6
+"576","TERA",2012-05-01,77,6.8
+"577","Magic: The Gathering - Duels of the Planeswalkers 2013",2012-06-20,77,6.8
+"578","Resonance",2012-06-19,76,7.9
+"579","Miasmata",2012-11-28,76,7.7
+"580","Spec Ops: The Line",2012-06-25,76,8.2
+"581","Ys Origin",2012-05-31,76,8.7
+"582","Prototype 2",2012-07-24,76,6.4
+"583","Super Monday Night Combat",2012-04-19,76,3.6
+"584","Dear Esther",2012-02-14,75,6.5
+"585","Tiny & Big: Grandpa's Leftovers",2012-06-19,75,7.4
+"586","Edna & Harvey: Harvey's New Eyes",2012-10-16,75,8.1
+"587","Scribblenauts Unlimited",2012-11-19,75,7.8
+"588","Blacklight: Retribution",2012-04-03,75,7.5
+"589","Iron Brigade",2012-08-13,75,5.2
+"590","The Dark Eye: Chains of Satinav",2012-06-22,75,7.7
+"591","Warp",2012-03-13,75,5.9
+"592","Mass Effect 3: Leviathan",2012-08-28,75,6.6
+"593","Symphony",2012-08-06,75,7.8
+"594","Deponia",2012-08-06,74,8.2
+"595","The Sims 3 Supernatural",2012-09-04,74,6.3
+"596","King's Bounty: Warriors of the North",2012-10-25,74,7
+"597","Incredipede",2012-10-25,74,6.9
+"598","Unmechanical",2012-08-08,74,8.2
+"599","Snapshot",2012-08-30,74,7.3
+"600","The Secret World",2012-07-03,74,8.2
+"601","BioShock Infinite",2013-03-25,94,8.5
+"602","Fez",2013-05-01,91,6.6
+"603","Spelunky",2013-08-08,90,7.2
+"604","Brothers: A Tale of Two Sons",2013-09-03,90,8.5
+"605","Dota 2",2013-07-09,90,6.2
+"606","Rocksmith 2014 Edition",2013-10-22,89,8
+"607","Crusader Kings II: The Old Gods",2013-05-28,88,8.7
+"608","The Stanley Parable",2013-10-17,88,8
+"609","Guacamelee! Gold Edition",2013-08-08,88,7.3
+"610","The Swapper",2013-05-30,87,8.6
+"611","Europa Universalis IV",2013-08-13,87,8.8
+"612","Gone Home",2013-08-15,86,5.4
+"613","Pac-Man Championship Edition DX +",2013-09-24,86,7.3
+"614","Out of the Park Baseball 14",2013-04-15,86,8.5
+"615","Saints Row IV",2013-08-19,86,7.4
+"616","Starcraft II: Heart of the Swarm",2013-03-12,86,7.9
+"617","Tomb Raider",2013-03-04,86,8.5
+"618","XCOM: Enemy Within",2013-11-12,86,8
+"619","Path of Exile",2013-01-25,86,8
+"620","Bit.Trip Presents...Runner2: Future Legend of Rhythm Alien",2013-02-26,85,8.2
+"621","Dust: An Elysian Tail",2013-05-24,85,8.4
+"622","DmC: Devil May Cry",2013-01-24,85,6.8
+"623","The Wolf Among Us: Episode 1 - Faith",2013-10-11,85,9
+"624","Rogue Legacy",2013-06-27,85,7.9
+"625","Football Manager 2014",2013-10-30,85,5.5
+"626","Sid Meier's Civilization V: Brave New World",2013-07-08,85,8.6
+"627","Trials Evolution: Gold Edition",2013-03-21,85,6.7
+"628","Papers, Please",2013-08-08,85,8.5
+"629","Mass Effect 3: Citadel",2013-03-05,84,7.9
+"630","Assassin's Creed IV: Black Flag",2013-11-19,84,7.7
+"631","Gunpoint",2013-06-03,83,8.3
+"632","Final Fantasy XIV Online: A Realm Reborn",2013-08-27,83,6.8
+"633","Card Hunter (2013)",2013-09-12,83,7.9
+"634","Starseed Pilgrim",2013-04-16,83,6.1
+"635","Monaco: What's Yours Is Mine",2013-04-24,83,7.7
+"636","Valdis Story: Abyssal City",2013-10-30,83,8
+"637","Kentucky Route Zero - Act II",2013-05-31,82,8.1
+"638","Tom Clancy's Splinter Cell: Blacklist",2013-08-20,82,7.4
+"639","Sokobond",2013-08-27,82,7.8
+"640","Antichamber",2013-01-31,82,8.2
+"641","Metro: Last Light",2013-05-13,82,8.6
+"642","Rising Storm",2013-05-30,82,8.5
+"643","Battlefield 4",2013-10-29,81,6
+"644","War Thunder",2013-08-15,81,6.6
+"645","Kentucky Route Zero - Act I",2013-01-07,81,7.5
+"646","Castlevania: Lords of Shadow Ultimate Edition",2013-08-27,81,7.4
+"647","The Cat Lady",2013-12-04,81,8.8
+"648","Victoria II: Heart of Darkness",2013-04-16,81,8.8
+"649","Waveform",2013-01-25,81,7.4
+"650","Far Cry 3: Blood Dragon",2013-05-01,81,8.1
+"651","Mortal Kombat Komplete Edition",2013-07-03,81,8.7
+"652","GRID 2",2013-05-27,80,5.7
+"653","Outlast",2013-09-04,80,8.4
+"654","Dishonored: The Brigmore Witches",2013-08-13,80,8.7
+"655","Goodbye Deponia",2013-10-17,80,7.9
+"656","Brutal Legend",2013-02-26,80,7.9
+"657","Dishonored: The Knife of Dunwall",2013-04-16,80,8.2
+"658","Company of Heroes 2",2013-06-25,80,2.1
+"659","The Sims 3: Into the Future",2013-10-22,80,5.4
+"660","Fallen Enchantress: Legendary Heroes",2013-05-22,80,7.7
+"661","Naruto Shippuden: Ultimate Ninja Storm 3 Full Burst",2013-10-24,80,7.9
+"662","Proteus",2013-01-30,80,5.6
+"663","Wargame: AirLand Battle",2013-05-29,80,8.1
+"664","Dungeons & Dragons: Chronicles of Mystara",2013-06-18,80,6.7
+"665","The Walking Dead: Season Two - A Telltale Games Series",2013-12-17,80,8.3
+"666","The Wolf Among Us",2013-10-11,80,8.8
+"667","Euro Truck Simulator 2",2013-01-16,79,8.7
+"668","Payday 2",2013-08-13,79,3.5
+"669","Sang-Froid: Tales of Werewolves",2013-04-05,79,7.9
+"670","Call of Juarez: Gunslinger",2013-05-22,79,8.2
+"671","Memoria",2013-08-29,79,8.2
+"672","Race the Sun",2013-08-19,79,7.4
+"673","Stick it to the Man!",2013-12-13,79,7.2
+"674","Don't Starve",2013-04-23,79,8.3
+"675","TrackMania 2 Valley",2013-07-04,79,8.1
+"676","State of Decay",2013-11-05,79,6.9
+"677","The Walking Dead: Season Two Episode 1 - All That Remains",2013-12-17,78,8.5
+"678","Teleglitch: Die More Edition",2013-07-24,78,7
+"679","LEGO Marvel Super Heroes",2013-10-22,78,8.1
+"680","Dead Space 3",2013-02-05,78,6
+"681","Baldur's Gate II: Enhanced Edition",2013-11-15,78,7.3
+"682","Samurai Gunn",2013-12-10,78,7.8
+"683","The Walking Dead: 400 Days",2013-07-03,78,7.6
+"684","Battlefield 3: End Game",2013-03-26,78,7.4
+"685","F1 2013",2013-10-03,77,6.3
+"686","Expeditions: Conquistador",2013-05-30,77,8.2
+"687","Element4l",2013-05-24,77,7.7
+"688","Anomaly 2",2013-05-15,77,7.9
+"689","Teslagrad",2013-12-13,77,7.9
+"690","Eldritch",2013-10-21,77,6.8
+"691","Sanctum 2",2013-05-15,77,7.6
+"692","Magic: Duels of the Planeswalkers 2014",2013-06-26,77,6.1
+"693","Ace Combat Assault Horizon: Enhanced Edition",2013-01-24,77,5.9
+"694","Resident Evil: Revelations",2013-05-20,77,7.1
+"695","Angry Video Game Nerd Adventures",2013-09-20,77,7.5
+"696","Crusader Kings II: Sons of Abraham",2013-11-18,77,7.8
+"697","Cognition: An Erica Reed Thriller Episode 3 - The Oracle",2013-06-30,77,7.5
+"698","Risk of Rain",2013-11-08,77,8.1
+"699","Toki Tori 2 +",2013-07-11,76,7.6
+"700","SteamWorld Dig",2013-12-05,76,7
+"701","Kentucky Route Zero - Act III",2014-05-06,91,6.6
+"702","Dark Souls II",2014-04-25,91,7.1
+"703","Out of the Park Baseball 15",2014-04-21,89,7.1
+"704","Hearthstone: Heroes of Warcraft",2014-03-11,88,6.3
+"705","Steins;Gate",2014-03-31,87,8.7
+"706","Year Walk",2014-03-06,87,7
+"707","TowerFall Ascension",2014-03-11,87,6.6
+"708","Diablo III: Reaper of Souls",2014-03-25,87,6.6
+"709","Divinity: Original Sin",2014-01-17,87,8.7
+"710","World of Warcraft: Warlords of Draenor",2014-11-13,87,5.9
+"711","Astebreed",2014-05-30,86,7.3
+"712","The Binding of Isaac: Rebirth",2014-11-04,86,8.2
+"713","Titanfall",2014-03-11,86,6.2
+"714","The Talos Principle",2014-12-11,85,8.5
+"715","Legend of Grimrock II",2014-10-15,85,8.1
+"716","Dragon Age: Inquisition",2014-11-18,85,5.9
+"717","South Park: The Stick of Truth",2014-03-04,85,8.6
+"718","Shovel Knight",2014-06-26,85,7.9
+"719","Assetto Corsa",2014-12-19,85,8.3
+"720","Valkyria Chronicles",2014-11-11,85,8.2
+"721","BattleBlock Theater",2014-05-15,85,7.9
+"722","Middle-earth: Shadow of Mordor",2014-09-30,84,8
+"723","Hearthstone: Goblins Vs. Gnomes",2014-12-08,84,6.4
+"724","Tales From The Borderlands: Episode 1 - Zer0 Sum",2014-11-25,84,8.5
+"725","Metro Redux",2014-08-26,84,8
+"726","Europa Universalis IV: Wealth of Nations",2014-05-29,84,8.4
+"727","The Wolf Among Us: Episode 5 - Cry Wolf",2014-07-08,84,8.8
+"728","Ultimate General: Gettysburg",2014-10-16,84,8
+"729","SMITE",2014-03-25,83,8.2
+"730","The Blackwell Epiphany",2014-04-24,83,7.6
+"731","This War of Mine",2014-11-14,83,8.3
+"732","Metal Gear Rising: Revengeance",2014-01-09,83,7.9
+"733","Transistor",2014-05-20,83,8.3
+"734","Door Kickers",2014-10-20,83,7.9
+"735","Outland",2014-09-29,83,7.2
+"736","Dark Souls II: Crown of the Ivory King",2014-09-29,82,8.1
+"737","Endless Legend",2014-04-24,82,7.9
+"738","Kero Blaster",2014-05-11,82,7.1
+"739","The Wolf Among Us: Episode 3 - A Crooked Mile",2014-04-08,82,8.6
+"740","FIFA 15",2014-09-23,82,4.2
+"741","ETHER One",2014-03-25,82,6.9
+"742","The Vanishing of Ethan Carter",2014-09-25,82,8.1
+"743","Age of Wonders III - Golden Realms",2014-09-18,82,8.6
+"744","Dark Souls II: Crown of the Sunken King",2014-07-22,82,7.4
+"745","Lethal League",2014-08-27,82,7.5
+"746","Pro Evolution Soccer 2015",2014-11-13,82,5.8
+"747","WildStar",2014-06-03,82,7.4
+"748","Broken Age: Act 1",2014-01-28,82,7.7
+"749","Nidhogg",2014-01-13,81,6.6
+"750","Sunless Sea",2014-07-01,81,7.5
+"751","The Walking Dead: Season Two Episode 3 - In Harm's Way",2014-05-13,81,8.3
+"752","Marvel Heroes 2015",2014-06-04,81,7.9
+"753","Wolfenstein: The New Order",2014-05-19,81,8.1
+"754","Alien: Isolation",2014-10-06,81,8.4
+"755","Company of Heroes 2: Ardennes Assault",2014-11-17,81,6.1
+"756","The Walking Dead: Season Two Episode 2 - A House Divided",2014-03-04,81,8.5
+"757","DG2: Defense Grid 2",2014-09-23,81,6.7
+"758","Sid Meier's Civilization: Beyond Earth",2014-10-24,81,5.5
+"759","Wasteland 2",2014-09-19,81,7.3
+"760","Shadowrun: Dragonfall",2014-02-27,81,8.3
+"761","Europa Universalis IV: Conquest of Paradise",2014-01-14,81,7.7
+"762","Company of Heroes 2: The Western Front Armies",2014-06-23,80,6.8
+"763","Metal Gear Solid V: Ground Zeroes",2014-12-18,80,7.7
+"764","Trials Fusion",2014-04-16,80,6.8
+"765","The Banner Saga",2014-01-14,80,7.9
+"766","Elite: Dangerous",2014-12-16,80,6.4
+"767","Icewind Dale: Enhanced Edition",2014-10-30,80,7.3
+"768","Far Cry 4",2014-11-18,80,6.7
+"769","Super Time Force Ultra",2014-08-25,80,6.5
+"770","Luftrausers",2014-03-18,80,6.8
+"771","Age of Wonders III",2014-03-31,80,7.8
+"772","Football Manager 2015",2014-11-07,80,6.1
+"773","BioShock Infinite: Burial at Sea - Episode Two",2014-03-25,80,8.4
+"774","ArcheAge",2014-09-16,80,3.6
+"775","Dungeon of the Endless",2014-10-27,79,8
+"776","Valiant Hearts: The Great War",2014-06-25,79,8.5
+"777","Geometry Wars 3: Dimensions",2014-11-25,79,6.2
+"778","Resident Evil 4: Ultimate HD Edition",2014-02-27,79,7.8
+"779","The Last Door",2014-05-20,79,7.5
+"780","Dark Souls II: Crown of the Old Iron King",2014-08-26,79,7.6
+"781","The Journey Down: Chapter Two",2014-08-25,78,7.1
+"782","DeadCore",2014-10-17,78,6.8
+"783","The Walking Dead: Season Two Episode 5 - No Going Back",2014-08-26,78,8.5
+"784","Call of Duty: Advanced Warfare",2014-11-03,78,4.5
+"785","LISA",2014-12-15,78,8.6
+"786","OlliOlli",2014-07-22,78,6.7
+"787","Strider",2014-02-19,78,7.3
+"788","So Many Me",2014-07-17,78,7
+"789","GRID Autosport",2014-06-26,78,6.2
+"790","The Walking Dead: Season Two Episode 4 - Amid the Ruins",2014-07-22,78,8
+"791","Hearthstone: Curse of Naxxramas",2014-07-22,78,6.5
+"792","Plants vs Zombies: Garden Warfare",2014-06-24,78,7.8
+"793","Wargame: Red Dragon",2014-04-17,78,8
+"794","Joe Dever's Lone Wolf HD Remastered",2014-11-27,78,6.8
+"795","Five Nights at Freddy's",2014-08-19,78,7
+"796","Sherlock Holmes: Crimes & Punishments",2014-09-30,77,7.7
+"797","Mini Metro",2014-08-11,77,8
+"798","The Incredible Adventures of Van Helsing II",2014-05-22,77,7.6
+"799","NEO Scavenger",2014-12-15,77,7.8
+"800","Child of Light",2014-04-30,77,8.1
+"801","Grand Theft Auto V",2015-04-14,96,7.9
+"802","The Witcher 3: Wild Hunt",2015-05-18,93,9.3
+"803","Undertale",2015-09-15,92,7.9
+"804","Metal Gear Solid V: The Phantom Pain",2015-09-01,91,7.7
+"805","The Witcher 3: Wild Hunt - Hearts of Stone",2015-10-13,89,8.9
+"806","Pillars of Eternity",2015-03-26,89,8.3
+"807","Nuclear Throne",2015-12-05,88,7.6
+"808","Kerbal Space Program",2015-04-27,88,8.2
+"809","Starcraft II: Legacy of the Void",2015-11-10,88,8.3
+"810","Ori and the Blind Forest",2015-03-11,88,8.7
+"811","Oddworld: Abe's Oddysee - New 'n' Tasty",2015-02-25,87,7.8
+"812","Crypt of the NecroDancer",2015-04-23,87,7.7
+"813","Tales From The Borderlands: Episode 5 - The Vault of the Traveler",2015-10-20,86,8.7
+"814","Final Fantasy XIV: Heavensward",2015-06-23,86,7.7
+"815","Her Story",2015-06-24,86,5.8
+"816","Homeworld Remastered Collection",2015-02-25,86,8.2
+"817","Heroes of the Storm",2015-06-02,86,6.6
+"818","DiRT Rally",2015-12-07,86,8.7
+"819","Rocket League",2015-07-05,86,8.2
+"820","Cities: Skylines",2015-03-10,85,8.9
+"821","Tales from the Borderlands: A Telltale Game Series",2015-10-20,85,8.4
+"822","The Binding of Isaac: Afterbirth",2015-10-30,85,8.1
+"823","Chaos Reborn",2015-10-26,85,8.3
+"824","Zenzizenzic",2015-07-23,85,6.1
+"825","Mega Man Legacy Collection",2015-08-25,85,7.3
+"826","System Shock: Enhanced Edition",2015-09-22,85,8.1
+"827","80 Days (2015)",2015-09-29,84,6.5
+"828","Hearthstone: The Grand Tournament",2015-08-24,84,4.1
+"829","SOMA",2015-09-22,84,8.3
+"830","Grim Fandango Remastered",2015-01-27,84,8
+"831","Fallout 4",2015-11-09,84,5.4
+"832","Life is Strange",2015-10-20,83,8.6
+"833","Project CARS",2015-05-06,83,7
+"834","Helldivers",2015-12-07,83,6.8
+"835","Life is Strange: Episode 5 - Polarized",2015-10-20,83,8.4
+"836","BROFORCE",2015-10-15,83,8
+"837","Invisible, Inc.",2015-05-12,82,7.9
+"838","Hearthstone: Blackrock Mountain",2015-04-02,82,6.1
+"839","Hacknet",2015-08-12,82,7.6
+"840","The Talos Principle: Road To Gehenna",2015-07-23,82,7.6
+"841","King's Quest Chapter 1: A Knight to Remember",2015-07-28,82,7.2
+"842","Technobabylon",2015-05-21,82,7.9
+"843","Resident Evil HD Remaster",2015-01-20,82,8.2
+"844","OlliOlli2: Welcome to Olliwood",2015-08-11,82,5.4
+"845","Shadowrun: Hong Kong",2015-08-20,81,7.7
+"846","Football Manager 2016",2015-11-13,81,7
+"847","Downwell",2015-10-15,81,6.2
+"848","Tales From The Borderlands: Episode 3 - Catch A Ride",2015-06-23,81,8.4
+"849","Guild Wars 2: Heart of Thorns",2015-10-23,81,7.2
+"850","The Age of Decadence",2015-10-15,81,7.9
+"851","Galactic Civilizations III",2015-05-14,81,6.5
+"852","Order of Battle: Pacific",2015-04-30,81,5.4
+"853","World of Warships",2015-09-17,81,6.4
+"854","FIFA 16",2015-09-22,81,4.4
+"855","The Book of Unwritten Tales 2",2015-02-20,80,7.6
+"856","Lovers in a Dangerous Spacetime",2015-09-09,80,6.7
+"857","Westerado: Double Barreled",2015-04-16,80,7.3
+"858","Volume",2015-08-18,80,7.3
+"859","Age of Wonders III - Eternal Lords",2015-04-14,80,8.4
+"860","Dariusburst: Chronicle Saviours",2015-12-03,80,8.4
+"861","Grandia II Anniversary Edition",2015-08-24,80,7.9
+"862","Dropsy",2015-09-10,80,7.1
+"863","Company of Heroes 2: The British Forces",2015-09-03,80,5.9
+"864","Read Only Memories",2015-10-05,80,6.9
+"865","Dark Souls II: Scholar of the First Sin",2015-04-01,80,7.3
+"866","Life is Strange: Episode 3 - Chaos Theory",2015-05-19,80,9
+"867","The Legend of Heroes: Trails in the Sky SC",2015-10-29,80,8.6
+"868","Total War: Attila",2015-02-17,80,7.3
+"869","The Magic Circle",2015-07-09,79,7.4
+"870","Stasis",2015-08-31,79,7.7
+"871","Warhammer: End Times - Vermintide",2015-10-23,79,7.9
+"872","Else Heart.Break()",2015-09-24,79,7.4
+"873","Cities: Skylines - After Dark",2015-09-24,79,7.8
+"874","Jotun",2015-09-29,79,7.2
+"875","The Incredible Adventures of Van Helsing: Final Cut",2015-10-07,79,7.4
+"876","Sid Meier's Civilization: Beyond Earth - Rising Tide",2015-10-09,79,6
+"877","Tales From The Borderlands: Episode 4 - Escape Plan Bravo",2015-08-18,79,8.4
+"878","Frozen Cortex",2015-02-19,79,6.5
+"879","Assault Android Cactus",2015-09-23,79,7
+"880","Tom Clancy's Rainbow Six Siege",2015-12-01,79,7
+"881","Apotheon",2015-02-03,78,7.8
+"882","Human Resource Machine",2015-10-15,78,8
+"883","Mushroom 11",2015-10-15,78,6.9
+"884","Hand of Fate",2015-02-17,78,7.9
+"885","Avernum 2: Crystal Souls",2015-01-14,78,8.2
+"886","Galak-Z: The Dimensional",2015-10-29,78,6.3
+"887","AR-K Episode 3: The Great Escape",2015-07-14,78,8.2
+"888","Tales From The Borderlands: Episode 2 - Atlas Mugged",2015-03-17,78,8.6
+"889","Deathtrap",2015-02-04,77,7.9
+"890","Republique: Episode 1 - Exordium",2015-02-25,77,7.4
+"891","Life is Strange: Episode 1 - Chrysalis",2015-01-30,77,8.5
+"892","Life is Strange: Episode 2 - Out of Time",2015-03-24,77,8.7
+"893","Game of Thrones: Episode Three - The Sword in the Darkness",2015-03-24,77,7.8
+"894","Magic Duels: Origins",2015-07-29,77,6
+"895","Stealth Inc 2: A Game of Clones",2015-04-30,77,6.2
+"896","Dragon Age: Inquisition - Trespasser",2015-09-09,77,7.6
+"897","Evolve",2015-02-09,77,4.3
+"898","Grey Goo",2015-01-23,77,7.6
+"899","Aviary Attorney",2015-12-18,77,7.4
+"900","Three Fourths Home",2015-03-20,77,5.5
+"901","Out of the Park Baseball 17",2016-03-22,92,3.5
+"902","The Witcher 3: Wild Hunt - Blood and Wine",2016-05-30,92,9.1
+"903","Overwatch",2016-05-23,91,6.8
+"904","Stephen's Sausage Roll",2016-04-18,90,5.6
+"905","Kentucky Route Zero - Act IV",2016-07-20,90,6
+"906","Dark Souls III",2016-04-11,89,8.6
+"907","Stardew Valley",2016-02-26,88,8.5
+"908","Ori and the Blind Forest: Definitive Edition",2016-04-27,88,8.7
+"909","Owlboy",2016-11-01,88,7.1
+"910","XCOM 2",2016-02-05,88,7.1
+"911","Sid Meier's Civilization VI",2016-10-21,88,7.2
+"912","Battlefield 1",2016-10-21,88,7.5
+"913","World of Warcraft: Legion",2016-08-30,88,7.4
+"914","The Witness",2016-01-26,87,6.6
+"915","INSIDE",2016-07-07,87,8.5
+"916","Hex: Shards of Fate",2016-01-26,87,6.4
+"917","Forza Horizon 3",2016-09-27,86,6.2
+"918","Rise of the Tomb Raider",2016-01-28,86,7.9
+"919","Total War: WARHAMMER",2016-05-24,86,7.3
+"920","Dishonored 2",2016-11-10,86,6.2
+"921","Thumper",2016-10-10,86,7.6
+"922","Chime Sharp",2016-07-19,86,7.8
+"923","F1 2016",2016-08-19,86,8
+"924","Pony Island",2016-01-04,86,7.1
+"925","Gears of War 4",2016-10-11,86,6.8
+"926","Titanfall 2",2016-10-28,86,8.1
+"927","Day of the Tentacle Remastered",2016-03-21,86,7.9
+"928","Hearthstone: Whispers of the Old Gods",2016-04-26,85,5.5
+"929","BlazBlue: Chrono Phantasma Extend",2016-03-02,85,7.7
+"930","DOOM",2016-05-13,85,8.3
+"931","Candle",2016-11-11,84,7.7
+"932","Darkest Dungeon",2016-01-19,84,7.8
+"933","The Last Door: Season 2",2016-03-29,84,6.6
+"934","Planet Coaster",2016-11-17,84,7
+"935","Shadow Tactics: Blades of the Shogun",2016-12-06,84,8.1
+"936","Enter the Gungeon",2016-04-05,84,7.6
+"937","Hitman - Episode 2: Sapienza",2016-04-26,84,5.7
+"938","Final Fantasy IX",2016-04-14,84,8.3
+"939","Hyper Light Drifter",2016-03-31,84,8.2
+"940","FIFA 17",2016-09-27,84,4.2
+"941","SpeedRunners",2016-04-19,84,8.2
+"942","Grim Dawn",2016-02-25,83,8.4
+"943","Final Fantasy X / X-2 HD Remaster",2016-05-12,83,8.4
+"944","Hearts of Iron IV",2016-06-06,83,6.9
+"945","Devil Daggers",2016-02-18,83,7.1
+"946","Danganronpa: Trigger Happy Havoc",2016-02-18,83,8.1
+"947","Deus Ex: Mankind Divided",2016-08-23,83,6.2
+"948","ABZU",2016-08-02,83,6.5
+"949","Hitman",2016-10-31,83,7.4
+"950","Duskers",2016-05-18,83,6.9
+"951","The Walking Dead: The Telltale Series - A New Frontier Episode 1: Ties That Bind Part One",2016-12-20,82,7.1
+"952","The Banner Saga 2",2016-04-19,82,8.1
+"953","SUPERHOT",2016-02-25,82,7.4
+"954","VIDEOBALL",2016-07-12,82,NA
+"955","Duelyst",2016-05-03,82,8
+"956","The Walking Dead: The Telltale Series - A New Frontier Episode 2: Ties That Bind Part Two",2016-12-20,82,7.5
+"957","Starbound",2016-07-22,81,7
+"958","Quadrilateral Cowboy",2016-07-25,81,7.5
+"959","Unravel",2016-02-09,81,8
+"960","SteamWorld Heist",2016-06-07,81,7.8
+"961","Firewatch",2016-02-09,81,7.3
+"962","Zombie Night Terror",2016-07-20,81,7.9
+"963","Dragon's Dogma: Dark Arisen",2016-01-15,81,8.2
+"964","The Bug Butcher",2016-01-19,81,8.2
+"965","Nelly Cootalot: The Fowl Fleet",2016-03-22,81,7.9
+"966","Overcooked",2016-08-03,81,7.6
+"967","Motorsport Manager",2016-11-09,81,8.4
+"968","Redout",2016-09-02,81,8.2
+"969","Atlas Reactor",2016-10-04,81,8.4
+"970","Tyranny",2016-11-10,80,7.8
+"971","Leap of Fate",2016-03-30,80,7.4
+"972","Oxenfree",2016-01-15,80,7.7
+"973","Football Manager 2017",2016-11-04,80,4.3
+"974","Cities: Skylines - Natural Disasters",2016-11-29,80,6.5
+"975","BioShock: The Collection",2016-09-16,80,6.3
+"976","Samorost 3",2016-03-24,80,8.1
+"977","Ghost 1.0",2016-06-07,80,7.8
+"978","1979 Revolution: Black Friday",2016-04-05,80,7.7
+"979","Fractured Space",2016-09-22,79,8.6
+"980","Fallout 4: Far Harbor",2016-05-19,79,6.6
+"981","Goetia",2016-04-14,79,7.8
+"982","Dying Light: The Following",2016-02-09,79,8.3
+"983","Tom Clancy's The Division",2016-03-08,79,5.8
+"984","Kelvin and the Infamous Machine",2016-07-21,79,7.9
+"985","Offworld Trading Company",2016-04-28,79,7.3
+"986","Pillars of Eternity: The White March - Part 2",2016-02-16,79,7
+"987","Trackmania Turbo",2016-03-24,79,6.8
+"988","Hitman - Episode 3: Marrakesh",2016-05-31,79,5.3
+"989","Anarcute",2016-07-12,79,7.2
+"990","Homeworld: Deserts of Kharak",2016-01-20,79,8.1
+"991","Hue",2016-08-30,79,7.6
+"992","The Metronomicon",2016-09-01,79,7.2
+"993","Obliteracers",2016-02-23,78,7.4
+"994","Shadow Warrior 2",2016-10-13,78,8.4
+"995","DeathSmiles",2016-03-10,78,7.4
+"996","The Sims 4: City Living",2016-11-01,78,6.3
+"997","Stellaris",2016-05-09,78,8
+"998","Xanadu Next",2016-11-03,78,7.2
+"999","Zero Escape: Zero Time Dilemma",2016-06-29,78,8.6
+"1000","That Dragon, Cancer",2016-01-12,78,5.9
