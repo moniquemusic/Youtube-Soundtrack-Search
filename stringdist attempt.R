@@ -8,13 +8,15 @@ title_number<- c(1:50)
 term_lengthh <- c(8:12)
 #range of where the term can start
 term_startt <- c(1:20)
+term_startt2 <- c(1:20)
 #create a blank master list where the top 5 terms for each game will be stored into
 #key_terms<-c()
 #key_terms_2<-c()
 #key_terms_3<- c()
 num_terms_per_game<- c(1:5)
 
-
+#gg_games<-c(1: ncol(titles_df))
+gg_games<-c(1)
 
 for(gg_g in gg_games){
   #each game will deal different terms, so create a blank list for matching term to be stored into
@@ -38,6 +40,7 @@ for(gg_g in gg_games){
     
     for(lengthh in term_lengthh){
       
+      lengthh2 <- lengthh
       #create the first term, and call it test1
       for(startt in term_startt){
         
