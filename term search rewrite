@@ -1,0 +1,94 @@
+title_number <- c(1:50)
+#terms should be made from segment that are 8 to 12 characters long
+term_lengthh <- c(8:12)
+#terms will be created with segments that start from the 1st to the 20th character in the video title
+term_startt <- c(1:20)
+term_startt2 <- c(1:20)
+
+#create an empty list to store all the best segments into
+best_segments<-c()
+
+#for-loop to create a bunch of segments per game
+for(gg_g in gg_games){
+  gg2<- gg_g
+  
+  segment_collection <- c()
+  num_of_exact_matches<- c()
+  
+  #chop all video titles from a game into segments of different lengths and start points
+  #store all created segments into segment_collection
+  for(title in title_number){
+    title2<- title
+    
+    for(startt in term_startt){
+      startt2<- startt
+      for(lengthh in term_lengthh){
+        segment<-substr(titles2_df[,gg2][title2], start=startt, stop=(startt2 + lengthh))
+        segment_collection <- append(segment_collection, segment)
+      }
+    }
+  }
+
+  
+    
+  zero_nchar_segment_spots<- grep(0, nchar(segment_collection))
+  segment_collection<- segment_collection[-zero_nchar_segment_spots]
+    
+  #store the segments minus the repeats into another list
+  #this is the list from where the segments will be tested from
+  unique_segment_collection<- unique(segment_collection)
+  
+  #create an empty list to store bad segments into
+  bad_segment_spots <- c()
+  
+  #test segments to see if they are too common of a term
+  for(segment in unique_segment_collection){
+    
+    #create a temporary dataframe that does not include the game that is being tested
+    temp_titles_df<- titles2_df[-gg2]
+    
+    #create a list of video games from the temporary dataframe
+    all_games2 <- unlist(colnames(temp_titles_df))
+    
+    #create a list of all video titles from the temporary dataframe
+    all_titles3<- unlist(temp_titles_df[,1:ncol(temp_titles_df)])
+    
+    #store terms that result in no FALSEs from grepl into bad_segment_spot
+    #aka: remove terms that 
+    if(is.na(table(grepl(segment, all_titles3))["FALSE"]) == TRUE){
+      bad_segment_spots<- append(bad_segment_spots, grep(segment, unique_segment_collection))
+    }
+    #if the term that results in some FALSEs and some TRUES
+    #aka: grepl doesn't is.na for TRUEs in the grepl result
+    if(is.na(table(grepl(segment, all_titles3))["TRUE"]) != TRUE){
+      #store terms that result in TRUE 50 or more times
+      if(table(grepl(segment, all_titles3))["TRUE"] >= 50){
+        bad_segment_spots<- append(bad_segment_spots, grep(segment, unique_segment_collection))
+      }
+    }
+  }
+  
+  #remove too common segments
+  best_segment_collection<- unique_segment_collection[-bad_segment_spots]
+  
+
+  num_of_segments<- c(1:length(best_segment_collection))
+  
+  #for-loop to test each segment against the segment_collection for the number of times a direct or close match appears
+  for(num in num_of_segments){
+    match_distance <-stringdist(best_segment_collection[num], segment_collection)
+    
+    num_of_exact_matches<- append(num_of_exact_matches, table(match_distance == 1)["TRUE"])
+  }
+
+  best_matches<- unique(sort(num_of_exact_matches, decreasing = TRUE)[1:5])
+  
+  segment_spots <- c()
+  
+  for(best in best_matches){
+    spot<- grep(best, num_of_exact_matches)
+    segment_spots<- append(segment_spots, spot)
+  }
+  best_segments<- append(best_segments, best_segment_collection[segment_spots[1:5]])
+  print(colnames(titles2_df[gg2]))
+}
