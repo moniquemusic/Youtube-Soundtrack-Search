@@ -1,977 +1,930 @@
 all_game_titles,all_game_dates,all_game_scores,all_game_user_ratings,video_num,total_views,total_likes,total_dislikes,total_favorites,total_comments
-The Orange Box,2007-10-10,96,9.3,4,1712,25,1,0,6
-BioShock,2007-08-21,96,8.5,29,694556,14025,131,0,2612
-Call of Duty 4: Modern Warfare,2007-11-05,92,8.5,45,5905392,80654,2789,0,12000
-Crysis,2007-11-13,91,8,44,1404677,10115,251,0,2420
-World of Warcraft: The Burning Crusade,2007-01-16,91,7.9,36,1068123,6903,86,0,1441
-Half-Life 2: Episode Two,2007-10-10,90,9.2,44,181680,3268,128,0,436
-World in Conflict,2007-09-18,89,8.1,41,141580,1150,26,0,315
-Company of Heroes: Opposing Fronts,2007-09-24,87,8.6,47,357129,2655,72,0,775
-Gears of War,2007-11-06,87,7.8,36,454312,4327,156,0,802
-Supreme Commander,2007-02-20,86,8.3,48,317830,2759,154,0,965
-Sid Meier's Civilization IV: Beyond the Sword,2007-07-23,86,8.6,40,134033,1002,55,0,310
-The Lord of the Rings Online: Shadows of Angmar,2007-04-24,86,8.1,26,244791,664,41,0,417
-IL-2 Sturmovik: 1946,2007-03-13,86,8.8,23,108453,1477,38,0,594
-The Elder Scrolls IV: Shivering Isles,2007-03-26,86,8.4,37,1218750,21342,550,0,19740
-Command & Conquer 3: Tiberium Wars,2007-03-26,85,8,9,880589,4788,310,0,699
-Medieval II: Total War Kingdoms,2007-08-28,85,8.8,33,1571841,12244,283,0,3538
-Puzzle Quest: Challenge of the Warlords,2007-10-10,84,8.3,27,153151,302,47,0,63
-DiRT,2007-06-19,84,7.3,4,411251,1430,34,0,106
-Enemy Territory: Quake Wars,2007-10-02,84,8.3,1,808,3,0,0,0
-Unreal Tournament III,2007-11-19,83,8,35,2156511,12229,264,0,4134
-Tomb Raider: Anniversary,2007-06-05,83,8,48,1864078,13611,386,0,2968
-RACE 07: Official WTCC Game,2007-10-09,83,9,1,175,3,0,0,0
-EverQuest II: Rise of Kunark,2007-11-13,83,7.9,4,2547,43,0,0,21
-Europa Universalis III,2007-01-23,83,8.4,37,112559,1657,26,0,586
-Sam & Max Episode 105: Reality 2.0,2007-03-29,82,8.4,9,3251696,2445,916,0,422
-Neverwinter Nights 2: Mask of The Betrayer,2007-10-09,82,8.8,36,76026,537,18,0,170
-Aquaria,2007-12-07,82,8.3,41,4752889,10607,1126,0,1070
-S.T.A.L.K.E.R.: Shadow of Chernobyl,2007-03-20,82,8.4,49,1252513,36457,338,0,4029
-Sam & Max Episode 201: Ice Station Santa,2007-11-08,82,8.5,5,5751165,3879,1750,0,449
-Flight Simulator X: Acceleration,2007-10-23,82,7.3,25,296359,2602,197,0,791
-Supreme Commander: Forged Alliance,2007-11-06,81,8.9,48,138262,1763,63,0,784
-The Witcher,2007-10-30,81,8.8,40,3898927,37240,358,0,4970
-Jade Empire: Special Edition,2007-02-26,81,8.2,50,394419,1622,122,0,727
-Overlord,2007-06-26,81,8.1,4,1005356,8492,160,0,1265
-Age of Empires III: The Asian Dynasties,2007-10-23,81,8.5,13,173536,689,33,0,123
-Sam & Max Episode 104: Abe Lincoln Must Die!,2007-02-22,80,7.7,5,5751165,3879,1750,0,449
-Titan Quest: Immortal Throne,2007-03-05,80,8.7,20,26204,232,7,0,75
-Test Drive Unlimited,2007-03-20,79,8.2,49,1320469,13913,564,0,2205
-Silent Hunter: Wolves of the Pacific,2007-03-20,79,7.1,44,235600,2234,86,0,742
-Sword of the Stars: Born of Blood,2007-06-05,79,8.1,4,97827,1340,15,0,80
-Sam & Max Episode 106: Bright Side of the Moon,2007-04-26,79,7.3,5,5751165,3879,1750,0,449
-Guitar Hero III: Legends of Rock,2007-11-13,79,7.2,8,21901037,142230,3289,0,7777
-Shadowgrounds Survivor,2007-12-06,79,7.8,5,2435,18,0,0,3
-Guild Wars: Eye of the North,2007-08-28,79,8.6,39,1468715,10979,115,0,3163
-Nancy Drew: Legend of the Crystal Skull,2007-10-08,79,8.3,42,91502,1267,9,0,940
-The Sims 2 Seasons,2007-02-27,78,7.3,13,2256371,19389,702,0,5148
-Viva Pinata,2007-11-06,78,7.8,47,1028716,25453,425,0,5172
-Medal of Honor: Airborne,2007-09-04,78,7.3,50,2013249,10993,393,0,3338
-Tabula Rasa,2007-10-30,78,8,1,24546,850,10,0,108
-Universe at War: Earth Assault,2007-12-10,77,8.5,31,31872,343,7,0,83
-FIFA Soccer 08,2007-10-09,77,6.1,4,375173,7005,898,0,1021
-Stranglehold,2007-09-18,77,7.4,3,1441,21,0,0,6
-Battlefield 2142: Northern Strike,2007-03-08,77,8.9,38,31636,424,33,0,191
-Battlestations: Midway,2007-01-30,76,7.3,45,763826,5266,634,0,1132
-Tom Clancy's Ghost Recon Advanced Warfighter 2,2007-07-17,76,7.2,38,112207,836,40,0,206
-Geometry Wars: Retro Evolved,2007-03-07,76,8.8,48,274778,6669,239,0,986
-Resident Evil 4,2007-05-15,76,7.4,34,2344369,18502,658,0,4495
-City Life: World Edition,2007-02-09,75,8.2,5,8156209,68385,1870,0,12980
-Sega Rally Revo,2007-11-19,74,7.6,10,23667,86,7,0,25
-ArmA: Combat Operations,2007-05-04,74,8,13,140299,2675,61,0,546
-Destination: Treasure Island,2007-08-21,74,7.7,3,8475,31,3,0,4
-"Sam & Max Episode 103: The Mole, the Mob and the Meatball",2007-01-25,74,8.2,5,5751165,3879,1750,0,449
-The Sims 2: Bon Voyage,2007-09-04,74,7.3,37,340836,5057,67,0,1762
-War Front: Turning Point,2007-02-23,73,7.2,6,4390805,10721,2670,0,1031
-Secrets of the Ark: A Broken Sword Game,2007-02-13,73,6.1,25,13622159,128611,7534,0,24088
-Penumbra: Overture,2007-05-08,73,7.8,50,101514,2429,45,0,821
-Nancy Drew: The White Wolf of Icicle Creek,2007-06-07,73,6.4,50,178945,2473,34,0,1394
-The Sims: Life Stories,2007-02-06,72,7.6,7,52200,1904,22,0,472
-Sherlock Holmes: The Awakened,2007-09-11,72,7.4,47,174797,4506,61,0,1181
-Call of Juarez,2007-06-12,72,7.9,50,146813,3819,48,0,647
-Blazing Angels 2: Secret Missions of WWII,2007-09-21,72,4.9,31,87496,289,14,0,86
-Halo 2,2007-05-31,72,5.5,49,8773843,75860,2863,0,24948
-UFO: Afterlight,2007-06-11,71,7.6,39,62705,544,29,0,303
-Brian Lara International Cricket 2007,2007-03-23,71,8.3,1,1285693,5427,382,0,327
-TimeShift,2007-10-30,71,7.6,18,49298,1327,18,0,107
-Hellgate: London,2007-10-31,70,6.3,4,7826,91,3,0,21
-Thrillville: Off the Rails,2007-10-09,70,3,43,85711,345,46,0,227
-Need for Speed: ProStreet,2007-11-13,70,6,47,8415836,42386,1895,0,10747
-Making History: The Calm and the Storm,2007-03-13,70,8.8,19,39465,538,67,0,73
-Top Spin 2,2007-03-16,70,7.2,2,271893,889,75,0,67
-Nostradamus: The Last Prophecy,2007-09-30,70,5.9,1,874728,10575,296,0,1875
-Heroes of Might and Magic V: Tribes of the East,2007-10-16,70,8.6,47,402127,2341,55,0,902
-Rag Doll Kung Fu,2007-02-12,69,5,4,224504,5529,99,0,3415
-FreeStyle Street Basketball,2007-05-15,69,8.4,30,700876,4523,1381,0,452
-Death to Spies,2007-10-16,69,7.7,23,26269,341,10,0,113
-Vanguard: Saga of Heroes,2007-01-30,68,7.1,1,366,1,0,0,5
-UFO: Extraterrestrials,2007-05-30,68,6.9,16,14639,249,5,0,78
-Avencast: Rise of the Mage,2007-11-14,68,7.3,8,2157,38,2,0,42
-Championship Manager 2008,2007-11-06,68,6.8,7,17788,511,7,0,94
-Alien Shooter: Vengeance,2007-02-16,67,8.3,44,131294,540,45,0,132
-Fantasy Wars,2007-11-08,67,8.4,6,7175433,56564,1157,0,4499
-Shadowrun,2007-05-29,67,6.3,48,446539,4974,210,0,1325
-Kane & Lynch: Dead Men,2007-11-20,67,5.9,1,67395,342,14,0,47
-The Sims: Pet Stories,2007-06-19,67,7.8,5,1923,111,0,0,118
-Runaway: The Dream of the Turtle,2007-03-14,67,8.1,35,20669,182,9,0,49
-Culpa Innata,2007-11-02,66,7.9,14,29316,863,31,0,195
-Team Fortress 2,2008-04-08,92,9.1,39,3505292,37923,1173,0,10799
-Galactic Civilizations II: Twilight of the Arnor,2008-04-30,92,8.4,19,16322,147,4,0,66
-World of Warcraft: Wrath of the Lich King,2008-11-13,91,7.5,5,1034448,6042,120,0,1583
-Fallout 3,2008-10-28,91,7.9,2,288185,1763,45,0,528
-World of Goo,2008-10-12,90,8.5,3,5618068,42029,881,0,3407
-Portal,2008-04-08,90,9.3,39,3185059,56166,744,0,16966
-Grand Theft Auto IV,2008-12-02,90,6.6,14,7792473,51922,3686,0,7847
-Left 4 Dead,2008-11-18,89,9.2,49,22183380,239962,6226,0,36529
-Mass Effect,2008-05-28,89,8.6,4,66507,746,6,0,93
-GRID,2008-06-03,87,7.9,8,314105,2192,220,0,356
-Sins of a Solar Empire,2008-02-04,87,8.2,47,979459,10625,228,0,2640
-The Witcher: Enhanced Edition,2008-09-16,86,8.5,10,1084748,6293,76,0,792
-Warhammer Online: Age of Reckoning,2008-09-16,86,7.9,32,120815,907,38,0,398
-Dead Space,2008-10-20,86,8,3,118785,1603,27,0,368
-Bionic Commando Rearmed,2008-08-13,86,7,40,409563,9011,164,0,2372
-"Sam & Max Episode 205: What's New, Beelzebub?",2008-04-10,85,7.9,5,5751165,3879,1750,0,449
-The Lord of the Rings Online: Mines of Moria,2008-11-17,85,8.2,3,587,13,0,0,0
-Peggle Deluxe,2008-02-19,85,8.1,5,12218,163,1,0,56
-Sam & Max Episode 204: Chariots of the Dogs,2008-03-13,85,8.1,5,5751165,3879,1750,0,449
-Far Cry 2,2008-10-21,85,5.8,38,3572354,44001,1462,0,9713
-AudioSurf,2008-02-15,85,8.8,45,902718,10393,640,0,1371
-Spore,2008-09-07,84,5.3,43,411010,8713,187,0,1931
-Crysis Warhead,2008-09-16,84,7.9,33,796648,9103,144,0,1855
-Call of Duty: World at War,2008-11-10,83,7.5,37,5541155,80972,1933,0,12684
-Spore Creature Creator,2008-06-17,83,8.1,16,3054657,28570,871,0,7138
-GTR Evolution,2008-09-01,83,8.2,2,2556774,12902,725,0,4136
-Sid Meier's Civilization IV: Colonization,2008-09-22,83,6.7,41,214547,3294,77,0,623
-Command & Conquer: Red Alert 3,2008-10-28,82,6.8,5,362705,4538,292,0,657
-Prince of Persia,2008-12-09,82,7.2,50,4102092,18437,764,0,3615
-Out of the Park Baseball 9,2008-06-01,82,7.4,10,10685540,10930,1850,0,923
-Strong Bad's Cool Game for Attractive People Episode 2: Strong Badia the Free,2008-09-15,81,8.2,32,8647,123,2,0,143
-Age of Conan: Hyborian Adventures,2008-05-20,80,7.3,5,35166,278,2,0,46
-Sam & Max Episode 202: Moai Better Blues,2008-01-10,80,7.7,5,5751165,3879,1750,0,449
-Pure,2008-09-16,80,7,8,38093746,230278,5756,0,14326
-Tomb Raider: Underworld,2008-11-18,80,7.7,48,2377365,14036,573,0,3171
-Penny Arcade Adventures: Episode Two,2008-11-07,80,7.7,2,114205,915,19,0,378
-LEGO Batman: The Videogame,2008-09-23,80,7.8,48,38949830,79679,10449,0,7746
-Brothers in Arms: Hell's Highway,2008-10-07,79,7.9,49,152415,1341,27,0,537
-Europa Universalis: Rome - Vae Victis,2008-11-19,79,8.6,1,2942,20,1,0,8
-Pro Evolution Soccer 2009,2008-11-12,79,7.4,2,2697,32,0,0,0
-Assassin's Creed: Director's Cut Edition,2008-04-08,79,7.5,3,177448,1445,21,0,94
-Strong Bad's Cool Game for Attractive People Episode 3: Baddest of the Bands,2008-10-27,79,8.1,33,10764,156,3,0,49
-Sam & Max Episode 203: Night of the Raving Dead,2008-02-12,79,8.2,5,5751165,3879,1750,0,449
-FlatOut: Ultimate Carnage,2008-08-26,79,7.7,50,186021,3020,119,0,691
-King's Bounty: The Legend,2008-09-23,79,8.6,28,44943,797,43,0,141
-LEGO Indiana Jones: The Original Adventures,2008-06-03,78,7.7,50,5997463,11320,1462,0,1092
-Tom Clancy's Rainbow Six: Vegas 2,2008-04-15,78,7.3,38,1074985,14005,263,0,2297
-Devil May Cry 4,2008-07-08,78,8.5,50,4782115,28965,637,0,6291
-Penumbra: Black Plague,2008-02-13,78,8.7,6,9248,159,2,0,101
-Bejeweled Twist,2008-10-27,78,7.3,46,451372,1611,117,0,632
-FIFA Soccer 09,2008-10-14,77,6.8,2,263278,13381,356,0,5381
-Command & Conquer 3: Kane's Wrath,2008-03-24,77,8.1,5,362705,4538,292,0,657
-Penny Arcade Adventures: Episode One,2008-05-21,77,8.3,20,1622101,9994,322,0,2335
-Pirates of the Burning Sea,2008-01-21,76,7.6,11,67240,800,20,0,793
-S.T.A.L.K.E.R.: Clear Sky,2008-09-15,75,7.7,37,154452,3005,134,0,834
-The Sims 2 Apartment Life,2008-08-26,75,7.7,38,269723,6447,85,0,1609
-A Vampyre Story,2008-12-02,75,8.5,14,1637881,24647,449,0,5520
-Dungeon Runners,2008-07-02,74,5.8,5,13237,565,6,0,51
-The Sims 2: FreeTime,2008-02-26,74,7.3,14,31786,1231,12,0,377
-Europa Universalis: Rome,2008-04-15,73,6.3,39,1147933,23688,179,0,2512
-Strong Bad's Cool Game for Attractive People Episode 1: Homestar Ruiner,2008-08-11,73,8,33,14365,202,4,0,81
-The Sims: Castaway Stories,2008-01-29,73,7.6,28,52111,993,28,0,181
-The Political Machine 2008,2008-06-24,73,6.6,8,809734,2277,206,0,751
-Frontlines: Fuel of War,2008-02-25,73,6.9,20,77305,326,18,0,115
-"Warhammer 40,000: Dawn of War - Soulstorm",2008-03-04,73,8.1,46,638355,4925,237,0,1476
-Neverwinter Nights 2: Storm of Zehir,2008-11-18,73,7.2,19,72815,453,21,0,222
-X3: Terran Conflict,2008-10-16,73,7.9,33,117924,688,7,0,356
-Bully: Scholarship Edition,2008-10-21,72,7.5,40,209798,1393,53,0,372
-Mount & Blade,2008-09-30,72,8.7,20,2839966,54898,1500,0,11833
-Crazy Machines 2,2008-06-20,72,7.4,9,5142742,63562,1487,0,10139
-Rail Simulator,2008-01-16,72,6.9,45,33965764,166325,10672,0,31475
-The Lost Crown: A Ghost-hunting Adventure,2008-03-03,71,7.5,50,40394,500,14,0,227
-Sherlock Holmes: Nemesis,2008-04-14,71,7.5,47,156447,551,34,0,90
-Sacred 2: Fallen Angel,2008-11-11,71,6.8,22,40050,313,15,0,87
-DreamWorks Kung Fu Panda,2008-06-03,71,7.8,42,11423622,36029,3793,0,3227
-Romance of the Three Kingdoms XI,2008-09-09,70,8.3,50,203049,780,21,0,636
-007: Quantum of Solace,2008-11-04,70,6.3,43,7154948,11749,1391,0,1752
-MySims,2008-10-28,70,6.4,2,158963,1283,23,0,227
-Lost Planet: Extreme Condition Colonies Edition,2008-05-27,70,7.4,50,65929,594,20,0,131
-Mercenaries 2: World in Flames,2008-09-04,70,5.9,37,34199,436,28,0,128
-Dracula: Origin,2008-06-02,70,6.5,5,79044,1397,21,0,304
-Nancy Drew: The Phantom of Venice,2008-07-11,69,6.6,33,67705,938,8,0,755
-Jack Keane,2008-04-15,69,7,6,1372,11,2,0,5
-FIFA Manager 09,2008-12-19,69,7.1,2,5592,128,2,0,44
-Nikopol: Secrets of the Immortals,2008-09-20,68,6,3,5317,59,0,0,19
-Sinking Island,2008-08-21,68,7.1,3,972845,12166,93,0,1663
-The Experiment,2008-02-05,68,6.5,3,4951,81,2,0,3
-Penumbra: Requiem,2008-08-27,67,5.8,49,76820,2190,32,0,579
-Rhiannon: Curse of the Four Branches,2008-10-05,67,7.1,16,16175,178,8,0,124
-Minecraft,2009-05-10,93,7.4,46,46719783,283658,17185,0,53000
-Batman: Arkham Asylum,2009-09-15,91,8.7,47,17602983,81020,3754,0,25380
-Street Fighter IV,2009-07-01,91,8,47,4085361,17718,960,0,4591
-Dragon Age: Origins,2009-11-03,91,8.6,3,153396,1163,16,0,90
-Empire: Total War,2009-03-03,90,6.9,29,1050517,7893,132,0,2187
-Left 4 Dead 2,2009-11-17,89,8.5,1,431,32,2,0,11
-DiRT 2,2009-12-08,89,8.2,24,8326052,60342,1794,0,6299
-EVE Online: Special Edition,2009-03-10,88,7.7,3,115517,690,9,0,153
-Plants vs. Zombies,2009-08-18,87,8.9,48,8613976,20484,2295,0,3268
-Football Manager 2010,2009-11-03,87,9,3,5347825,97900,1670,0,19446
-Burnout Paradise: The Ultimate Box,2009-02-05,87,7.5,44,840573,11620,285,0,702
-Resident Evil 5,2009-09-15,86,7.1,32,1018335,10676,193,0,2804
-The Sims 3,2009-06-02,86,7.6,12,680394,9780,152,0,1353
-Call of Duty: Modern Warfare 2,2009-11-10,86,4.2,45,2475535,16288,398,0,5235
-The Secret of Monkey Island: Special Edition,2009-07-15,86,9,39,1887086,29854,366,0,2975
-"Warhammer 40,000: Dawn of War II",2009-02-18,85,8.1,50,934780,13260,182,0,2843
-Machinarium,2009-10-16,85,8.8,31,629869,4219,55,0,773
-"Time Gentlemen, Please!",2009-07-02,84,7.6,7,8169408,68211,2139,0,5989
-The Lord of the Rings Online: Siege of Mirkwood,2009-12-01,83,7.1,14,4562,92,4,0,51
-Out of the Park Baseball 10,2009-06-02,83,8.3,11,823364,4544,145,0,1193
-Need for Speed: Shift,2009-09-15,83,5.8,37,13668298,70695,3603,0,22050
-Red Faction: Guerrilla,2009-09-15,82,7.5,6,887479,18446,200,0,1838
-Dawn of Discovery,2009-06-17,82,8.8,2,6568333,44434,952,0,7323
-Tales of Monkey Island Chapter 3: Lair of the Leviathan,2009-09-29,82,7.9,49,279718,885,35,0,287
-Football Manager Live,2009-01-23,82,3.1,1,500,39,1,0,10
-DCS: Black Shark,2009-04-13,82,8.5,3,33232,442,14,0,201
-The Sims 3: World Adventures,2009-11-16,81,8,33,92835,1550,24,0,666
-Tales of Monkey Island Chapter 5: Rise of the Pirate God,2009-12-08,81,8.4,47,418159,1263,55,0,426
-Borderlands,2009-10-26,81,7.8,23,965043,17130,156,0,3856
-Fallout 3: Broken Steel,2009-05-05,81,7.4,12,43681,1216,17,0,403
-Mirror's Edge,2009-01-12,81,8.1,50,2438318,63657,954,0,18166
-Defense Grid: The Awakening,2009-07-29,81,8.8,31,17314,232,15,0,114
-Osmos,2009-08-18,80,7.6,35,3662156,32763,798,0,2691
-The Chronicles of Riddick: Assault on Dark Athena,2009-04-07,80,8,39,207917,795,62,0,172
-AI War: Fleet Command,2009-05-14,80,8.3,20,45732,434,14,0,140
-Trine,2009-09-11,80,8.2,28,384601,3278,47,0,420
-Men of War,2009-03-16,80,8.1,18,971055,6318,1041,0,1705
-Tales of Monkey Island Chapter 4: The Trial and Execution of Guybrush Threepwood,2009-10-30,80,8.4,11,351068,911,45,0,335
-Sins of a Solar Empire: Entrenchment,2009-02-25,80,8.1,44,1002452,11543,252,0,2793
-Fallout 3: Point Lookout,2009-06-23,79,7.8,45,144417,2869,65,0,2578
-The Path,2009-03-18,79,7,4,3399559,16309,726,0,3587
-Bookworm Adventures: Volume 2,2009-07-30,79,7.6,7,21224,427,8,0,73
-Tropico 3,2009-10-20,79,8.2,34,879750,6293,163,0,1552
-Tales of Monkey Island Chapter 1: Launch of the Screaming Narwhal,2009-07-07,79,8.2,46,433779,1340,66,0,448
-Prototype,2009-06-10,79,7.9,33,389263,2359,71,0,476
-Free Realms,2009-04-29,79,6.4,1,390782,1150,147,0,80
-King Arthur: The Role-Playing Wargame,2009-11-24,79,7.9,6,32698,104,11,0,39
-Overlord II,2009-06-23,79,8.1,4,5394,103,1,0,17
-F.E.A.R. 2: Project Origin,2009-02-10,79,7.8,44,89220,2344,28,0,657
-Crayon Physics Deluxe,2009-01-07,79,7.6,15,9753,304,9,0,87
-Zuma's Revenge!,2009-09-15,78,7.9,1,579,3,0,0,3
-Closure,2009-01-01,78,6.6,18,1098066,11418,245,0,700
-League of Legends,2009-10-27,78,5.5,47,24238407,125847,6317,0,15803
-Wings of Prey,2009-12-25,78,7.7,10,498383,8064,889,0,2360
-Pro Evolution Soccer 2010,2009-10-23,78,6.9,2,438,5,1,0,2
-Call of Juarez: Bound in Blood,2009-06-30,78,8,30,195432,2586,114,0,365
-Nancy Drew: The Ransom of the Seven Ships,2009-07-14,78,8.6,49,172844,2022,18,0,1141
-Fallout 3: The Pitt,2009-03-24,78,6.9,45,351496,10933,95,0,4394
-ArmA II,2009-06-26,77,7.5,41,34614277,490170,9308,0,121140
-Tales of Monkey Island Chapter 2: The Siege of Spinner Cay,2009-08-20,77,7.5,50,182646,611,24,0,172
-Hearts of Iron III,2009-08-11,77,7.1,47,112820,1335,21,0,352
-The Void,2009-12-15,77,8.3,23,582187,3304,49,0,749
-Rise of Flight: The First Great Air War,2009-06-29,77,7.6,15,139189,375,32,0,212
-Risen,2009-10-02,77,8.1,34,326328,1909,64,0,495
-X-Men Origins: Wolverine,2009-05-01,77,8.1,40,752603,2840,287,0,452
-Men of War: Red Tide,2009-11-01,77,8.2,42,104958,1262,44,0,418
-Aion,2009-09-22,76,6.6,28,400483,2247,183,0,897
-Peggle Nights,2009-03-26,76,8.1,5,384535,5893,133,0,1255
-Operation Flashpoint: Dragon Rising,2009-10-06,76,4.9,44,330220,6002,425,0,2153
-The Saboteur,2009-12-08,76,7.9,36,72869,1172,28,0,216
-Nancy Drew: Warnings at Waverly Academy,2009-10-13,76,6.7,50,166481,3150,33,0,1042
-"Wallace & Gromit's Grand Adventures, Episode 1: Fright of the Bumblebees",2009-03-23,76,7.5,43,8619420,51069,2407,0,8542
-Demigod,2009-04-14,76,7.9,3,483,11,2,0,0
-FIFA Manager 10,2009-10-30,75,5.5,3,908,25,0,0,15
-"Wallace & Gromit's Grand Adventures, Episode 3: Muzzled!",2009-06-15,75,7.5,43,8619423,51069,2407,0,8542
-BattleForge,2009-03-23,75,7,7,8011,103,8,0,63
-And Yet It Moves,2009-04-02,75,6.2,2,2018620,4313,523,0,666
-The Dark Eye: Drakensang,2009-02-23,75,8.6,25,74717,1450,29,0,70
-Battlestations: Pacific,2009-05-12,74,8.4,45,681392,10039,222,0,536
-Ghostbusters: The Video Game,2009-06-16,74,7.7,48,28119641,221784,9077,0,54072
-Wolfenstein,2009-08-18,74,7.3,34,108831,2692,114,0,602
-Mini Ninjas,2009-09-08,74,8.3,35,269879,2738,58,0,548
-RACE On,2009-10-05,73,8.2,23,20036275,100066,5130,0,6624
-Cogs,2009-04-14,73,7.5,2,9771,93,2,0,51
-Sherlock Holmes vs. Jack the Ripper,2009-05-26,73,8.1,50,67016,2066,20,0,821
-Neverwinter Nights 2: Mysteries of Westgate,2009-04-29,73,7.3,17,34106,543,14,0,58
-Ceville,2009-09-28,73,8.2,13,30415,261,6,0,54
-Gratuitous Space Battles,2009-11-16,72,6.7,3,29893,761,9,0,175
-Majesty 2: The Fantasy Kingdom Sim,2009-09-17,72,7.3,0,0,0,0,0,0
-"Wallace & Gromit's Grand Adventures, Episode 4: The Bogey Man",2009-07-30,72,7.9,0,0,0,0,0,0
-Grand Ages: Rome,2009-03-17,72,8,0,0,0,0,0,0
-Shattered Horizon,2009-11-04,72,8.1,0,0,0,0,0,0
-"Wallace & Gromit's Grand Adventures, Episode 2: The Last Resort",2009-05-05,72,8.6,0,0,0,0,0,0
-Puzzle Quest: Galactrix,2009-02-24,72,6.7,0,0,0,0,0,0
-Section 8,2009-08-25,72,7,0,0,0,0,0,0
-Champions Online,2009-09-01,72,6.2,0,0,0,0,0,0
-World in Conflict: Soviet Assault,2009-03-10,72,8.3,0,0,0,0,0,0
-Saints Row 2,2009-01-05,72,6.8,0,0,0,0,0,0
-Mevo & the Grooveriders,2009-03-20,72,6.2,0,0,0,0,0,0
-Mass Effect 2,2010-01-26,94,8.8,0,0,0,0,0,0
-Starcraft II: Wings of Liberty,2010-07-27,93,8.2,0,0,0,0,0,0
-World of Warcraft: Cataclysm,2010-12-07,90,5.5,0,0,0,0,0,0
-Braid,2010-01-26,90,8.6,0,0,0,0,0,0
-Sid Meier's Civilization V,2010-09-21,90,7.9,0,0,0,0,0,0
-BioShock 2,2010-02-09,88,8,0,0,0,0,0,0
-Battlefield: Bad Company 2,2010-03-02,87,8.3,0,0,0,0,0,0
-Monkey Island 2 Special Edition: LeChuck's Revenge,2010-07-07,87,8.9,0,0,0,0,0,0
-Borderlands: The Secret Armory of General Knoxx,2010-02-25,86,7.2,0,0,0,0,0,0
-Need for Speed: Hot Pursuit,2010-11-16,86,6.7,0,0,0,0,0,0
-Mass Effect 2: Lair of the Shadow Broker,2010-09-07,86,8.6,0,0,0,0,0,0
-Battlefield: Bad Company 2 Vietnam,2010-12-18,86,8,0,0,0,0,0,0
-Assassin's Creed II,2010-03-09,86,6.9,0,0,0,0,0,0
-Football Manager 2011,2010-11-23,85,8.4,0,0,0,0,0,0
-"Warhammer 40,000: Dawn of War II - Chaos Rising",2010-03-10,85,8.7,0,0,0,0,0,0
-Fallout: New Vegas,2010-10-19,84,8.6,0,0,0,0,0,0
-Just Cause 2,2010-03-23,84,7.7,0,0,0,0,0,0
-F1 2010,2010-09-21,84,6.6,0,0,0,0,0,0
-Shatter,2010-03-15,84,7.4,0,0,0,0,0,0
-FIFA Soccer 11,2010-09-28,83,7.7,0,0,0,0,0,0
-Sam & Max: The Devil's Playhouse - Episode 2: The Tomb of Sammun-Mak,2010-05-18,83,7.8,0,0,0,0,0,0
-Darksiders,2010-09-22,83,7.7,0,0,0,0,0,0
-Age of Conan: Rise of the Godslayer,2010-05-11,83,8.4,0,0,0,0,0,0
-Torchlight,2010-01-05,83,8,0,0,0,0,0,0
-Tom Clancy's Splinter Cell: Conviction,2010-04-27,83,5.2,0,0,0,0,0,0
-Bejeweled 3,2010-12-07,82,8.1,0,0,0,0,0,0
-Dragon Age: Origins - Awakening,2010-03-16,82,7.8,0,0,0,0,0,0
-Lara Croft and the Guardian of Light,2010-09-28,82,8.1,0,0,0,0,0,0
-Desktop Dungeons,2010-10-17,82,8.2,0,0,0,0,0,0
-Recettear: An Item Shop's Tale,2010-09-10,82,8.6,0,0,0,0,0,0
-King's Bounty: Armored Princess,2010-09-10,82,8.6,0,0,0,0,0,0
-Divinity II: The Dragon Knight Saga,2010-11-05,82,8.2,0,0,0,0,0,0
-VVVVVV,2010-01-11,81,8.1,0,0,0,0,0,0
-Metro 2033,2010-03-16,81,8.1,0,0,0,0,0,0
-Blur,2010-05-25,81,7.4,0,0,0,0,0,0
-Sam & Max: The Devil's Playhouse - Episode 1: The Penal Zone,2010-04-15,81,8.3,0,0,0,0,0,0
-Napoleon: Total War,2010-02-23,81,7.9,0,0,0,0,0,0
-Call of Duty: Black Ops,2010-11-09,81,5.2,0,0,0,0,0,0
-Sam & Max: The Devil's Playhouse - Episode 5: The City That Dares Not Sleep,2010-08-30,81,8,0,0,0,0,0,0
-Toki Tori,2010-01-28,80,7.9,0,0,0,0,0,0
-S.T.A.L.K.E.R.: Call of Pripyat,2010-02-02,80,8.7,0,0,0,0,0,0
-Revenge of the Titans,2010-05-24,79,7.6,0,0,0,0,0,0
-Cart Life,2010-07-29,79,5.9,0,0,0,0,0,0
-Worms Reloaded,2010-08-26,79,6.8,0,0,0,0,0,0
-Puzzle Dimension,2010-06-21,79,7.6,0,0,0,0,0,0
-Split/Second,2010-05-18,79,8.2,0,0,0,0,0,0
-Tropico 3: Absolute Power,2010-05-17,79,7.6,0,0,0,0,0,0
-The Misadventures of P.B. Winterbottom,2010-04-20,79,8.3,0,0,0,0,0,0
-The Settlers 7: Paths to a Kingdom,2010-03-23,79,5.2,0,0,0,0,0,0
-LEGO Harry Potter: Years 1-4,2010-06-29,79,7.9,0,0,0,0,0,0
-Dead Rising 2,2010-09-27,78,6.3,0,0,0,0,0,0
-Mount & Blade: Warband,2010-03-30,78,8.7,0,0,0,0,0,0
-King's Bounty: Crossworlds,2010-09-17,78,8.6,0,0,0,0,0,0
-Dawn of Discovery: Venice,2010-02-26,78,8.3,0,0,0,0,0,0
-Mafia II,2010-08-23,77,7.9,0,0,0,0,0,0
-Zeno Clash,2010-02-07,77,7.9,0,0,0,0,0,0
-Alien Swarm,2010-07-19,77,8.2,0,0,0,0,0,0
-Supreme Commander 2,2010-03-02,77,6.2,0,0,0,0,0,0
-The Dream Machine,2010-12-14,77,8.7,0,0,0,0,0,0
-Lost Horizon,2010-09-24,77,7.9,0,0,0,0,0,0
-Singularity,2010-06-29,76,7.8,0,0,0,0,0,0
-Heroes of Newerth,2010-05-12,76,7.3,0,0,0,0,0,0
-Plain Sight,2010-04-05,76,7.7,0,0,0,0,0,0
-R.U.S.E.,2010-09-07,76,8.1,0,0,0,0,0,0
-Serious Sam HD: The Second Encounter,2010-04-28,76,8,0,0,0,0,0,0
-Greed Corp,2010-12-10,76,7.1,0,0,0,0,0,0
-Din's Curse,2010-03-31,76,7.6,0,0,0,0,0,0
-Sam & Max: The Devil's Playhouse - Episode 4: Beyond the Alley of the Dolls,2010-07-20,76,8,0,0,0,0,0,0
-Victoria II,2010-08-13,75,8.2,0,0,0,0,0,0
-FIFA Manager 11,2010-11-03,75,5.5,0,0,0,0,0,0
-Prince of Persia: The Forgotten Sands,2010-06-08,75,6.6,0,0,0,0,0,0
-Left 4 Dead 2: The Passing,2010-04-22,75,8.1,0,0,0,0,0,0
-Transformers: War for Cybertron,2010-06-22,75,7.9,0,0,0,0,0,0
-Dark Fall 3: Lost Souls,2010-04-21,75,7.2,0,0,0,0,0,0
-Sam & Max: The Devil's Playhouse - Episode 3: They Stole Max's Brain!,2010-06-22,75,7.4,0,0,0,0,0,0
-Sol Survivor,2010-03-15,75,8.2,0,0,0,0,0,0
-Back to the Future: The Game - Episode I: It's About Time,2010-12-22,74,7.1,0,0,0,0,0,0
-The Sims 3: Late Night Expansion Pack,2010-10-26,74,5.3,0,0,0,0,0,0
-The Sims 3: Ambitions,2010-06-01,74,7.3,0,0,0,0,0,0
-Disney/Pixar Toy Story 3,2010-06-15,73,6.3,0,0,0,0,0,0
-ArmA II: Operation Arrowhead,2010-06-29,73,8.1,0,0,0,0,0,0
-Blood Bowl: Legendary Edition,2010-10-28,73,6.4,0,0,0,0,0,0
-Alpha Protocol,2010-06-01,72,7.5,0,0,0,0,0,0
-Medal of Honor,2010-10-12,72,6.4,0,0,0,0,0,0
-Blood Bowl,2010-01-26,72,6.5,0,0,0,0,0,0
-Divinity II: Ego Draconis,2010-01-06,72,7.7,0,0,0,0,0,0
-Flotilla,2010-02-26,72,7.3,0,0,0,0,0,0
-Poker Night at the Inventory,2010-11-22,71,7,0,0,0,0,0,0
-Europa Universalis III: Divine Wind,2010-12-14,71,8.7,0,0,0,0,0,0
-Jolly Rover,2010-06-07,71,8,0,0,0,0,0,0
-Max & the Magic Marker,2010-02-08,71,5.7,0,0,0,0,0,0
-Mass Effect 2: Kasumi - Stolen Memory,2010-04-06,71,7.3,0,0,0,0,0,0
-The Kings' Crusade,2010-10-08,71,6.9,0,0,0,0,0,0
-Lead and Gold: Gangs of the Wild West,2010-04-08,70,8.4,0,0,0,0,0,0
-Global Agenda,2010-02-01,70,7.9,0,0,0,0,0,0
-Evochron Mercenary,2010-09-17,70,7.8,0,0,0,0,0,0
-Puzzle Agent,2010-06-30,70,6.9,0,0,0,0,0,0
-The Whispered World,2010-04-26,70,7.6,0,0,0,0,0,0
-Portal 2,2011-04-18,95,8.8,0,0,0,0,0,0
-The Elder Scrolls V: Skyrim,2011-11-10,94,8.1,0,0,0,0,0,0
-Batman: Arkham City,2011-11-21,91,8.6,0,0,0,0,0,0
-Deus Ex: Human Revolution,2011-08-23,90,8.5,0,0,0,0,0,0
-Total War: Shogun 2,2011-03-15,90,8.3,0,0,0,0,0,0
-FIFA Soccer 12,2011-09-27,89,7.1,0,0,0,0,0,0
-Battlefield 3,2011-10-25,89,7.5,0,0,0,0,0,0
-LIMBO,2011-08-02,88,8.1,0,0,0,0,0,0
-Assassin's Creed: Brotherhood,2011-03-22,88,8.2,0,0,0,0,0,0
-The Witcher 2: Assassins of Kings,2011-05-17,88,8.5,0,0,0,0,0,0
-Super Meat Boy,2011-04-05,87,8.3,0,0,0,0,0,0
-Dead Space 2,2011-01-25,87,8.3,0,0,0,0,0,0
-Bastion,2011-08-16,86,8.6,0,0,0,0,0,0
-Crysis 2,2011-03-22,86,6.8,0,0,0,0,0,0
-DiRT 3,2011-05-24,86,7,0,0,0,0,0,0
-Battlefield 3: Back to Karkand,2011-12-13,86,7.2,0,0,0,0,0,0
-Amnesia: The Dark Descent,2011-02-17,85,8.6,0,0,0,0,0,0
-Frozen Synapse,2011-05-26,85,7.7,0,0,0,0,0,0
-Star Wars: The Old Republic,2011-12-20,85,5.9,0,0,0,0,0,0
-Saints Row: The Third,2011-11-14,84,8.1,0,0,0,0,0,0
-SpaceChem,2011-03-02,84,8.4,0,0,0,0,0,0
-Super Street Fighter IV: Arcade Edition,2011-07-07,84,7.8,0,0,0,0,0,0
-Football Manager 2012,2011-10-20,84,8,0,0,0,0,0,0
-Unity of Command,2011-11-15,84,7.2,0,0,0,0,0,0
-The Binding of Isaac,2011-09-28,84,8.3,0,0,0,0,0,0
-Trine 2,2011-12-07,84,8.4,0,0,0,0,0,0
-Rift,2011-03-01,84,7.2,0,0,0,0,0,0
-Shift 2: Unleashed,2011-03-29,84,6.1,0,0,0,0,0,0
-Anno 2070,2011-11-17,83,7,0,0,0,0,0,0
-Orcs Must Die!,2011-10-11,83,8.1,0,0,0,0,0,0
-Terraria,2011-05-16,83,8.5,0,0,0,0,0,0
-L.A. Noire: The Complete Edition,2011-11-08,83,7.9,0,0,0,0,0,0
-F1 2011,2011-09-19,83,7.2,0,0,0,0,0,0
-The Book of Unwritten Tales,2011-10-28,82,8.2,0,0,0,0,0,0
-Gemini Rue,2011-02-24,82,8.4,0,0,0,0,0,0
-Dragon Age II,2011-03-08,82,4.5,0,0,0,0,0,0
-Monday Night Combat,2011-01-24,82,7.3,0,0,0,0,0,0
-Bulletstorm,2011-02-21,82,7.7,0,0,0,0,0,0
-Fallout: New Vegas - Old World Blues,2011-07-19,82,7.8,0,0,0,0,0,0
-Rochard,2011-11-15,81,8,0,0,0,0,0,0
-Jamestown: Legend of the Lost Colony,2011-06-08,81,7.5,0,0,0,0,0,0
-TrackMania 2 Canyon,2011-09-14,81,7.7,0,0,0,0,0,0
-Dungeon Defenders,2011-10-18,81,7.3,0,0,0,0,0,0
-Anomaly: Warzone Earth,2011-04-08,80,7.3,0,0,0,0,0,0
-Dead Island,2011-09-05,80,6.8,0,0,0,0,0,0
-Assassin's Creed: Revelations,2011-11-29,80,7.4,0,0,0,0,0,0
-World of Tanks,2011-09-06,80,3.7,0,0,0,0,0,0
-"Warhammer 40,000: Dawn of War II - Retribution",2011-02-28,80,7.8,0,0,0,0,0,0
-Panzer Corps,2011-07-11,80,7.5,0,0,0,0,0,0
-Driver: San Francisco,2011-09-27,80,7,0,0,0,0,0,0
-CAPSIZED,2011-04-29,80,7.2,0,0,0,0,0,0
-Runaway: A Twist of Fate,2011-04-21,79,8.2,0,0,0,0,0,0
-Bloodline Champions,2011-01-13,79,8,0,0,0,0,0,0
-Dungeons of Dredmor,2011-07-13,79,7.8,0,0,0,0,0,0
-Rage,2011-10-03,79,5.2,0,0,0,0,0,0
-The Sims 3: Pets,2011-10-18,79,6,0,0,0,0,0,0
-Two Worlds II: Pirates of the Flying Fortress,2011-09-30,78,7.5,0,0,0,0,0,0
-Call of Duty: Modern Warfare 3,2011-11-08,78,2.5,0,0,0,0,0,0
-Tropico 4,2011-08-30,78,7.7,0,0,0,0,0,0
-Sonic Generations,2011-11-03,77,8.3,0,0,0,0,0,0
-Men of War: Assault Squad,2011-06-14,77,8.2,0,0,0,0,0,0
-Section 8: Prejudice,2011-05-04,77,7.8,0,0,0,0,0,0
-Might & Magic: Heroes VI,2011-10-13,77,6,0,0,0,0,0,0
-Pro Evolution Soccer 2012,2011-09-27,77,6.4,0,0,0,0,0,0
-Magic: The Gathering - Duels of the Planeswalkers 2012,2011-06-15,77,5.8,0,0,0,0,0,0
-The Sims Medieval,2011-03-22,77,6,0,0,0,0,0,0
-Hamilton's Great Adventure,2011-05-31,77,7.5,0,0,0,0,0,0
-From Dust,2011-08-17,76,4.9,0,0,0,0,0,0
-Renegade Ops,2011-10-26,76,7.4,0,0,0,0,0,0
-LEGO Star Wars III: The Clone Wars,2011-03-22,76,7.5,0,0,0,0,0,0
-Red Orchestra 2: Heroes of Stalingrad,2011-09-13,76,7.3,0,0,0,0,0,0
-Who's That Flying?!,2011-01-31,76,6.7,0,0,0,0,0,0
-Payday: The Heist,2011-10-20,76,7.8,0,0,0,0,0,0
-Two Worlds II,2011-02-03,76,6.5,0,0,0,0,0,0
-Avadon: The Black Fortress,2011-05-02,75,7.9,0,0,0,0,0,0
-Black Mirror III: Final Fear,2011-04-19,75,7.5,0,0,0,0,0,0
-Red Faction: Armageddon,2011-06-07,75,6.7,0,0,0,0,0,0
-Back to the Future: The Game - Episode V: OUTATIME,2011-06-23,75,7.2,0,0,0,0,0,0
-Atom Zombie Smasher,2011-01-23,75,7.1,0,0,0,0,0,0
-Fable III,2011-05-17,75,5.4,0,0,0,0,0,0
-Alice: Madness Returns,2011-06-14,75,8.4,0,0,0,0,0,0
-The Next Big Thing,2011-04-21,75,7.9,0,0,0,0,0,0
-Back to the Future: The Game - Episode II: Get Tannen!,2011-02-17,74,7.3,0,0,0,0,0,0
-Edge,2011-08-11,74,7.6,0,0,0,0,0,0
-Space Pirates and Zombies,2011-08-15,74,7.7,0,0,0,0,0,0
-Magicka,2011-02-15,74,7.6,0,0,0,0,0,0
-"Warhammer 40,000: Space Marine",2011-09-05,74,7.4,0,0,0,0,0,0
-F.E.A.R. 3,2011-06-21,74,5.9,0,0,0,0,0,0
-Rock of Ages,2011-09-07,74,7.8,0,0,0,0,0,0
-Deus Ex: Human Revolution - The Missing Link,2011-10-18,73,7.3,0,0,0,0,0,0
-LEGO Pirates of the Caribbean: The Video Game,2011-05-24,73,6.6,0,0,0,0,0,0
-The Blackwell Deception,2011-10-12,73,8.5,0,0,0,0,0,0
-Hard Reset,2011-09-13,73,7.3,0,0,0,0,0,0
-Solar 2,2011-06-17,72,7.1,0,0,0,0,0,0
-Serious Sam 3: BFE,2011-11-22,72,8.2,0,0,0,0,0,0
-Blocks That Matter,2011-08-19,72,7.3,0,0,0,0,0,0
-DC Universe Online,2011-01-11,72,6.8,0,0,0,0,0,0
-Dishonored,2012-10-08,91,8.4,0,0,0,0,0,0
-Mark of the Ninja,2012-10-16,91,8,0,0,0,0,0,0
-Guild Wars 2,2012-08-28,90,7.9,0,0,0,0,0,0
-The Walking Dead: A Telltale Games Series,2012-04-24,89,8.7,0,0,0,0,0,0
-The Walking Dead: Episode 5 - No Time Left,2012-11-21,89,8.9,0,0,0,0,0,0
-Borderlands 2,2012-09-17,89,8.2,0,0,0,0,0,0
-XCOM: Enemy Unknown,2012-10-09,89,8.2,0,0,0,0,0,0
-Mass Effect 3,2012-03-06,89,5.5,0,0,0,0,0,0
-Far Cry 3,2012-12-04,88,8.2,0,0,0,0,0,0
-Torchlight II,2012-09-20,88,8.6,0,0,0,0,0,0
-Thirty Flights of Loving,2012-08-20,88,5,0,0,0,0,0,0
-Diablo III,2012-05-15,88,4,0,0,0,0,0,0
-Max Payne 3,2012-05-31,87,7.6,0,0,0,0,0,0
-Battlefield 3: Armored Kill,2012-09-11,87,7.1,0,0,0,0,0,0
-Total War: Shogun 2 - Fall of the Samurai,2012-03-23,86,8.5,0,0,0,0,0,0
-Football Manager 2013,2012-11-01,86,6.8,0,0,0,0,0,0
-Black Mesa,2012-09-14,86,8.9,0,0,0,0,0,0
-FIFA Soccer 13,2012-09-25,86,6.6,0,0,0,0,0,0
-Tribes: Ascend,2012-04-12,86,7.8,0,0,0,0,0,0
-Rayman Origins,2012-03-29,86,8.4,0,0,0,0,0,0
-Hotline Miami,2012-10-23,85,8.5,0,0,0,0,0,0
-Out of the Park Baseball 13,2012-04-09,85,8.2,0,0,0,0,0,0
-Dark Souls: Prepare to Die Edition,2012-08-23,85,7.5,0,0,0,0,0,0
-The Walking Dead: Episode 3 - Long Road Ahead,2012-08-29,85,8.4,0,0,0,0,0,0
-The Walking Dead: Episode 2 - Starved for Help,2012-06-29,84,8.6,0,0,0,0,0,0
-Pinball FX 2,2012-10-27,84,7.9,0,0,0,0,0,0
-PlanetSide 2,2012-11-20,84,7,0,0,0,0,0,0
-FTL: Faster Than Light,2012-09-14,84,8.4,0,0,0,0,0,0
-Orcs Must Die! 2,2012-07-30,83,7.9,0,0,0,0,0,0
-Alan Wake,2012-02-16,83,8,0,0,0,0,0,0
-Superbrothers: Sword & Sworcery EP,2012-04-16,83,6.3,0,0,0,0,0,0
-Counter-Strike: Global Offensive,2012-08-21,83,7.8,0,0,0,0,0,0
-Sins of a Solar Empire: Rebellion,2012-06-12,82,7.8,0,0,0,0,0,0
-Legend of Grimrock,2012-04-11,82,8.1,0,0,0,0,0,0
-Borderlands 2: Mr. Torgue's Campaign of Carnage,2012-11-20,82,7.3,0,0,0,0,0,0
-Crusader Kings II,2012-02-14,82,8.7,0,0,0,0,0,0
-World of Warcraft: Mists of Pandaria,2012-09-25,82,4.8,0,0,0,0,0,0
-The Walking Dead: Episode 1 - A New Day,2012-04-24,82,8.4,0,0,0,0,0,0
-Botanicula,2012-04-19,82,8.3,0,0,0,0,0,0
-To the Moon,2012-09-07,81,8.9,0,0,0,0,0,0
-Darksiders II,2012-08-13,81,7.8,0,0,0,0,0,0
-Lone Survivor,2012-04-23,81,7.2,0,0,0,0,0,0
-Vessel,2012-03-01,81,7.9,0,0,0,0,0,0
-Kingdoms of Amalur: Reckoning,2012-02-07,81,6.6,0,0,0,0,0,0
-Sleeping Dogs,2012-08-13,81,8.2,0,0,0,0,0,0
-Wargame: European Escalation,2012-02-22,81,8.1,0,0,0,0,0,0
-Sid Meier's Civilization V: Gods & Kings,2012-06-18,80,7.7,0,0,0,0,0,0
-Pro Evolution Soccer 2013,2012-09-25,80,6.9,0,0,0,0,0,0
-Assassin's Creed III,2012-11-20,80,6.2,0,0,0,0,0,0
-La-Mulana (Remake),2012-07-13,80,7.1,0,0,0,0,0,0
-Natural Selection 2,2012-10-30,80,8.4,0,0,0,0,0,0
-Borderlands 2: Captain Scarlett and Her Pirate's Booty,2012-10-16,80,7.4,0,0,0,0,0,0
-The Walking Dead: Episode 4 - Around Every Corner,2012-10-10,80,8.5,0,0,0,0,0,0
-F1 2012,2012-09-18,80,6.9,0,0,0,0,0,0
-Stealth Bastard Deluxe,2012-11-28,80,8.2,0,0,0,0,0,0
-Stacking,2012-03-06,80,7.9,0,0,0,0,0,0
-FLY'N,2012-11-09,80,8.2,0,0,0,0,0,0
-Dustforce,2012-01-17,79,7.9,0,0,0,0,0,0
-Hitman: Absolution,2012-11-19,79,7,0,0,0,0,0,0
-Street Fighter X Tekken,2012-05-11,79,6.4,0,0,0,0,0,0
-Chivalry: Medieval Warfare,2012-10-16,79,7.8,0,0,0,0,0,0
-Rift: Storm Legion,2012-11-13,79,7.8,0,0,0,0,0,0
-Need for Speed: Most Wanted - A Criterion Game,2012-10-30,78,4.4,0,0,0,0,0,0
-Baldur's Gate: Enhanced Edition,2012-11-28,78,6.8,0,0,0,0,0,0
-Transformers: Fall of Cybertron,2012-08-20,78,7.9,0,0,0,0,0,0
-Chaos on Deponia,2012-11-06,78,8.3,0,0,0,0,0,0
-Tropico 4: Modern Times,2012-03-29,78,8,0,0,0,0,0,0
-Elemental: Fallen Enchantress,2012-10-23,78,7.3,0,0,0,0,0,0
-Deadlight,2012-10-25,78,7.3,0,0,0,0,0,0
-Giana Sisters: Twisted Dreams,2012-10-23,77,7.8,0,0,0,0,0,0
-Thomas Was Alone,2012-06-30,77,8.1,0,0,0,0,0,0
-Quantum Conundrum,2012-06-21,77,7.3,0,0,0,0,0,0
-Endless Space,2012-07-04,77,7.4,0,0,0,0,0,0
-Penny Arcade Adventures: Episode Three,2012-06-25,77,7.3,0,0,0,0,0,0
-The Darkness II,2012-02-06,77,7.6,0,0,0,0,0,0
-TERA,2012-05-01,77,6.8,0,0,0,0,0,0
-Magic: The Gathering - Duels of the Planeswalkers 2013,2012-06-20,77,6.8,0,0,0,0,0,0
-Resonance,2012-06-19,76,7.9,0,0,0,0,0,0
-Miasmata,2012-11-28,76,7.7,0,0,0,0,0,0
-Spec Ops: The Line,2012-06-25,76,8.2,0,0,0,0,0,0
-Ys Origin,2012-05-31,76,8.7,0,0,0,0,0,0
-Prototype 2,2012-07-24,76,6.4,0,0,0,0,0,0
-Super Monday Night Combat,2012-04-19,76,3.6,0,0,0,0,0,0
-Dear Esther,2012-02-14,75,6.5,0,0,0,0,0,0
-Tiny & Big: Grandpa's Leftovers,2012-06-19,75,7.4,0,0,0,0,0,0
-Edna & Harvey: Harvey's New Eyes,2012-10-16,75,8.1,0,0,0,0,0,0
-Scribblenauts Unlimited,2012-11-19,75,7.8,0,0,0,0,0,0
-Blacklight: Retribution,2012-04-03,75,7.5,0,0,0,0,0,0
-Iron Brigade,2012-08-13,75,5.2,0,0,0,0,0,0
-The Dark Eye: Chains of Satinav,2012-06-22,75,7.7,0,0,0,0,0,0
-Warp,2012-03-13,75,5.9,0,0,0,0,0,0
-Mass Effect 3: Leviathan,2012-08-28,75,6.6,0,0,0,0,0,0
-Symphony,2012-08-06,75,7.8,0,0,0,0,0,0
-Deponia,2012-08-06,74,8.2,0,0,0,0,0,0
-The Sims 3 Supernatural,2012-09-04,74,6.3,0,0,0,0,0,0
-King's Bounty: Warriors of the North,2012-10-25,74,7,0,0,0,0,0,0
-Incredipede,2012-10-25,74,6.9,0,0,0,0,0,0
-Unmechanical,2012-08-08,74,8.2,0,0,0,0,0,0
-Snapshot,2012-08-30,74,7.3,0,0,0,0,0,0
-The Secret World,2012-07-03,74,8.2,0,0,0,0,0,0
-BioShock Infinite,2013-03-25,94,8.5,0,0,0,0,0,0
-Fez,2013-05-01,91,6.6,0,0,0,0,0,0
-Spelunky,2013-08-08,90,7.2,0,0,0,0,0,0
-Brothers: A Tale of Two Sons,2013-09-03,90,8.5,0,0,0,0,0,0
-Dota 2,2013-07-09,90,6.2,0,0,0,0,0,0
-Rocksmith 2014 Edition,2013-10-22,89,8,0,0,0,0,0,0
-Crusader Kings II: The Old Gods,2013-05-28,88,8.7,0,0,0,0,0,0
-The Stanley Parable,2013-10-17,88,8,0,0,0,0,0,0
-Guacamelee! Gold Edition,2013-08-08,88,7.3,0,0,0,0,0,0
-The Swapper,2013-05-30,87,8.6,0,0,0,0,0,0
-Europa Universalis IV,2013-08-13,87,8.7,0,0,0,0,0,0
-Gone Home,2013-08-15,86,5.4,0,0,0,0,0,0
-Pac-Man Championship Edition DX +,2013-09-24,86,7.3,0,0,0,0,0,0
-Out of the Park Baseball 14,2013-04-15,86,8.5,0,0,0,0,0,0
-Saints Row IV,2013-08-19,86,7.4,0,0,0,0,0,0
-Starcraft II: Heart of the Swarm,2013-03-12,86,7.9,0,0,0,0,0,0
-Tomb Raider,2013-03-04,86,8.5,0,0,0,0,0,0
-XCOM: Enemy Within,2013-11-12,86,8,0,0,0,0,0,0
-Path of Exile,2013-01-25,86,8,0,0,0,0,0,0
-Bit.Trip Presents...Runner2: Future Legend of Rhythm Alien,2013-02-26,85,8.2,0,0,0,0,0,0
-Dust: An Elysian Tail,2013-05-24,85,8.4,0,0,0,0,0,0
-DmC: Devil May Cry,2013-01-24,85,6.8,0,0,0,0,0,0
-The Wolf Among Us: Episode 1 - Faith,2013-10-11,85,9,0,0,0,0,0,0
-Rogue Legacy,2013-06-27,85,7.9,0,0,0,0,0,0
-Football Manager 2014,2013-10-30,85,5.5,0,0,0,0,0,0
-Sid Meier's Civilization V: Brave New World,2013-07-08,85,8.6,0,0,0,0,0,0
-Trials Evolution: Gold Edition,2013-03-21,85,6.7,0,0,0,0,0,0
-"Papers, Please",2013-08-08,85,8.5,0,0,0,0,0,0
-Mass Effect 3: Citadel,2013-03-05,84,7.9,0,0,0,0,0,0
-Assassin's Creed IV: Black Flag,2013-11-19,84,7.7,0,0,0,0,0,0
-Gunpoint,2013-06-03,83,8.3,0,0,0,0,0,0
-Final Fantasy XIV Online: A Realm Reborn,2013-08-27,83,6.8,0,0,0,0,0,0
-Card Hunter (2013),2013-09-12,83,7.9,0,0,0,0,0,0
-Starseed Pilgrim,2013-04-16,83,6.1,0,0,0,0,0,0
-Monaco: What's Yours Is Mine,2013-04-24,83,7.7,0,0,0,0,0,0
-Valdis Story: Abyssal City,2013-10-30,83,8,0,0,0,0,0,0
-Kentucky Route Zero - Act II,2013-05-31,82,8.1,0,0,0,0,0,0
-Tom Clancy's Splinter Cell: Blacklist,2013-08-20,82,7.4,0,0,0,0,0,0
-Sokobond,2013-08-27,82,7.8,0,0,0,0,0,0
-Antichamber,2013-01-31,82,8.2,0,0,0,0,0,0
-Metro: Last Light,2013-05-13,82,8.6,0,0,0,0,0,0
-Rising Storm,2013-05-30,82,8.5,0,0,0,0,0,0
-Battlefield 4,2013-10-29,81,6,0,0,0,0,0,0
-War Thunder,2013-08-15,81,6.6,0,0,0,0,0,0
-Kentucky Route Zero - Act I,2013-01-07,81,7.5,0,0,0,0,0,0
-Castlevania: Lords of Shadow Ultimate Edition,2013-08-27,81,7.4,0,0,0,0,0,0
-The Cat Lady,2013-12-04,81,8.8,0,0,0,0,0,0
-Victoria II: Heart of Darkness,2013-04-16,81,8.8,0,0,0,0,0,0
-Waveform,2013-01-25,81,7.4,0,0,0,0,0,0
+The Orange Box,2007-10-10,96,9.3,16,9624,158,11,0,52
+BioShock,2007-08-21,96,8.5,49,1347339,20804,569,0,3707
+Call of Duty 4: Modern Warfare,2007-11-05,92,8.5,48,6341642,89248,3857,0,14358
+Crysis,2007-11-13,91,8,44,1406145,10144,252,0,2421
+World of Warcraft: The Burning Crusade,2007-01-16,91,7.9,38,2874203,22853,331,0,4644
+Half-Life 2: Episode Two,2007-10-10,90,9.2,50,263140,5485,163,0,465
+World in Conflict,2007-09-18,89,8.1,41,141774,1151,26,0,315
+Company of Heroes: Opposing Fronts,2007-09-24,87,8.6,47,357467,2656,72,0,775
+Gears of War,2007-11-06,87,7.8,40,1612579,13302,509,0,2125
+Supreme Commander,2007-02-20,86,8.3,49,319013,2772,154,0,970
+Sid Meier's Civilization IV: Beyond the Sword,2007-07-23,86,8.6,45,166448,2651,74,0,603
+The Lord of the Rings Online: Shadows of Angmar,2007-04-24,86,8.1,27,245037,667,41,0,421
+IL-2 Sturmovik: 1946,2007-03-13,86,8.8,23,108517,1478,38,0,594
+The Elder Scrolls IV: Shivering Isles,2007-03-26,86,8.4,18,1320974,17803,360,0,4947
+Command & Conquer 3: Tiberium Wars,2007-03-26,85,8,47,6489753,42873,2603,0,9522
+Medieval II: Total War Kingdoms,2007-08-28,85,8.8,24,972563,7693,432,0,2450
+Puzzle Quest: Challenge of the Warlords,2007-10-10,84,8.3,28,154008,308,49,0,65
+DiRT,2007-06-19,84,7.3,31,27994513,46360,5805,0,4118
+Unreal Tournament III,2007-11-19,83,8,35,449899,3094,110,0,675
+Tomb Raider: Anniversary,2007-06-05,83,8,40,2521272,14997,295,0,5133
+RACE 07: Official WTCC Game,2007-10-09,83,9,22,464820,3566,76,0,854
+EverQuest II: Rise of Kunark,2007-11-13,83,7.9,49,39070,699,15,0,217
+Europa Universalis III,2007-01-23,83,8.4,30,24478,218,44,0,156
+Sam & Max Episode 105: Reality 2.0,2007-03-29,82,8.4,37,112607,1657,26,0,586
+Neverwinter Nights 2: Mask of The Betrayer,2007-10-09,82,8.8,1,76659,103,8,0,16
+S.T.A.L.K.E.R.: Shadow of Chernobyl,2007-03-20,82,8.4,36,76137,537,18,0,170
+Sam & Max Episode 201: Ice Station Santa,2007-11-08,82,8.5,41,4755854,10612,1126,0,1070
+Supreme Commander: Forged Alliance,2007-11-06,81,8.9,45,1252480,36446,336,0,4025
+The Witcher,2007-10-30,81,8.8,0,0,0,0,0,0
+Jade Empire: Special Edition,2007-02-26,81,8.2,26,298063,2631,198,0,813
+Age of Empires III: The Asian Dynasties,2007-10-23,81,8.5,50,146190,1821,67,0,798
+Sam & Max Episode 104: Abe Lincoln Must Die!,2007-02-22,80,7.7,0,0,0,0,0,0
+Titan Quest: Immortal Throne,2007-03-05,80,8.7,48,381885,1321,118,0,706
+Test Drive Unlimited,2007-03-20,79,8.2,34,3779624,25726,869,0,2111
+Sword of the Stars: Born of Blood,2007-06-05,79,8.1,50,730399,4680,136,0,1280
+Sam & Max Episode 106: Bright Side of the Moon,2007-04-26,79,7.3,0,0,0,0,0,0
+Guitar Hero III: Legends of Rock,2007-11-13,79,7.2,50,122426,799,37,0,251
+Shadowgrounds Survivor,2007-12-06,79,7.8,49,1321663,13917,564,0,2206
+Guild Wars: Eye of the North,2007-08-28,79,8.6,8,140002,844,62,0,153
+Nancy Drew: Legend of the Crystal Skull,2007-10-08,79,8.3,13,42234,631,5,0,142
+The Sims 2 Seasons,2007-02-27,78,7.3,0,0,0,0,0,0
+Viva Pinata,2007-11-06,78,7.8,13,20305315,125816,3036,0,7232
+Medal of Honor: Airborne,2007-09-04,78,7.3,29,11274,140,10,0,59
+Tabula Rasa,2007-10-30,78,8,36,1298718,9345,92,0,2868
+Universe at War: Earth Assault,2007-12-10,77,8.5,21,31840,362,1,0,261
+FIFA Soccer 08,2007-10-09,77,6.1,30,1712593,12796,577,0,3232
+Stranglehold,2007-09-18,77,7.4,50,1080840,25913,431,0,5319
+Battlefield 2142: Northern Strike,2007-03-08,77,8.9,50,2017036,11005,395,0,3339
+Battlestations: Midway,2007-01-30,76,7.3,36,1200734,5240,326,0,1075
+Tom Clancy's Ghost Recon Advanced Warfighter 2,2007-07-17,76,7.2,31,31904,343,7,0,81
+Geometry Wars: Retro Evolved,2007-03-07,76,8.8,5,476477,17759,351,0,3750
+Resident Evil 4,2007-05-15,76,7.4,31,30024,389,26,0,139
+City Life: World Edition,2007-02-09,75,8.2,41,192017,2211,98,0,801
+Sega Rally Revo,2007-11-19,74,7.6,45,764254,5267,634,0,1132
+ArmA: Combat Operations,2007-05-04,74,8,38,112529,841,40,0,208
+Destination: Treasure Island,2007-08-21,74,7.7,48,274862,6669,239,0,986
+"Sam & Max Episode 103: The Mole, the Mob and the Meatball",2007-01-25,74,8.2,30,1885427,15937,527,0,4088
+The Sims 2: Bon Voyage,2007-09-04,74,7.3,1,3381690,20556,1122,0,5607
+War Front: Turning Point,2007-02-23,73,7.2,40,43274,312,14,0,120
+Secrets of the Ark: A Broken Sword Game,2007-02-13,73,6.1,14,140706,2694,68,0,560
+Penumbra: Overture,2007-05-08,73,7.8,7,19963,250,3,0,61
+Nancy Drew: The White Wolf of Icicle Creek,2007-06-07,73,6.4,0,0,0,0,0,0
+The Sims: Life Stories,2007-02-06,72,7.6,48,359645,5991,70,0,2132
+Sherlock Holmes: The Awakened,2007-09-11,72,7.4,9,7034727,25682,1822,0,2729
+Call of Juarez,2007-06-12,72,7.9,12,914031,20659,490,0,9339
+Blazing Angels 2: Secret Missions of WWII,2007-09-21,72,4.9,50,101636,2430,45,0,821
+Halo 2,2007-05-31,72,5.5,19,95489,1215,21,0,453
+UFO: Afterlight,2007-06-11,71,7.6,13,139364,212,1,0,620
+Brian Lara International Cricket 2007,2007-03-23,71,8.3,48,175067,4527,61,0,1202
+TimeShift,2007-10-30,71,7.6,50,147034,3821,48,0,651
+Hellgate: London,2007-10-31,70,6.3,31,87643,289,14,0,86
+Thrillville: Off the Rails,2007-10-09,70,3,49,8784758,75948,2867,0,24972
+Need for Speed: ProStreet,2007-11-13,70,6,49,90769,857,36,0,447
+Making History: The Calm and the Storm,2007-03-13,70,8.8,15,677918,1636,129,0,513
+Top Spin 2,2007-03-16,70,7.2,18,49336,1327,18,0,107
+Nostradamus: The Last Prophecy,2007-09-30,70,5.9,45,32017,223,21,0,81
+Heroes of Might and Magic V: Tribes of the East,2007-10-16,70,8.6,50,87195,358,47,0,229
+Rag Doll Kung Fu,2007-02-12,69,5,49,8422566,42431,1895,0,10760
+FreeStyle Street Basketball,2007-05-15,69,8.4,26,462362,5237,243,0,911
+Death to Spies,2007-10-16,69,7.7,13,1919257,15443,632,0,2306
+Vanguard: Saga of Heroes,2007-01-30,68,7.1,6,103898,899,15,0,109
+UFO: Extraterrestrials,2007-05-30,68,6.9,47,402804,2344,55,0,905
+Avencast: Rise of the Mage,2007-11-14,68,7.3,9,17145,148,9,0,34
+Championship Manager 2008,2007-11-06,68,6.8,34,301820,4462,1159,0,516
+Alien Shooter: Vengeance,2007-02-16,67,8.3,24,398395,585,44,0,134
+Fantasy Wars,2007-11-08,67,8.4,32,20677,170,4,0,117
+Shadowrun,2007-05-29,67,6.3,18,35933,434,13,0,162
+Kane & Lynch: Dead Men,2007-11-20,67,5.9,28,13553,97,4,0,50
+The Sims: Pet Stories,2007-06-19,67,7.8,5,4248,165,2,0,43
+Runaway: The Dream of the Turtle,2007-03-14,67,8.1,44,131551,541,45,0,133
+Culpa Innata,2007-11-02,66,7.9,0,0,0,0,0,0
+Team Fortress 2,2008-04-08,92,9.1,48,447355,4975,210,0,1325
+Galactic Civilizations II: Twilight of the Arnor,2008-04-30,92,8.4,49,41722904,146209,11479,0,11326
+World of Warcraft: Wrath of the Lich King,2008-11-13,91,7.5,25,2367819,98054,929,0,10903
+Fallout 3,2008-10-28,91,7.9,10,4831,58,1,0,17
+Portal,2008-04-08,90,9.3,3,2926,113,4,0,16
+Grand Theft Auto IV,2008-12-02,90,6.6,35,2932714,34062,1073,0,7798
+Mass Effect,2008-05-28,89,8.6,33,43848,874,18,0,210
+GRID,2008-06-03,87,7.9,49,4047833,33706,511,0,6909
+Sins of a Solar Empire,2008-02-04,87,8.2,20,324867,19317,113,0,2511
+Warhammer Online: Age of Reckoning,2008-09-16,86,7.9,15,237400,2396,48,0,528
+Dead Space,2008-10-20,86,8,39,3194961,56306,744,0,17010
+"Sam & Max Episode 205: What's New, Beelzebub?",2008-04-10,85,7.9,35,9032068,58817,4264,0,8510
+The Lord of the Rings Online: Mines of Moria,2008-11-17,85,8.2,49,22198109,240081,6229,0,36540
+Peggle Deluxe,2008-02-19,85,8.1,0,0,0,0,0,0
+Sam & Max Episode 204: Chariots of the Dogs,2008-03-13,85,8.1,21,217276,1452,21,0,254
+Far Cry 2,2008-10-21,85,5.8,47,980115,10628,228,0,2641
+AudioSurf,2008-02-15,85,8.8,13,1512309,11538,127,0,1745
+Spore,2008-09-07,84,5.3,44,115124,947,45,0,422
+Crysis Warhead,2008-09-16,84,7.9,47,533574,7614,120,0,2202
+Call of Duty: World at War,2008-11-10,83,7.5,40,409746,9015,164,0,2373
+Spore Creature Creator,2008-06-17,83,8.1,0,0,0,0,0,0
+GTR Evolution,2008-09-01,83,8.2,31,9743115,34448,2626,0,5232
+Sid Meier's Civilization IV: Colonization,2008-09-22,83,6.7,29,7842556,7211,4160,0,474
+Out of the Park Baseball 9,2008-06-01,82,7.4,0,0,0,0,0,0
+Strong Bad's Cool Game for Attractive People Episode 2: Strong Badia the Free,2008-09-15,81,8.2,38,3574048,44012,1462,0,9715
+Age of Conan: Hyborian Adventures,2008-05-20,80,7.3,45,903036,10395,640,0,1371
+Sam & Max Episode 202: Moai Better Blues,2008-01-10,80,7.7,43,420055,8881,188,0,1974
+Pure,2008-09-16,80,7,37,479572,7508,131,0,1274
+Tomb Raider: Underworld,2008-11-18,80,7.7,40,8900860,157093,2867,0,18448
+LEGO Batman: The Videogame,2008-09-23,80,7.8,49,25165857,362029,9075,0,56695
+Brothers in Arms: Hell's Highway,2008-10-07,79,7.9,9,1086080,5638,160,0,1293
+Europa Universalis: Rome - Vae Victis,2008-11-19,79,8.6,34,208679,2089,74,0,417
+Pro Evolution Soccer 2009,2008-11-12,79,7.4,47,6493302,42900,2603,0,9529
+Assassin's Creed: Director's Cut Edition,2008-04-08,79,7.5,50,4107536,18461,765,0,3622
+Strong Bad's Cool Game for Attractive People Episode 3: Baddest of the Bands,2008-10-27,79,8.1,17,8229764,98770,2623,0,28734
+Sam & Max Episode 203: Night of the Raving Dead,2008-02-12,79,8.2,32,9574,137,3,0,143
+FlatOut: Ultimate Carnage,2008-08-26,79,7.7,32,1365285,6864,272,0,1158
+King's Bounty: The Legend,2008-09-23,79,8.6,0,0,0,0,0,0
+LEGO Indiana Jones: The Original Adventures,2008-06-03,78,7.7,12,8158056,42796,1768,0,3563
+Tom Clancy's Rainbow Six: Vegas 2,2008-04-15,78,7.3,16,624416,1732,259,0,299
+Devil May Cry 4,2008-07-08,78,8.5,16,1621096,9980,322,0,2332
+Penumbra: Black Plague,2008-02-13,78,8.7,50,40444106,95887,11509,0,9333
+Bejeweled Twist,2008-10-27,78,7.3,49,152573,1343,27,0,537
+FIFA Soccer 09,2008-10-14,77,6.8,48,517992,5616,130,0,1254
+Command & Conquer 3: Kane's Wrath,2008-03-24,77,8.1,11,198534,808,73,0,62
+Penny Arcade Adventures: Episode One,2008-05-21,77,8.3,34,1182867,20531,471,0,2757
+Pirates of the Burning Sea,2008-01-21,76,7.6,35,12205,179,4,0,50
+S.T.A.L.K.E.R.: Clear Sky,2008-09-15,75,7.7,0,0,0,0,0,0
+The Sims 2 Apartment Life,2008-08-26,75,7.7,50,186152,3021,119,0,691
+A Vampyre Story,2008-12-02,75,8.5,45,62081,949,56,0,216
+Dungeon Runners,2008-07-02,74,5.8,32,1270095,3716,293,0,545
+The Sims 2: FreeTime,2008-02-26,74,7.3,44,1140365,14350,277,0,2386
+Europa Universalis: Rome,2008-04-15,73,6.3,50,4784463,28978,637,0,6294
+Strong Bad's Cool Game for Attractive People Episode 1: Homestar Ruiner,2008-08-11,73,8,49,157967,3752,69,0,622
+The Sims: Castaway Stories,2008-01-29,73,7.6,47,454661,1835,119,0,648
+The Political Machine 2008,2008-06-24,73,6.6,4,131070,655,39,0,110
+Frontlines: Fuel of War,2008-02-25,73,6.9,47,6493337,42900,2603,0,9529
+"Warhammer 40,000: Dawn of War - Soulstorm",2008-03-04,73,8.1,20,1623151,9999,322,0,2335
+Neverwinter Nights 2: Storm of Zehir,2008-11-18,73,7.2,12,79916,917,22,0,832
+X3: Terran Conflict,2008-10-16,73,7.9,11,5689,236,3,0,66
+Bully: Scholarship Edition,2008-10-21,72,7.5,39,269973,6451,85,0,1612
+Mount & Blade,2008-09-30,72,8.7,10,2085354,9510,593,0,1994
+Crazy Machines 2,2008-06-20,72,7.4,7,49054,1457,20,0,431
+Rail Simulator,2008-01-16,72,6.9,39,133810,2420,66,0,979
+The Lost Crown: A Ghost-hunting Adventure,2008-03-03,71,7.5,46,1225927,24781,212,0,2710
+Sherlock Holmes: Nemesis,2008-04-14,71,7.5,31,11751,183,5,0,84
+Sacred 2: Fallen Angel,2008-11-11,71,6.8,40,287846,4468,120,0,870
+DreamWorks Kung Fu Panda,2008-06-03,71,7.8,9,3571239,21334,782,0,5382
+Romance of the Three Kingdoms XI,2008-09-09,70,8.3,21,79206,355,18,0,141
+007: Quantum of Solace,2008-11-04,70,6.3,46,639208,4928,237,0,1477
+MySims,2008-10-28,70,6.4,41,78007,439,24,0,233
+Lost Planet: Extreme Condition Colonies Edition,2008-05-27,70,7.4,33,118107,688,7,0,356
+Mercenaries 2: World in Flames,2008-09-04,70,5.9,49,290330,2670,102,0,1739
+Dracula: Origin,2008-06-02,70,6.5,50,8129925,175621,4405,0,26625
+Nancy Drew: The Phantom of Venice,2008-07-11,69,6.6,9,964099,6551,335,0,1009
+Jack Keane,2008-04-15,69,7,49,27431828,216091,9962,0,59138
+FIFA Manager 09,2008-12-19,69,7.1,50,40446,500,14,0,231
+Nikopol: Secrets of the Immortals,2008-09-20,68,6,48,164798,586,39,0,95
+Sinking Island,2008-08-21,68,7.1,23,27458,146,13,0,24
+The Experiment,2008-02-05,68,6.5,43,11440937,36080,3804,0,3230
+Rhiannon: Curse of the Four Branches,2008-10-05,67,7.1,50,203312,782,21,0,637
+Minecraft,2009-05-10,93,7.4,33,476233,1191,166,0,286
+Batman: Arkham Asylum,2009-09-15,91,8.7,27,32149,564,15,0,125
+Street Fighter IV,2009-07-01,91,8,50,66012,595,20,0,130
+Dragon Age: Origins,2009-11-03,91,8.6,35,34080,433,28,0,125
+Empire: Total War,2009-03-03,90,6.9,36,5493160,14685,1567,0,4987
+Left 4 Dead 2,2009-11-17,89,8.5,50,116808,1631,13,0,1294
+DiRT 2,2009-12-08,89,8.2,4,935,20,0,0,6
+EVE Online: Special Edition,2009-03-10,88,7.7,34,3096852,196710,6254,0,44808
+Plants vs. Zombies,2009-08-18,87,8.9,9,7018,85,6,0,26
+Football Manager 2010,2009-11-03,87,9,4,1986,13,2,0,7
+Burnout Paradise: The Ultimate Box,2009-02-05,87,7.5,6,5177,87,2,0,3
+The Sims 3,2009-06-02,86,7.6,49,76891,2190,32,0,579
+The Secret of Monkey Island: Special Edition,2009-07-15,86,9,4,3423,8,1,0,4
+"Warhammer 40,000: Dawn of War II",2009-02-18,85,8.1,47,46819109,284202,17216,0,53087
+Machinarium,2009-10-16,85,8.8,45,21917830,175384,5539,0,55427
+"Time Gentlemen, Please!",2009-07-02,84,7.6,47,4088157,17732,960,0,4593
+The Lord of the Rings Online: Siege of Mirkwood,2009-12-01,83,7.1,47,1635842,13601,186,0,2575
+Out of the Park Baseball 10,2009-06-02,83,8.3,33,937313,7457,125,0,2287
+Need for Speed: Shift,2009-09-15,83,5.8,46,32929244,416389,8871,0,68577
+Red Faction: Guerrilla,2009-09-15,82,7.5,23,7954758,59164,1771,0,6234
+Dawn of Discovery,2009-06-17,82,8.8,20,1757404,16970,271,0,3675
+Tales of Monkey Island Chapter 3: Lair of the Leviathan,2009-09-29,82,7.9,48,8626740,20505,2297,0,3272
+Football Manager Live,2009-01-23,82,3.1,34,580411,4073,103,0,1159
+DCS: Black Shark,2009-04-13,82,8.5,45,6906318,23930,1677,0,1841
+The Sims 3: World Adventures,2009-11-16,81,8,50,4035577,78392,1410,0,21607
+Tales of Monkey Island Chapter 5: Rise of the Pirate God,2009-12-08,81,8.4,0,0,0,0,0,0
+Borderlands,2009-10-26,81,7.8,45,2479551,16303,398,0,5244
+Fallout 3: Broken Steel,2009-05-05,81,7.4,40,2147751,30680,410,0,3247
+Mirror's Edge,2009-01-12,81,8.1,50,938093,13291,184,0,2853
+Defense Grid: The Awakening,2009-07-29,81,8.8,29,58299,705,15,0,114
+Osmos,2009-08-18,80,7.6,4,127448,697,17,0,121
+The Chronicles of Riddick: Assault on Dark Athena,2009-04-07,80,8,24,874585,5577,234,0,1061
+AI War: Fleet Command,2009-05-14,80,8.3,5,372,2,0,0,0
+Trine,2009-09-11,80,8.2,37,13678591,70742,3606,0,22051
+Men of War,2009-03-16,80,8.1,50,5578652,80096,1429,0,16160
+Tales of Monkey Island Chapter 4: The Trial and Execution of Guybrush Threepwood,2009-10-30,80,8.4,10,522351,7149,123,0,1339
+Sins of a Solar Empire: Entrenchment,2009-02-25,80,8.1,50,297619,1134,39,0,313
+Fallout 3: Point Lookout,2009-06-23,79,7.8,31,90466,3410,36,0,1000
+The Path,2009-03-18,79,7,30,63194,786,22,0,377
+Bookworm Adventures: Volume 2,2009-07-30,79,7.6,44,111632,1925,31,0,743
+Tropico 3,2009-10-20,79,8.2,48,419527,1270,56,0,435
+Tales of Monkey Island Chapter 1: Launch of the Screaming Narwhal,2009-07-07,79,8.2,0,0,0,0,0,0
+Prototype,2009-06-10,79,7.9,28,10054,938,8,0,1705
+Free Realms,2009-04-29,79,6.4,50,2441003,63680,954,0,18167
+King Arthur: The Role-Playing Wargame,2009-11-24,79,7.9,11,1935,26,1,0,21
+Overlord II,2009-06-23,79,8.1,28,3595352,32422,788,0,2615
+F.E.A.R. 2: Project Origin,2009-02-10,79,7.8,45,215955,980,71,0,207
+Crayon Physics Deluxe,2009-01-07,79,7.6,25,45689,432,13,0,137
+Zuma's Revenge!,2009-09-15,78,7.9,28,385008,3279,47,0,420
+Closure,2009-01-01,78,6.6,17,956299,6240,1040,0,1685
+League of Legends,2009-10-27,78,5.5,47,405278,1257,55,0,416
+Wings of Prey,2009-12-25,78,7.7,44,1003998,11553,253,0,2797
+Pro Evolution Soccer 2010,2009-10-23,78,6.9,49,156321,3093,68,0,2613
+Call of Juarez: Bound in Blood,2009-06-30,78,8,18,3411278,19208,883,0,2228
+Nancy Drew: The Ransom of the Seven Ships,2009-07-14,78,8.6,11,9373,172,2,0,51
+Fallout 3: The Pitt,2009-03-24,78,6.9,33,59110,735,30,0,197
+ArmA II,2009-06-26,77,7.5,50,697388,2570,96,0,726
+Tales of Monkey Island Chapter 2: The Siege of Spinner Cay,2009-08-20,77,7.5,31,339291,1846,66,0,437
+Hearts of Iron III,2009-08-11,77,7.1,38,7332765,189306,3894,0,75764
+The Void,2009-12-15,77,8.3,48,108632,754,33,0,273
+Rise of Flight: The First Great Air War,2009-06-29,77,7.6,42,14079579,162399,3974,0,61347
+Risen,2009-10-02,77,8.1,47,111164,2427,30,0,667
+X-Men Origins: Wolverine,2009-05-01,77,8.1,17,10447,322,13,0,95
+Men of War: Red Tide,2009-11-01,77,8.2,16,539512,665,220,0,77
+Aion,2009-09-22,76,6.6,18,1103888,11467,245,0,702
+Peggle Nights,2009-03-26,76,8.1,47,24430563,126022,6327,0,15813
+Operation Flashpoint: Dragon Rising,2009-10-06,76,4.9,10,79551,414,14,0,235
+The Saboteur,2009-12-08,76,7.9,19,41019,213,17,0,65
+Nancy Drew: Warnings at Waverly Academy,2009-10-13,76,6.7,37,234126,2946,119,0,405
+"Wallace & Gromit's Grand Adventures, Episode 1: Fright of the Bumblebees",2009-03-23,76,7.5,5,22060,290,1,0,179
+Demigod,2009-04-14,76,7.9,7,6871,106,11,0,33
+FIFA Manager 10,2009-10-30,75,5.5,47,46780798,717596,12678,0,155212
+"Wallace & Gromit's Grand Adventures, Episode 3: Muzzled!",2009-06-15,75,7.5,50,182860,611,24,0,172
+BattleForge,2009-03-23,75,7,47,112941,1340,21,0,352
+And Yet It Moves,2009-04-02,75,6.2,40,1292250,6967,186,0,1473
+The Dark Eye: Drakensang,2009-02-23,75,8.6,18,116625,403,16,0,187
+Battlestations: Pacific,2009-05-12,74,8.4,35,920481,6633,114,0,1824
+Ghostbusters: The Video Game,2009-06-16,74,7.7,40,3050890,7743,2847,0,874
+Wolfenstein,2009-08-18,74,7.3,41,51996,706,29,0,263
+Mini Ninjas,2009-09-08,74,8.3,49,535510,3048,248,0,1259
+RACE On,2009-10-05,73,8.2,27,7801032,6979,4131,0,441
+Sherlock Holmes vs. Jack the Ripper,2009-05-26,73,8.1,44,331518,6012,425,0,2158
+Neverwinter Nights 2: Mysteries of Westgate,2009-04-29,73,7.3,36,73005,1173,28,0,216
+Ceville,2009-09-28,73,8.2,31,45254,616,11,0,406
+Gratuitous Space Battles,2009-11-16,72,6.7,47,9324715,56257,2519,0,9443
+Majesty 2: The Fantasy Kingdom Sim,2009-09-17,72,7.3,24,1285452,4029,162,0,555
+"Wallace & Gromit's Grand Adventures, Episode 4: The Bogey Man",2009-07-30,72,7.9,20,74146,1985,47,0,474
+Grand Ages: Rome,2009-03-17,72,8,47,9324715,56257,2519,0,9443
+"Wallace & Gromit's Grand Adventures, Episode 2: The Last Resort",2009-05-05,72,8.6,31,37149,390,31,0,311
+Section 8,2009-08-25,72,7,5,33242363,118108,11237,0,14786
+Champions Online,2009-09-01,72,6.2,47,91575,1727,35,0,120
+World in Conflict: Soviet Assault,2009-03-10,72,8.3,46,687939,10100,224,0,554
+Saints Row 2,2009-01-05,72,6.8,36,6896738,86311,2112,0,19002
+Mevo & the Grooveriders,2009-03-20,72,6.2,48,244882,3720,136,0,1073
+Mass Effect 2,2010-01-26,94,8.8,34,113625,1279,30,0,430
+Starcraft II: Wings of Liberty,2010-07-27,93,8.2,29,20127260,100465,5148,0,6644
+World of Warcraft: Cataclysm,2010-12-07,90,5.5,11,4001,77,3,0,58
+Braid,2010-01-26,90,8.6,49,66903,2062,20,0,813
+Sid Meier's Civilization V,2010-09-21,90,7.9,19,33585,412,12,0,61
+BioShock 2,2010-02-09,88,8,6,24853,189,5,0,47
+Battlefield: Bad Company 2,2010-03-02,87,8.3,24,31359,486,13,0,125
+Monkey Island 2 Special Edition: LeChuck's Revenge,2010-07-07,87,8.9,47,144132,1356,47,0,479
+Borderlands: The Secret Armory of General Knoxx,2010-02-25,86,7.2,47,9324746,56257,2519,0,9443
+Need for Speed: Hot Pursuit,2010-11-16,86,6.7,39,121457,1534,59,0,312
+Mass Effect 2: Lair of the Shadow Broker,2010-09-07,86,8.6,12,89681,547,12,0,326
+Battlefield: Bad Company 2 Vietnam,2010-12-18,86,8,47,9324746,56257,2519,0,9443
+Assassin's Creed II,2010-03-09,86,6.9,23,10350,80,9,0,44
+Football Manager 2011,2010-11-23,85,8.4,5,177869,1033,68,0,132
+"Warhammer 40,000: Dawn of War II - Chaos Rising",2010-03-10,85,8.7,20,572467,3137,107,0,1955
+Fallout: New Vegas,2010-10-19,84,8.6,49,415390,2527,95,0,611
+Just Cause 2,2010-03-23,84,7.7,50,7614139,79368,3296,0,25346
+F1 2010,2010-09-21,84,6.6,50,68040,590,163,0,422
+Shatter,2010-03-15,84,7.4,35,923362,15022,181,0,2875
+FIFA Soccer 11,2010-09-28,83,7.7,49,3552861,16825,619,0,4335
+Sam & Max: The Devil's Playhouse - Episode 2: The Tomb of Sammun-Mak,2010-05-18,83,7.8,45,7717948,60576,991,0,11086
+Darksiders,2010-09-22,83,7.7,17,76918,1070,17,0,137
+Age of Conan: Rise of the Godslayer,2010-05-11,83,8.4,46,2107403,26170,527,0,5109
+Torchlight,2010-01-05,83,8,38,1107304,11540,497,0,2459
+Tom Clancy's Splinter Cell: Conviction,2010-04-27,83,5.2,50,143153,1154,52,0,365
+Bejeweled 3,2010-12-07,82,8.1,48,1615778,14878,337,0,3294
+Dragon Age: Origins - Awakening,2010-03-16,82,7.8,20,363960,6273,206,0,1768
+Lara Croft and the Guardian of Light,2010-09-28,82,8.1,50,13573617,80048,2994,0,8202
+Desktop Dungeons,2010-10-17,82,8.2,49,417477,3348,52,0,809
+Recettear: An Item Shop's Tale,2010-09-10,82,8.6,43,150857,1364,41,0,600
+King's Bounty: Armored Princess,2010-09-10,82,8.6,49,6670365,62598,1530,0,11243
+Divinity II: The Dragon Knight Saga,2010-11-05,82,8.2,28,1078280,3577,228,0,567
+VVVVVV,2010-01-11,81,8.1,32,304278,3649,115,0,618
+Metro 2033,2010-03-16,81,8.1,49,2723069,59684,1551,0,12588
+Blur,2010-05-25,81,7.4,48,616195,14331,273,0,1547
+Sam & Max: The Devil's Playhouse - Episode 1: The Penal Zone,2010-04-15,81,8.3,34,110492,2189,38,0,396
+Napoleon: Total War,2010-02-23,81,7.9,21,502094,4814,79,0,904
+Call of Duty: Black Ops,2010-11-09,81,5.2,7,673368,24195,426,0,4536
+Sam & Max: The Devil's Playhouse - Episode 5: The City That Dares Not Sleep,2010-08-30,81,8,1,134899,12809,117,0,1370
+Toki Tori,2010-01-28,80,7.9,44,542312,4241,92,0,893
+S.T.A.L.K.E.R.: Call of Pripyat,2010-02-02,80,8.7,35,68298,587,26,0,158
+Revenge of the Titans,2010-05-24,79,7.6,36,83864,693,17,0,292
+Cart Life,2010-07-29,79,5.9,49,1101242,11341,292,0,2794
+Worms Reloaded,2010-08-26,79,6.8,43,585659,4547,283,0,939
+Puzzle Dimension,2010-06-21,79,7.6,49,91752,244,5,0,412
+Split/Second,2010-05-18,79,8.2,48,659375,3966,198,0,799
+Tropico 3: Absolute Power,2010-05-17,79,7.6,42,214467,10700,137,0,1094
+The Misadventures of P.B. Winterbottom,2010-04-20,79,8.3,47,35859,607,26,0,210
+The Settlers 7: Paths to a Kingdom,2010-03-23,79,5.2,48,86793,616,58,0,252
+LEGO Harry Potter: Years 1-4,2010-06-29,79,7.9,44,136631,828,22,0,274
+Dead Rising 2,2010-09-27,78,6.3,42,1027175,7204,210,0,2514
+Mount & Blade: Warband,2010-03-30,78,8.7,40,291445,9575,109,0,811
+King's Bounty: Crossworlds,2010-09-17,78,8.6,12,13517,106,4,0,52
+Dawn of Discovery: Venice,2010-02-26,78,8.3,1,134899,12809,117,0,1370
+Mafia II,2010-08-23,77,7.9,49,2506915,15054,294,0,5070
+Zeno Clash,2010-02-07,77,7.9,45,3266446,25462,1007,0,6080
+Alien Swarm,2010-07-19,77,8.2,1,134899,12809,117,0,1370
+Supreme Commander 2,2010-03-02,77,6.2,9,3789,66,2,0,35
+The Dream Machine,2010-12-14,77,8.7,41,339557,4000,264,0,1328
+Heroes of Newerth,2010-05-12,76,7.3,20,4462086,18380,1035,0,1269
+Plain Sight,2010-04-05,76,7.7,6,1821376,13406,274,0,732
+R.U.S.E.,2010-09-07,76,8.1,41,50853,1539,50,0,341
+Serious Sam HD: The Second Encounter,2010-04-28,76,8,7,561576,1243,151,0,125
+Greed Corp,2010-12-10,76,7.1,26,146019,2131,63,0,409
+Din's Curse,2010-03-31,76,7.6,49,68485,1107,45,0,311
+Sam & Max: The Devil's Playhouse - Episode 4: Beyond the Alley of the Dolls,2010-07-20,76,8,8,10883,82,4,0,36
+Victoria II,2010-08-13,75,8.2,46,152207,883,45,0,187
+FIFA Manager 11,2010-11-03,75,5.5,50,10290704,52232,5021,0,5369
+Prince of Persia: The Forgotten Sands,2010-06-08,75,6.6,50,1136217,10495,391,0,2904
+Left 4 Dead 2: The Passing,2010-04-22,75,8.1,50,8130418,175625,4405,0,26625
+Transformers: War for Cybertron,2010-06-22,75,7.9,47,87164,620,61,0,250
+Sam & Max: The Devil's Playhouse - Episode 3: They Stole Max's Brain!,2010-06-22,75,7.4,43,212710,2052,24,0,350
+Sol Survivor,2010-03-15,75,8.2,50,4411689,109649,1761,0,8474
+Back to the Future: The Game - Episode I: It's About Time,2010-12-22,74,7.1,44,4154731,41149,2266,0,5930
+The Sims 3: Late Night Expansion Pack,2010-10-26,74,5.3,35,52456,644,46,0,164
+The Sims 3: Ambitions,2010-06-01,74,7.3,40,247865,2541,120,0,1240
+Disney/Pixar Toy Story 3,2010-06-15,73,6.3,17,337773,5552,87,0,468
+ArmA II: Operation Arrowhead,2010-06-29,73,8.1,10,979626,7184,134,0,673
+Blood Bowl: Legendary Edition,2010-10-28,73,6.4,23,93054,1095,66,0,308
+Alpha Protocol,2010-06-01,72,7.5,23,134120,1251,46,0,321
+Medal of Honor,2010-10-12,72,6.4,26,70259,1045,26,0,412
+Blood Bowl,2010-01-26,72,6.5,10,8410,81,1,0,24
+Divinity II: Ego Draconis,2010-01-06,72,7.7,49,539183,2737,251,0,694
+Flotilla,2010-02-26,72,7.3,3,220681,1201,50,0,203
+Poker Night at the Inventory,2010-11-22,71,7,4,5808,56,4,0,9
+Europa Universalis III: Divine Wind,2010-12-14,71,8.7,1,134899,12809,117,0,1370
+Max & the Magic Marker,2010-02-08,71,5.7,14,298288,2823,98,0,1075
+Mass Effect 2: Kasumi - Stolen Memory,2010-04-06,71,7.3,28,119878,3295,70,0,655
+The Kings' Crusade,2010-10-08,71,6.9,50,633070,3982,218,0,732
+Lead and Gold: Gangs of the Wild West,2010-04-08,70,8.4,45,1334478,9441,274,0,3221
+Global Agenda,2010-02-01,70,7.9,49,30323432,60206,9231,0,5472
+Evochron Mercenary,2010-09-17,70,7.8,6,35220,359,1,0,47
+Puzzle Agent,2010-06-30,70,6.9,1,134899,12809,117,0,1370
+The Whispered World,2010-04-26,70,7.6,4,3371164,24337,1103,0,3406
+Portal 2,2011-04-18,95,8.8,32,49983,762,16,0,132
+The Elder Scrolls V: Skyrim,2011-11-10,94,8.1,12,115202,2086,39,0,611
+Batman: Arkham City,2011-11-21,91,8.6,29,1745050,50622,459,0,14050
+Deus Ex: Human Revolution,2011-08-23,90,8.5,48,81477051,73404,22718,0,8408
+Total War: Shogun 2,2011-03-15,90,8.3,50,8952967,94900,1844,0,21094
+FIFA Soccer 12,2011-09-27,89,7.1,37,104593,1638,30,0,520
+Battlefield 3,2011-10-25,89,7.5,29,95359,2148,54,0,584
+LIMBO,2011-08-02,88,8.1,49,1196927,8329,208,0,2777
+Assassin's Creed: Brotherhood,2011-03-22,88,8.2,49,131749,2799,64,0,563
+The Witcher 2: Assassins of Kings,2011-05-17,88,8.5,41,143164,1220,30,0,349
+Super Meat Boy,2011-04-05,87,8.3,18,145202,1358,14,0,361
+Dead Space 2,2011-01-25,87,8.3,19,3722,92,4,0,32
+Bastion,2011-08-16,86,8.6,12,34562,430,3,0,94
+Crysis 2,2011-03-22,86,6.8,10,1669,24,2,0,16
+DiRT 3,2011-05-24,86,7,50,141214452,281022,25271,0,93294
+Battlefield 3: Back to Karkand,2011-12-13,86,7.2,46,186796,2479,40,0,529
+Amnesia: The Dark Descent,2011-02-17,85,8.6,7,30432,251,4,0,76
+Frozen Synapse,2011-05-26,85,7.7,9,4724,90,0,0,23
+Star Wars: The Old Republic,2011-12-20,85,5.9,14,221965,1826,164,0,672
+Saints Row: The Third,2011-11-14,84,8.1,28,165534,2108,66,0,486
+SpaceChem,2011-03-02,84,8.4,20,133742,1065,43,0,253
+Super Street Fighter IV: Arcade Edition,2011-07-07,84,7.8,48,323004,6017,68,0,872
+Football Manager 2012,2011-10-20,84,8,44,3336324,52194,805,0,15580
+Unity of Command,2011-11-15,84,7.2,49,5852723,51941,946,0,10436
+The Binding of Isaac,2011-09-28,84,8.3,49,16289110,71884,3318,0,17016
+Trine 2,2011-12-07,84,8.4,48,2773995,17749,299,0,3708
+Rift,2011-03-01,84,7.2,45,2009352,12475,258,0,4153
+Shift 2: Unleashed,2011-03-29,84,6.1,7,673373,24195,426,0,4536
+Anno 2070,2011-11-17,83,7,45,3776198,35167,1222,0,7272
+Orcs Must Die!,2011-10-11,83,8.1,40,394780,4523,110,0,791
+Terraria,2011-05-16,83,8.5,50,6876497,65430,1611,0,11511
+L.A. Noire: The Complete Edition,2011-11-08,83,7.9,46,2304401,22364,419,0,3449
+F1 2011,2011-09-19,83,7.2,48,2099857,24883,609,0,4825
+The Book of Unwritten Tales,2011-10-28,82,8.2,50,921826,12963,258,0,3870
+Gemini Rue,2011-02-24,82,8.4,40,1127223,7032,257,0,885
+Dragon Age II,2011-03-08,82,4.5,41,1391645,9957,279,0,2503
+Monday Night Combat,2011-01-24,82,7.3,41,1263931,32193,693,0,5385
+Fallout: New Vegas - Old World Blues,2011-07-19,82,7.8,36,439493,8756,223,0,3645
+Rochard,2011-11-15,81,8,49,3383839,39459,1253,0,30469
+Jamestown: Legend of the Lost Colony,2011-06-08,81,7.5,27,86523,698,54,0,283
+TrackMania 2 Canyon,2011-09-14,81,7.7,43,1311189,8063,340,0,2171
+Dungeon Defenders,2011-10-18,81,7.3,50,5067364,42040,1377,0,11983
+Anomaly: Warzone Earth,2011-04-08,80,7.3,4,3006,46,1,0,10
+Dead Island,2011-09-05,80,6.8,36,2332183,6675,711,0,1517
+Assassin's Creed: Revelations,2011-11-29,80,7.4,38,993213,4261,225,0,726
+World of Tanks,2011-09-06,80,3.7,42,520745,5543,219,0,2890
+"Warhammer 40,000: Dawn of War II - Retribution",2011-02-28,80,7.8,50,3550757,39223,1480,0,7839
+Panzer Corps,2011-07-11,80,7.5,44,362087,3190,46,0,444
+Driver: San Francisco,2011-09-27,80,7,32,1336222,9873,254,0,3045
+CAPSIZED,2011-04-29,80,7.2,27,162159,2015,105,0,508
+Runaway: A Twist of Fate,2011-04-21,79,8.2,50,763855,4659,151,0,1017
+Bloodline Champions,2011-01-13,79,8,48,167372,1259,84,0,306
+Dungeons of Dredmor,2011-07-13,79,7.8,50,2557444,27421,602,0,11102
+Rage,2011-10-03,79,5.2,22,2813325,74965,1037,0,13832
+The Sims 3: Pets,2011-10-18,79,6,34,2044434,20647,529,0,1720
+Two Worlds II: Pirates of the Flying Fortress,2011-09-30,78,7.5,50,470193,10428,85,0,1016
+Call of Duty: Modern Warfare 3,2011-11-08,78,2.5,41,271406,6585,130,0,1971
+Tropico 4,2011-08-30,78,7.7,31,371760,2709,58,0,457
+Sonic Generations,2011-11-03,77,8.3,26,156852,2571,150,0,672
+Men of War: Assault Squad,2011-06-14,77,8.2,21,69343,1678,31,0,246
+Section 8: Prejudice,2011-05-04,77,7.8,43,1480616,18117,652,0,3629
+Might & Magic: Heroes VI,2011-10-13,77,6,29,1694189,8310,465,0,983
+Pro Evolution Soccer 2012,2011-09-27,77,6.4,25,26397,347,13,0,151
+Magic: The Gathering - Duels of the Planeswalkers 2012,2011-06-15,77,5.8,39,114749,1011,26,0,411
+The Sims Medieval,2011-03-22,77,6,37,320187,7870,102,0,1554
+Hamilton's Great Adventure,2011-05-31,77,7.5,46,331539,2314,91,0,544
+From Dust,2011-08-17,76,4.9,45,186913,3149,104,0,762
+Renegade Ops,2011-10-26,76,7.4,27,1027083,8699,219,0,1767
+LEGO Star Wars III: The Clone Wars,2011-03-22,76,7.5,45,5863877,96376,3813,0,13656
+Red Orchestra 2: Heroes of Stalingrad,2011-09-13,76,7.3,50,737370,11111,141,0,2197
+Who's That Flying?!,2011-01-31,76,6.7,41,57392,634,11,0,432
+Payday: The Heist,2011-10-20,76,7.8,48,151103,1084,34,0,507
+Two Worlds II,2011-02-03,76,6.5,11,303,7,0,0,5
+Avadon: The Black Fortress,2011-05-02,75,7.9,19,78392,209,6,0,43
+Black Mirror III: Final Fear,2011-04-19,75,7.5,8,1421901,3627,228,0,754
+Red Faction: Armageddon,2011-06-07,75,6.7,50,287662,4295,91,0,1551
+Back to the Future: The Game - Episode V: OUTATIME,2011-06-23,75,7.2,38,590562,5480,90,0,1556
+Atom Zombie Smasher,2011-01-23,75,7.1,47,4719869,94844,1848,0,24298
+Fable III,2011-05-17,75,5.4,40,58816,561,32,0,229
+Alice: Madness Returns,2011-06-14,75,8.4,40,2638857,17254,545,0,4827
+The Next Big Thing,2011-04-21,75,7.9,49,3452023,11903,588,0,847
+Back to the Future: The Game - Episode II: Get Tannen!,2011-02-17,74,7.3,50,7755026,48572,784,0,16951
+Space Pirates and Zombies,2011-08-15,74,7.7,44,2095722,11623,1296,0,2786
+"Warhammer 40,000: Space Marine",2011-09-05,74,7.4,14,112517,914,19,0,36
+F.E.A.R. 3,2011-06-21,74,5.9,50,7814937,112156,4721,0,37147
+Rock of Ages,2011-09-07,74,7.8,14,148338,427,28,0,172
+Deus Ex: Human Revolution - The Missing Link,2011-10-18,73,7.3,22,72138,1113,28,0,497
+LEGO Pirates of the Caribbean: The Video Game,2011-05-24,73,6.6,47,194852,3828,134,0,430
+The Blackwell Deception,2011-10-12,73,8.5,7,599471,1524,127,0,262
+Hard Reset,2011-09-13,73,7.3,24,3271696,61640,1426,0,51710
+Solar 2,2011-06-17,72,7.1,27,233148,2479,155,0,622
+Serious Sam 3: BFE,2011-11-22,72,8.2,48,12270168,42674,3510,0,9068
+Blocks That Matter,2011-08-19,72,7.3,48,783221,8420,658,0,2482
+DC Universe Online,2011-01-11,72,6.8,11,5964781,258296,3433,0,42649
+Dishonored,2012-10-08,91,8.4,25,598377,4730,119,0,1287
+Mark of the Ninja,2012-10-16,91,8,39,3581359,34683,855,0,2972
+Guild Wars 2,2012-08-28,90,7.9,23,12883,177,7,0,77
+The Walking Dead: A Telltale Games Series,2012-04-24,89,8.7,27,48571,470,9,0,163
+The Walking Dead: Episode 5 - No Time Left,2012-11-21,89,8.9,45,101764,2141,68,0,587
+Borderlands 2,2012-09-17,89,8.2,50,1538176,9714,534,0,3219
+XCOM: Enemy Unknown,2012-10-09,89,8.2,50,140829,2329,30,0,460
+Mass Effect 3,2012-03-06,89,5.5,40,689443,11188,181,0,2886
+Far Cry 3,2012-12-04,88,8.2,48,1321284,20582,264,0,2944
+Torchlight II,2012-09-20,88,8.6,25,115144,515,22,0,76
+Thirty Flights of Loving,2012-08-20,88,5,50,180616,775,41,0,163
+Diablo III,2012-05-15,88,4,45,3160388,16168,710,0,3282
+Max Payne 3,2012-05-31,87,7.6,19,525618,2561,150,0,423
+Total War: Shogun 2 - Fall of the Samurai,2012-03-23,86,8.5,40,175394,2239,43,0,482
+Football Manager 2013,2012-11-01,86,6.8,48,2189532,25227,535,0,5002
+Black Mesa,2012-09-14,86,8.9,21,50125,525,17,0,131
+FIFA Soccer 13,2012-09-25,86,6.6,26,427372,1957,93,0,479
+Tribes: Ascend,2012-04-12,86,7.8,49,764147,8351,195,0,2132
+Rayman Origins,2012-03-29,86,8.4,46,10995819,40262,3009,0,5903
+Hotline Miami,2012-10-23,85,8.5,50,26156,345,8,0,120
+Out of the Park Baseball 13,2012-04-09,85,8.2,8,69483,538,24,0,112
+Dark Souls: Prepare to Die Edition,2012-08-23,85,7.5,20,4872358,31818,1024,0,5388
+The Walking Dead: Episode 3 - Long Road Ahead,2012-08-29,85,8.4,50,1002657,4309,332,0,918
+The Walking Dead: Episode 2 - Starved for Help,2012-06-29,84,8.6,11,7180,127,1,0,36
+Pinball FX 2,2012-10-27,84,7.9,47,790632,6037,502,0,1930
+PlanetSide 2,2012-11-20,84,7,49,1450737,34705,281,0,5062
+FTL: Faster Than Light,2012-09-14,84,8.4,36,52836,1135,20,0,415
+Orcs Must Die! 2,2012-07-30,83,7.9,47,2281108,21216,644,0,5835
+Alan Wake,2012-02-16,83,8,22,5468463,262388,3157,0,45448
+Counter-Strike: Global Offensive,2012-08-21,83,7.8,50,14708026,289835,7322,0,135923
+Sins of a Solar Empire: Rebellion,2012-06-12,82,7.8,39,894148,7282,147,0,1086
+Legend of Grimrock,2012-04-11,82,8.1,34,457774,4839,67,0,1038
+Borderlands 2: Mr. Torgue's Campaign of Carnage,2012-11-20,82,7.3,28,2437368,28605,696,0,10161
+Crusader Kings II,2012-02-14,82,8.7,50,5680082,74492,1518,0,13518
+World of Warcraft: Mists of Pandaria,2012-09-25,82,4.8,48,131208,1875,40,0,422
+The Walking Dead: Episode 1 - A New Day,2012-04-24,82,8.4,21,30422,677,20,0,255
+Botanicula,2012-04-19,82,8.3,48,1967759,10529,481,0,1567
+To the Moon,2012-09-07,81,8.9,50,586096,6487,189,0,1396
+Darksiders II,2012-08-13,81,7.8,32,31619,526,37,0,244
+Lone Survivor,2012-04-23,81,7.2,37,219491,3444,51,0,840
+Vessel,2012-03-01,81,7.9,23,50379,1449,19,0,474
+Kingdoms of Amalur: Reckoning,2012-02-07,81,6.6,46,426619,7080,192,0,1767
+Sleeping Dogs,2012-08-13,81,8.2,11,325538,1533,151,0,442
+Wargame: European Escalation,2012-02-22,81,8.1,26,47045,1416,40,0,446
+Sid Meier's Civilization V: Gods & Kings,2012-06-18,80,7.7,50,3052803,14318,516,0,2562
+Pro Evolution Soccer 2013,2012-09-25,80,6.9,50,2013074,51165,705,0,6678
+Assassin's Creed III,2012-11-20,80,6.2,5,5386412,51310,1452,0,5383
+La-Mulana (Remake),2012-07-13,80,7.1,46,863244,16191,2063,0,9153
+Natural Selection 2,2012-10-30,80,8.4,50,299943,13697,559,0,927
+Borderlands 2: Captain Scarlett and Her Pirate's Booty,2012-10-16,80,7.4,49,6779118,154285,2388,0,46710
+The Walking Dead: Episode 4 - Around Every Corner,2012-10-10,80,8.5,41,45115,339,11,0,119
+F1 2012,2012-09-18,80,6.9,50,1507962,25863,702,0,8402
+Stealth Bastard Deluxe,2012-11-28,80,8.2,44,1370647,22040,586,0,6433
+Stacking,2012-03-06,80,7.9,50,153665,4511,82,0,906
+FLY'N,2012-11-09,80,8.2,50,3061403,56216,1300,0,15365
+Dustforce,2012-01-17,79,7.9,49,489845,6817,348,0,1752
+Hitman: Absolution,2012-11-19,79,7,29,8626000,178608,8319,0,18542
+Street Fighter X Tekken,2012-05-11,79,6.4,46,641057,8050,153,0,2232
+Chivalry: Medieval Warfare,2012-10-16,79,7.8,49,219394,6002,61,0,1260
+Rift: Storm Legion,2012-11-13,79,7.8,48,340773,4706,241,0,1168
+Need for Speed: Most Wanted - A Criterion Game,2012-10-30,78,4.4,19,358908,6186,102,0,887
+Baldur's Gate: Enhanced Edition,2012-11-28,78,6.8,49,3900876,31872,503,0,6920
+Transformers: Fall of Cybertron,2012-08-20,78,7.9,50,4695458,253545,2858,0,42152
+Chaos on Deponia,2012-11-06,78,8.3,36,200660,4350,73,0,572
+Tropico 4: Modern Times,2012-03-29,78,8,15,1524226,20292,354,0,3912
+Elemental: Fallen Enchantress,2012-10-23,78,7.3,45,509134,4085,93,0,866
+Deadlight,2012-10-25,78,7.3,37,160996,2944,89,0,907
+Giana Sisters: Twisted Dreams,2012-10-23,77,7.8,27,456149,3463,98,0,846
+Quantum Conundrum,2012-06-21,77,7.3,46,100263,1127,60,0,483
+Endless Space,2012-07-04,77,7.4,31,11149923,48978,4143,0,7202
+The Darkness II,2012-02-06,77,7.6,48,131553,1738,42,0,723
+TERA,2012-05-01,77,6.8,49,2904345,35327,1196,0,8501
+Magic: The Gathering - Duels of the Planeswalkers 2013,2012-06-20,77,6.8,25,485573,2370,163,0,463
+Resonance,2012-06-19,76,7.9,50,10561272,83815,1822,0,18401
+Miasmata,2012-11-28,76,7.7,12,59526,360,11,0,78
+Spec Ops: The Line,2012-06-25,76,8.2,39,2575530,18156,564,0,2363
+Ys Origin,2012-05-31,76,8.7,49,426833,7565,213,0,1095
+Prototype 2,2012-07-24,76,6.4,50,805124,28220,698,0,8591
+Super Monday Night Combat,2012-04-19,76,3.6,48,140466,2622,58,0,737
+Dear Esther,2012-02-14,75,6.5,48,419969,8446,180,0,2161
+Tiny & Big: Grandpa's Leftovers,2012-06-19,75,7.4,17,431044,2639,160,0,728
+Edna & Harvey: Harvey's New Eyes,2012-10-16,75,8.1,27,18593,380,8,0,91
+Scribblenauts Unlimited,2012-11-19,75,7.8,25,903267,11158,248,0,536
+Blacklight: Retribution,2012-04-03,75,7.5,50,9447554,207907,2889,0,31105
+Iron Brigade,2012-08-13,75,5.2,50,906146,5002,76,0,855
+The Dark Eye: Chains of Satinav,2012-06-22,75,7.7,50,2456977,27418,856,0,7261
+Warp,2012-03-13,75,5.9,35,50774,887,20,0,595
+Mass Effect 3: Leviathan,2012-08-28,75,6.6,44,1099866,5784,525,0,2176
+Symphony,2012-08-06,75,7.8,44,1337190,19277,575,0,3925
+Deponia,2012-08-06,74,8.2,49,12667243,28138,3562,0,3776
+The Sims 3 Supernatural,2012-09-04,74,6.3,50,90743,1855,18,0,361
+Incredipede,2012-10-25,74,6.9,50,118093,1782,37,0,496
+Unmechanical,2012-08-08,74,8.2,48,75459,1096,30,0,231
+Snapshot,2012-08-30,74,7.3,40,3825412,107226,1283,0,8577
+The Secret World,2012-07-03,74,8.2,50,186372,4268,182,0,505
+BioShock Infinite,2013-03-25,94,8.5,50,711179,12241,427,0,1725
+Fez,2013-05-01,91,6.6,44,134626,4107,90,0,1156
+Spelunky,2013-08-08,90,7.2,49,563746,10296,125,0,1427
+Brothers: A Tale of Two Sons,2013-09-03,90,8.5,19,1622688,9994,322,0,2333
+Dota 2,2013-07-09,90,6.2,40,245469,5177,56,0,1146
+Rocksmith 2014 Edition,2013-10-22,89,8,18,2399998,5425,773,0,500
+Crusader Kings II: The Old Gods,2013-05-28,88,8.7,26,261242,5228,95,0,1536
+Guacamelee! Gold Edition,2013-08-08,88,7.3,18,269808,1622,16,0,288
+The Swapper,2013-05-30,87,8.6,38,52642,1484,33,0,582
+Europa Universalis IV,2013-08-13,87,8.7,46,503178,5681,167,0,1681
+Gone Home,2013-08-15,86,5.4,41,212577,1058,11,0,141
+Pac-Man Championship Edition DX +,2013-09-24,86,7.3,32,488560,4759,132,0,1144
+Out of the Park Baseball 14,2013-04-15,86,8.5,17,48263,497,87,0,373
+Saints Row IV,2013-08-19,86,7.4,50,666224,4397,122,0,1519
+Starcraft II: Heart of the Swarm,2013-03-12,86,7.9,50,130491362,204720,57520,0,21819
+Tomb Raider,2013-03-04,86,8.5,6,2746277,69696,2401,0,8236
+XCOM: Enemy Within,2013-11-12,86,8,49,17456963,213630,4862,0,57256
+Path of Exile,2013-01-25,86,8,37,44081,1044,24,0,413
+Bit.Trip Presents...Runner2: Future Legend of Rhythm Alien,2013-02-26,85,8.2,8,20515,329,10,0,110
+Dust: An Elysian Tail,2013-05-24,85,8.4,50,142897,3587,71,0,67
+DmC: Devil May Cry,2013-01-24,85,6.8,24,1089044,9439,161,0,1577
+The Wolf Among Us: Episode 1 - Faith,2013-10-11,85,9,47,1106731,10469,392,0,5711
+Rogue Legacy,2013-06-27,85,7.9,18,95516579,326851,13268,0,41881
+Football Manager 2014,2013-10-30,85,5.5,50,609099,15749,291,0,605
+Sid Meier's Civilization V: Brave New World,2013-07-08,85,8.6,47,313556,9575,184,0,2236
+Trials Evolution: Gold Edition,2013-03-21,85,6.7,49,39148,493,19,0,137
+"Papers, Please",2013-08-08,85,8.5,2,77,4,1,0,4
+Mass Effect 3: Citadel,2013-03-05,84,7.9,30,19679,287,11,0,130
+Assassin's Creed IV: Black Flag,2013-11-19,84,7.7,34,2630198,44135,1035,0,14321
+Gunpoint,2013-06-03,83,8.3,32,947344,6717,266,0,1132
+Final Fantasy XIV Online: A Realm Reborn,2013-08-27,83,6.8,49,1085289,14725,261,0,1664
+Card Hunter (2013),2013-09-12,83,7.9,47,521604,9028,133,0,3398
+Starseed Pilgrim,2013-04-16,83,6.1,50,152370,3448,57,0,832
+Monaco: What's Yours Is Mine,2013-04-24,83,7.7,50,3538104,71640,1638,0,16460
+Valdis Story: Abyssal City,2013-10-30,83,8,42,18244208,127552,4636,0,10931
+Sokobond,2013-08-27,82,7.8,5,12131,291,15,0,54
+Antichamber,2013-01-31,82,8.2,40,459361,10844,124,0,2768
+Metro: Last Light,2013-05-13,82,8.6,50,456833,10086,164,0,1626
+Rising Storm,2013-05-30,82,8.5,49,172105,1703,87,0,292
+Battlefield 4,2013-10-29,81,6,45,589252,11615,430,0,3629
+War Thunder,2013-08-15,81,6.6,46,230276,5502,64,0,1255
+Kentucky Route Zero - Act I,2013-01-07,81,7.5,39,631449,8860,232,0,1463
+Castlevania: Lords of Shadow Ultimate Edition,2013-08-27,81,7.4,40,1826922,4311,298,0,913
+The Cat Lady,2013-12-04,81,8.8,3,153,2,0,0,0
+Victoria II: Heart of Darkness,2013-04-16,81,8.8,49,681149,10715,236,0,1608
+Waveform,2013-01-25,81,7.4,49,1702849,16853,259,0,3459
 Far Cry 3: Blood Dragon,2013-05-01,81,8.1,0,0,0,0,0,0
-Mortal Kombat Komplete Edition,2013-07-03,81,8.7,0,0,0,0,0,0
-GRID 2,2013-05-27,80,5.7,0,0,0,0,0,0
-Outlast,2013-09-04,80,8.4,0,0,0,0,0,0
-Dishonored: The Brigmore Witches,2013-08-13,80,8.7,0,0,0,0,0,0
-Goodbye Deponia,2013-10-17,80,7.9,0,0,0,0,0,0
-Brutal Legend,2013-02-26,80,7.9,0,0,0,0,0,0
-Dishonored: The Knife of Dunwall,2013-04-16,80,8.2,0,0,0,0,0,0
-Company of Heroes 2,2013-06-25,80,2.1,0,0,0,0,0,0
-The Sims 3: Into the Future,2013-10-22,80,5.4,0,0,0,0,0,0
-Fallen Enchantress: Legendary Heroes,2013-05-22,80,7.7,0,0,0,0,0,0
-Naruto Shippuden: Ultimate Ninja Storm 3 Full Burst,2013-10-24,80,7.9,0,0,0,0,0,0
-Proteus,2013-01-30,80,5.6,0,0,0,0,0,0
-Wargame: AirLand Battle,2013-05-29,80,8.1,0,0,0,0,0,0
-Dungeons & Dragons: Chronicles of Mystara,2013-06-18,80,6.7,0,0,0,0,0,0
-The Walking Dead: Season Two - A Telltale Games Series,2013-12-17,80,8.3,0,0,0,0,0,0
-The Wolf Among Us,2013-10-11,80,8.8,0,0,0,0,0,0
-Euro Truck Simulator 2,2013-01-16,79,8.7,0,0,0,0,0,0
-Payday 2,2013-08-13,79,3.5,0,0,0,0,0,0
-Sang-Froid: Tales of Werewolves,2013-04-05,79,7.9,0,0,0,0,0,0
-Call of Juarez: Gunslinger,2013-05-22,79,8.2,0,0,0,0,0,0
-Memoria,2013-08-29,79,8.2,0,0,0,0,0,0
-Race the Sun,2013-08-19,79,7.4,0,0,0,0,0,0
-Stick it to the Man!,2013-12-13,79,7.2,0,0,0,0,0,0
-Don't Starve,2013-04-23,79,8.3,0,0,0,0,0,0
-TrackMania 2 Valley,2013-07-04,79,8.1,0,0,0,0,0,0
-State of Decay,2013-11-05,79,6.9,0,0,0,0,0,0
-The Walking Dead: Season Two Episode 1 - All That Remains,2013-12-17,78,8.5,0,0,0,0,0,0
-Teleglitch: Die More Edition,2013-07-24,78,7,0,0,0,0,0,0
-LEGO Marvel Super Heroes,2013-10-22,78,8.1,0,0,0,0,0,0
-Dead Space 3,2013-02-05,78,6,0,0,0,0,0,0
-Baldur's Gate II: Enhanced Edition,2013-11-15,78,7.2,0,0,0,0,0,0
-Samurai Gunn,2013-12-10,78,7.8,0,0,0,0,0,0
-The Walking Dead: 400 Days,2013-07-03,78,7.6,0,0,0,0,0,0
-Battlefield 3: End Game,2013-03-26,78,7.4,0,0,0,0,0,0
-F1 2013,2013-10-03,77,6.3,0,0,0,0,0,0
-Expeditions: Conquistador,2013-05-30,77,8.2,0,0,0,0,0,0
-Element4l,2013-05-24,77,7.7,0,0,0,0,0,0
-Anomaly 2,2013-05-15,77,7.9,0,0,0,0,0,0
-Teslagrad,2013-12-13,77,7.9,0,0,0,0,0,0
-Eldritch,2013-10-21,77,6.8,0,0,0,0,0,0
+Mortal Kombat Komplete Edition,2013-07-03,81,8.7,44,522575,7000,105,0,1424
+GRID 2,2013-05-27,80,5.7,30,222175,2455,410,0,812
+Outlast,2013-09-04,80,8.4,47,79301,3833,38,0,658
+Dishonored: The Brigmore Witches,2013-08-13,80,8.7,50,401346,11825,251,0,2112
+Goodbye Deponia,2013-10-17,80,7.9,50,6916320,81234,7159,0,51905
+Brutal Legend,2013-02-26,80,7.9,50,483243,8045,132,0,1599
+Dishonored: The Knife of Dunwall,2013-04-16,80,8.2,50,413942,20573,149,0,3807
+Company of Heroes 2,2013-06-25,80,2.1,29,56029,2836,27,0,750
+The Sims 3: Into the Future,2013-10-22,80,5.4,48,3360216,48929,494,0,8484
+Fallen Enchantress: Legendary Heroes,2013-05-22,80,7.7,50,721548,26169,348,0,2658
+Naruto Shippuden: Ultimate Ninja Storm 3 Full Burst,2013-10-24,80,7.9,49,7038005,188895,2161,0,26929
+Proteus,2013-01-30,80,5.6,41,896229,7726,168,0,3245
+Wargame: AirLand Battle,2013-05-29,80,8.1,50,9625594,107430,2863,0,14564
+Dungeons & Dragons: Chronicles of Mystara,2013-06-18,80,6.7,38,136967,3365,55,0,533
+The Walking Dead: Season Two - A Telltale Games Series,2013-12-17,80,8.3,49,1772102,18212,898,0,4714
+The Wolf Among Us,2013-10-11,80,8.8,13,6933360,30402,1355,0,4462
+Euro Truck Simulator 2,2013-01-16,79,8.7,9,25177,540,38,0,94
+Payday 2,2013-08-13,79,3.5,41,15602,338,14,0,82
+Sang-Froid: Tales of Werewolves,2013-04-05,79,7.9,47,49179,960,32,0,251
+Call of Juarez: Gunslinger,2013-05-22,79,8.2,47,103918,1353,33,0,214
+Memoria,2013-08-29,79,8.2,36,1448946,16355,554,0,5296
+Race the Sun,2013-08-19,79,7.4,5,9119,56,5,0,10
+Stick it to the Man!,2013-12-13,79,7.2,49,962250,17752,532,0,5038
+Don't Starve,2013-04-23,79,8.3,50,960129,19336,417,0,1142
+TrackMania 2 Valley,2013-07-04,79,8.1,6,107472,805,7,0,179
+State of Decay,2013-11-05,79,6.9,34,1785263,15267,477,0,2615
+The Walking Dead: Season Two Episode 1 - All That Remains,2013-12-17,78,8.5,39,279699,3932,92,0,1504
+Teleglitch: Die More Edition,2013-07-24,78,7,50,199678,1364,43,0,240
+LEGO Marvel Super Heroes,2013-10-22,78,8.1,50,1816788,9423,504,0,1724
+Dead Space 3,2013-02-05,78,6,50,1871760,52909,432,0,12555
+Baldur's Gate II: Enhanced Edition,2013-11-15,78,7.2,9,254342,2458,80,0,776
+Samurai Gunn,2013-12-10,78,7.8,13,7512188,24534,1948,0,1946
+The Walking Dead: 400 Days,2013-07-03,78,7.6,50,797004,11691,293,0,2535
+Battlefield 3: End Game,2013-03-26,78,7.4,50,28806961,141443,9359,0,20616
+F1 2013,2013-10-03,77,6.3,44,953896,24627,486,0,4323
+Expeditions: Conquistador,2013-05-30,77,8.2,49,1839980,35757,685,0,3068
+Element4l,2013-05-24,77,7.7,50,1227155,40131,313,0,3812
+Anomaly 2,2013-05-15,77,7.9,50,1453804,25890,351,0,2261
+Teslagrad,2013-12-13,77,7.9,42,1022803,8263,411,0,3429
+Eldritch,2013-10-21,77,6.8,49,1648036,55880,401,0,6170
 Sanctum 2,2013-05-15,77,7.6,0,0,0,0,0,0
-Magic: Duels of the Planeswalkers 2014,2013-06-26,77,6.1,0,0,0,0,0,0
-Ace Combat Assault Horizon: Enhanced Edition,2013-01-24,77,5.9,0,0,0,0,0,0
-Resident Evil: Revelations,2013-05-20,77,7,0,0,0,0,0,0
-Angry Video Game Nerd Adventures,2013-09-20,77,7.5,0,0,0,0,0,0
-Crusader Kings II: Sons of Abraham,2013-11-18,77,7.8,0,0,0,0,0,0
-Cognition: An Erica Reed Thriller Episode 3 - The Oracle,2013-06-30,77,7.5,0,0,0,0,0,0
-Risk of Rain,2013-11-08,77,8.1,0,0,0,0,0,0
-Toki Tori 2 +,2013-07-11,76,7.6,0,0,0,0,0,0
-SteamWorld Dig,2013-12-05,76,7.1,0,0,0,0,0,0
-Kentucky Route Zero - Act III,2014-05-06,91,6.6,0,0,0,0,0,0
-Dark Souls II,2014-04-24,91,7.1,0,0,0,0,0,0
-Out of the Park Baseball 15,2014-04-21,89,7.1,0,0,0,0,0,0
-Hearthstone: Heroes of Warcraft,2014-03-11,88,6.3,0,0,0,0,0,0
-Steins;Gate,2014-03-31,87,8.7,0,0,0,0,0,0
-Year Walk,2014-03-06,87,7,0,0,0,0,0,0
-TowerFall Ascension,2014-03-11,87,6.6,0,0,0,0,0,0
-Diablo III: Reaper of Souls,2014-03-25,87,6.6,0,0,0,0,0,0
-Divinity: Original Sin,2014-01-17,87,8.7,0,0,0,0,0,0
-World of Warcraft: Warlords of Draenor,2014-11-13,87,5.9,0,0,0,0,0,0
-Astebreed,2014-05-30,86,7.3,0,0,0,0,0,0
-The Binding of Isaac: Rebirth,2014-11-04,86,8.2,0,0,0,0,0,0
-Titanfall,2014-03-11,86,6.2,0,0,0,0,0,0
-The Talos Principle,2014-12-11,85,8.5,0,0,0,0,0,0
-Legend of Grimrock II,2014-10-15,85,8.1,0,0,0,0,0,0
-Dragon Age: Inquisition,2014-11-18,85,5.9,0,0,0,0,0,0
-South Park: The Stick of Truth,2014-03-04,85,8.6,0,0,0,0,0,0
-Shovel Knight,2014-06-26,85,7.9,0,0,0,0,0,0
-Assetto Corsa,2014-12-19,85,8.3,0,0,0,0,0,0
-Valkyria Chronicles,2014-11-11,85,8.2,0,0,0,0,0,0
-BattleBlock Theater,2014-05-15,85,7.9,0,0,0,0,0,0
-Middle-earth: Shadow of Mordor,2014-09-30,84,8,0,0,0,0,0,0
-Hearthstone: Goblins Vs. Gnomes,2014-12-08,84,6.4,0,0,0,0,0,0
-Tales From The Borderlands: Episode 1 - Zer0 Sum,2014-11-25,84,8.5,0,0,0,0,0,0
-Metro Redux,2014-08-26,84,8,0,0,0,0,0,0
-Europa Universalis IV: Wealth of Nations,2014-05-29,84,8.4,0,0,0,0,0,0
-The Wolf Among Us: Episode 5 - Cry Wolf,2014-07-08,84,8.8,0,0,0,0,0,0
-Ultimate General: Gettysburg,2014-10-16,84,8,0,0,0,0,0,0
-SMITE,2014-03-25,83,8.2,0,0,0,0,0,0
-The Blackwell Epiphany,2014-04-24,83,7.6,0,0,0,0,0,0
-This War of Mine,2014-11-14,83,8.3,0,0,0,0,0,0
-Metal Gear Rising: Revengeance,2014-01-09,83,7.9,0,0,0,0,0,0
-Transistor,2014-05-20,83,8.3,0,0,0,0,0,0
-Door Kickers,2014-10-20,83,7.9,0,0,0,0,0,0
-Outland,2014-09-29,83,7.2,0,0,0,0,0,0
-Dark Souls II: Crown of the Ivory King,2014-09-29,82,8.1,0,0,0,0,0,0
-Endless Legend,2014-04-24,82,7.9,0,0,0,0,0,0
-Kero Blaster,2014-05-11,82,7.1,0,0,0,0,0,0
-The Wolf Among Us: Episode 3 - A Crooked Mile,2014-04-08,82,8.6,0,0,0,0,0,0
-FIFA 15,2014-09-23,82,4.2,0,0,0,0,0,0
-ETHER One,2014-03-25,82,6.9,0,0,0,0,0,0
-The Vanishing of Ethan Carter,2014-09-25,82,8.1,0,0,0,0,0,0
-Age of Wonders III - Golden Realms,2014-09-18,82,8.6,0,0,0,0,0,0
-Dark Souls II: Crown of the Sunken King,2014-07-22,82,7.4,0,0,0,0,0,0
-Lethal League,2014-08-27,82,7.5,0,0,0,0,0,0
-Pro Evolution Soccer 2015,2014-11-13,82,5.8,0,0,0,0,0,0
-WildStar,2014-06-03,82,7.4,0,0,0,0,0,0
-Broken Age: Act 1,2014-01-28,82,7.7,0,0,0,0,0,0
-Nidhogg,2014-01-13,81,6.6,0,0,0,0,0,0
-Sunless Sea,2014-07-01,81,7.5,0,0,0,0,0,0
-The Walking Dead: Season Two Episode 3 - In Harm's Way,2014-05-13,81,8.3,0,0,0,0,0,0
-Marvel Heroes 2015,2014-06-04,81,7.9,0,0,0,0,0,0
-Wolfenstein: The New Order,2014-05-19,81,8.1,0,0,0,0,0,0
-Alien: Isolation,2014-10-06,81,8.4,0,0,0,0,0,0
-Company of Heroes 2: Ardennes Assault,2014-11-17,81,6.1,0,0,0,0,0,0
-The Walking Dead: Season Two Episode 2 - A House Divided,2014-03-04,81,8.5,0,0,0,0,0,0
-Sid Meier's Civilization: Beyond Earth,2014-10-24,81,5.5,0,0,0,0,0,0
-Wasteland 2,2014-09-19,81,7.3,0,0,0,0,0,0
-Shadowrun: Dragonfall,2014-02-27,81,8.3,0,0,0,0,0,0
-Europa Universalis IV: Conquest of Paradise,2014-01-14,81,7.7,0,0,0,0,0,0
-Company of Heroes 2: The Western Front Armies,2014-06-23,80,6.8,0,0,0,0,0,0
-Metal Gear Solid V: Ground Zeroes,2014-12-18,80,7.6,0,0,0,0,0,0
-Trials Fusion,2014-04-16,80,6.8,0,0,0,0,0,0
-The Banner Saga,2014-01-14,80,7.9,0,0,0,0,0,0
-Elite: Dangerous,2014-12-16,80,6.4,0,0,0,0,0,0
-Icewind Dale: Enhanced Edition,2014-10-30,80,7.2,0,0,0,0,0,0
-Far Cry 4,2014-11-18,80,6.7,0,0,0,0,0,0
-Super Time Force Ultra,2014-08-25,80,6.5,0,0,0,0,0,0
-Luftrausers,2014-03-18,80,6.8,0,0,0,0,0,0
-Age of Wonders III,2014-03-31,80,7.8,0,0,0,0,0,0
-Football Manager 2015,2014-11-07,80,6.1,0,0,0,0,0,0
-BioShock Infinite: Burial at Sea - Episode Two,2014-03-25,80,8.4,0,0,0,0,0,0
-ArcheAge,2014-09-16,80,3.6,0,0,0,0,0,0
-Dungeon of the Endless,2014-10-27,79,8,0,0,0,0,0,0
-Valiant Hearts: The Great War,2014-06-25,79,8.5,0,0,0,0,0,0
-Geometry Wars 3: Dimensions,2014-11-25,79,6.2,0,0,0,0,0,0
-Resident Evil 4: Ultimate HD Edition,2014-02-27,79,7.8,0,0,0,0,0,0
-The Last Door,2014-05-20,79,7.5,0,0,0,0,0,0
-Dark Souls II: Crown of the Old Iron King,2014-08-26,79,7.6,0,0,0,0,0,0
-The Journey Down: Chapter Two,2014-08-25,78,7.1,0,0,0,0,0,0
-DeadCore,2014-10-17,78,6.8,0,0,0,0,0,0
-The Walking Dead: Season Two Episode 5 - No Going Back,2014-08-26,78,8.5,0,0,0,0,0,0
-Call of Duty: Advanced Warfare,2014-11-03,78,4.5,0,0,0,0,0,0
-LISA,2014-12-15,78,8.6,0,0,0,0,0,0
-OlliOlli,2014-07-22,78,6.7,0,0,0,0,0,0
-Strider,2014-02-19,78,7.4,0,0,0,0,0,0
-So Many Me,2014-07-17,78,7,0,0,0,0,0,0
-GRID Autosport,2014-06-26,78,6.2,0,0,0,0,0,0
-The Walking Dead: Season Two Episode 4 - Amid the Ruins,2014-07-22,78,8,0,0,0,0,0,0
-Hearthstone: Curse of Naxxramas,2014-07-22,78,6.5,0,0,0,0,0,0
-Plants vs Zombies: Garden Warfare,2014-06-24,78,7.8,0,0,0,0,0,0
-Wargame: Red Dragon,2014-04-17,78,8,0,0,0,0,0,0
-Joe Dever's Lone Wolf HD Remastered,2014-11-27,78,6.8,0,0,0,0,0,0
-Five Nights at Freddy's,2014-08-19,78,7,0,0,0,0,0,0
-Sherlock Holmes: Crimes & Punishments,2014-09-30,77,7.7,0,0,0,0,0,0
-Mini Metro,2014-08-11,77,8,0,0,0,0,0,0
-The Incredible Adventures of Van Helsing II,2014-05-22,77,7.6,0,0,0,0,0,0
-NEO Scavenger,2014-12-15,77,7.8,0,0,0,0,0,0
-Child of Light,2014-04-30,77,8.1,0,0,0,0,0,0
-Grand Theft Auto V,2015-04-14,96,7.9,0,0,0,0,0,0
-The Witcher 3: Wild Hunt,2015-05-18,93,9.3,0,0,0,0,0,0
-Undertale,2015-09-15,92,7.9,0,0,0,0,0,0
-Metal Gear Solid V: The Phantom Pain,2015-09-01,91,7.7,0,0,0,0,0,0
-The Witcher 3: Wild Hunt - Hearts of Stone,2015-10-13,89,8.9,0,0,0,0,0,0
-Pillars of Eternity,2015-03-26,89,8.3,0,0,0,0,0,0
-Nuclear Throne,2015-12-05,88,7.6,0,0,0,0,0,0
-Kerbal Space Program,2015-04-27,88,8.2,0,0,0,0,0,0
-Starcraft II: Legacy of the Void,2015-11-10,88,8.3,0,0,0,0,0,0
-Ori and the Blind Forest,2015-03-11,88,8.7,0,0,0,0,0,0
-Oddworld: Abe's Oddysee - New 'n' Tasty,2015-02-25,87,7.8,0,0,0,0,0,0
-Crypt of the NecroDancer,2015-04-23,87,7.7,0,0,0,0,0,0
-Tales From The Borderlands: Episode 5 - The Vault of the Traveler,2015-10-20,86,8.7,0,0,0,0,0,0
-Final Fantasy XIV: Heavensward,2015-06-23,86,7.7,0,0,0,0,0,0
-Her Story,2015-06-24,86,5.8,0,0,0,0,0,0
-Homeworld Remastered Collection,2015-02-25,86,8.2,0,0,0,0,0,0
-Heroes of the Storm,2015-06-02,86,6.6,0,0,0,0,0,0
-DiRT Rally,2015-12-07,86,8.7,0,0,0,0,0,0
-Rocket League,2015-07-05,86,8.2,0,0,0,0,0,0
-Cities: Skylines,2015-03-10,85,8.9,0,0,0,0,0,0
-Tales from the Borderlands: A Telltale Game Series,2015-10-20,85,8.5,0,0,0,0,0,0
-The Binding of Isaac: Afterbirth,2015-10-30,85,8.1,0,0,0,0,0,0
-Chaos Reborn,2015-10-26,85,8.3,0,0,0,0,0,0
-Mega Man Legacy Collection,2015-08-25,85,7.3,0,0,0,0,0,0
-System Shock: Enhanced Edition,2015-09-22,85,8.1,0,0,0,0,0,0
-80 Days (2015),2015-09-29,84,6.5,0,0,0,0,0,0
-Hearthstone: The Grand Tournament,2015-08-24,84,4.1,0,0,0,0,0,0
-SOMA,2015-09-22,84,8.3,0,0,0,0,0,0
-Grim Fandango Remastered,2015-01-27,84,8,0,0,0,0,0,0
-Fallout 4,2015-11-09,84,5.4,0,0,0,0,0,0
-Life is Strange,2015-10-20,83,8.6,0,0,0,0,0,0
-Project CARS,2015-05-06,83,7,0,0,0,0,0,0
-Helldivers,2015-12-07,83,6.8,0,0,0,0,0,0
-Life is Strange: Episode 5 - Polarized,2015-10-20,83,8.4,0,0,0,0,0,0
-BROFORCE,2015-10-15,83,8,0,0,0,0,0,0
-"Invisible, Inc.",2015-05-12,82,7.9,0,0,0,0,0,0
-Hearthstone: Blackrock Mountain,2015-04-02,82,6.1,0,0,0,0,0,0
-Hacknet,2015-08-12,82,7.6,0,0,0,0,0,0
-The Talos Principle: Road To Gehenna,2015-07-23,82,7.6,0,0,0,0,0,0
-King's Quest Chapter 1: A Knight to Remember,2015-07-28,82,7.2,0,0,0,0,0,0
-Technobabylon,2015-05-21,82,7.8,0,0,0,0,0,0
-Resident Evil HD Remaster,2015-01-20,82,8.2,0,0,0,0,0,0
-OlliOlli2: Welcome to Olliwood,2015-08-11,82,5.4,0,0,0,0,0,0
-Shadowrun: Hong Kong,2015-08-20,81,7.7,0,0,0,0,0,0
-Football Manager 2016,2015-11-13,81,7,0,0,0,0,0,0
-Downwell,2015-10-15,81,6.2,0,0,0,0,0,0
-Tales From The Borderlands: Episode 3 - Catch A Ride,2015-06-23,81,8.4,0,0,0,0,0,0
-Guild Wars 2: Heart of Thorns,2015-10-23,81,7.2,0,0,0,0,0,0
-The Age of Decadence,2015-10-15,81,7.9,0,0,0,0,0,0
-Galactic Civilizations III,2015-05-14,81,6.5,0,0,0,0,0,0
-Order of Battle: Pacific,2015-04-30,81,5.4,0,0,0,0,0,0
-World of Warships,2015-09-17,81,6.4,0,0,0,0,0,0
-FIFA 16,2015-09-22,81,4.4,0,0,0,0,0,0
-The Book of Unwritten Tales 2,2015-02-20,80,7.6,0,0,0,0,0,0
-Lovers in a Dangerous Spacetime,2015-09-09,80,6.7,0,0,0,0,0,0
-Westerado: Double Barreled,2015-04-16,80,7.3,0,0,0,0,0,0
-Volume,2015-08-18,80,7.3,0,0,0,0,0,0
-Age of Wonders III - Eternal Lords,2015-04-14,80,8.4,0,0,0,0,0,0
-Dariusburst: Chronicle Saviours,2015-12-03,80,8.4,0,0,0,0,0,0
-Grandia II Anniversary Edition,2015-08-24,80,7.9,0,0,0,0,0,0
-Dropsy,2015-09-10,80,7.1,0,0,0,0,0,0
-Company of Heroes 2: The British Forces,2015-09-03,80,5.9,0,0,0,0,0,0
-Read Only Memories,2015-10-05,80,6,0,0,0,0,0,0
-Dark Souls II: Scholar of the First Sin,2015-04-01,80,7.3,0,0,0,0,0,0
-Life is Strange: Episode 3 - Chaos Theory,2015-05-19,80,9,0,0,0,0,0,0
-The Legend of Heroes: Trails in the Sky SC,2015-10-29,80,8.6,0,0,0,0,0,0
-Total War: Attila,2015-02-17,80,7.3,0,0,0,0,0,0
-The Magic Circle,2015-07-09,79,7.4,0,0,0,0,0,0
-Stasis,2015-08-31,79,7.7,0,0,0,0,0,0
-Warhammer: End Times - Vermintide,2015-10-23,79,7.9,0,0,0,0,0,0
-Else Heart.Break(),2015-09-24,79,7.7,0,0,0,0,0,0
-Cities: Skylines - After Dark,2015-09-24,79,7.8,0,0,0,0,0,0
-Jotun,2015-09-29,79,7.2,0,0,0,0,0,0
-The Incredible Adventures of Van Helsing: Final Cut,2015-10-07,79,7.4,0,0,0,0,0,0
-Sid Meier's Civilization: Beyond Earth - Rising Tide,2015-10-09,79,6,0,0,0,0,0,0
-Tales From The Borderlands: Episode 4 - Escape Plan Bravo,2015-08-18,79,8.4,0,0,0,0,0,0
-Frozen Cortex,2015-02-19,79,6.5,0,0,0,0,0,0
-Assault Android Cactus,2015-09-23,79,7.1,0,0,0,0,0,0
-Tom Clancy's Rainbow Six Siege,2015-12-01,79,6.9,0,0,0,0,0,0
-Apotheon,2015-02-03,78,7.8,0,0,0,0,0,0
-Human Resource Machine,2015-10-15,78,8,0,0,0,0,0,0
-Mushroom 11,2015-10-15,78,6.9,0,0,0,0,0,0
-Hand of Fate,2015-02-17,78,7.9,0,0,0,0,0,0
-Avernum 2: Crystal Souls,2015-01-14,78,8.2,0,0,0,0,0,0
-Galak-Z: The Dimensional,2015-10-29,78,6.3,0,0,0,0,0,0
-AR-K Episode 3: The Great Escape,2015-07-14,78,8.2,0,0,0,0,0,0
-Tales From The Borderlands: Episode 2 - Atlas Mugged,2015-03-17,78,8.6,0,0,0,0,0,0
-Deathtrap,2015-02-04,77,7.9,0,0,0,0,0,0
-Republique: Episode 1 - Exordium,2015-02-25,77,7.4,0,0,0,0,0,0
-Life is Strange: Episode 1 - Chrysalis,2015-01-30,77,8.5,0,0,0,0,0,0
-Life is Strange: Episode 2 - Out of Time,2015-03-24,77,8.7,0,0,0,0,0,0
-Game of Thrones: Episode Three - The Sword in the Darkness,2015-03-24,77,7.8,0,0,0,0,0,0
-Magic Duels: Origins,2015-07-29,77,6,0,0,0,0,0,0
-Stealth Inc 2: A Game of Clones,2015-04-30,77,6.2,0,0,0,0,0,0
-Dragon Age: Inquisition - Trespasser,2015-09-09,77,7.6,0,0,0,0,0,0
-Evolve,2015-02-09,77,4.3,0,0,0,0,0,0
-Grey Goo,2015-01-23,77,7.6,0,0,0,0,0,0
-Aviary Attorney,2015-12-18,77,7.4,0,0,0,0,0,0
-Three Fourths Home,2015-03-20,77,5.5,0,0,0,0,0,0
-Out of the Park Baseball 17,2016-03-22,92,3.5,0,0,0,0,0,0
-The Witcher 3: Wild Hunt - Blood and Wine,2016-05-30,92,9.1,0,0,0,0,0,0
-Overwatch,2016-05-23,91,6.8,0,0,0,0,0,0
-Stephen's Sausage Roll,2016-04-18,90,5.6,0,0,0,0,0,0
-Kentucky Route Zero - Act IV,2016-07-20,90,6,0,0,0,0,0,0
-Dark Souls III,2016-04-11,89,8.6,0,0,0,0,0,0
-Stardew Valley,2016-02-26,88,8.6,0,0,0,0,0,0
-Owlboy,2016-11-01,88,7.1,0,0,0,0,0,0
-Ori and the Blind Forest: Definitive Edition,2016-04-27,88,8.7,0,0,0,0,0,0
-XCOM 2,2016-02-05,88,7.1,0,0,0,0,0,0
-Sid Meier's Civilization VI,2016-10-21,88,7.2,0,0,0,0,0,0
-Battlefield 1,2016-10-21,88,7.5,0,0,0,0,0,0
-World of Warcraft: Legion,2016-08-30,88,7.3,0,0,0,0,0,0
-The Witness,2016-01-26,87,6.6,0,0,0,0,0,0
-INSIDE,2016-07-07,87,8.5,0,0,0,0,0,0
-Hex: Shards of Fate,2016-01-26,87,6.4,0,0,0,0,0,0
-Forza Horizon 3,2016-09-27,86,6.2,0,0,0,0,0,0
-Rise of the Tomb Raider,2016-01-28,86,7.9,0,0,0,0,0,0
-Total War: WARHAMMER,2016-05-24,86,7.3,0,0,0,0,0,0
-Dishonored 2,2016-11-10,86,6.2,0,0,0,0,0,0
-Chime Sharp,2016-07-19,86,7.8,0,0,0,0,0,0
-F1 2016,2016-08-19,86,8,0,0,0,0,0,0
-Pony Island,2016-01-04,86,7.1,0,0,0,0,0,0
-Gears of War 4,2016-10-11,86,6.8,0,0,0,0,0,0
-Titanfall 2,2016-10-28,86,8.1,0,0,0,0,0,0
-Day of the Tentacle Remastered,2016-03-21,86,7.9,0,0,0,0,0,0
-Hearthstone: Whispers of the Old Gods,2016-04-26,85,5.5,0,0,0,0,0,0
-BlazBlue: Chrono Phantasma Extend,2016-03-02,85,7.7,0,0,0,0,0,0
-Thumper,2016-10-10,85,7.6,0,0,0,0,0,0
-Candle,2016-11-11,85,7.7,0,0,0,0,0,0
-DOOM,2016-05-13,85,8.3,0,0,0,0,0,0
-Shadow Tactics: Blades of the Shogun,2016-12-06,84,8.1,0,0,0,0,0,0
-Darkest Dungeon,2016-01-19,84,7.8,0,0,0,0,0,0
-The Last Door: Season 2,2016-03-29,84,6.6,0,0,0,0,0,0
-Planet Coaster,2016-11-17,84,7,0,0,0,0,0,0
-Enter the Gungeon,2016-04-05,84,7.6,0,0,0,0,0,0
-Hitman - Episode 2: Sapienza,2016-04-26,84,5.8,0,0,0,0,0,0
-Final Fantasy IX,2016-04-14,84,8.3,0,0,0,0,0,0
-Hyper Light Drifter,2016-03-31,84,8.2,0,0,0,0,0,0
-FIFA 17,2016-09-27,84,4.2,0,0,0,0,0,0
-Hitman,2016-10-31,84,7.4,0,0,0,0,0,0
-SpeedRunners,2016-04-19,84,8.2,0,0,0,0,0,0
-Grim Dawn,2016-02-25,83,8.4,0,0,0,0,0,0
-Final Fantasy X / X-2 HD Remaster,2016-05-12,83,8.4,0,0,0,0,0,0
-Hearts of Iron IV,2016-06-06,83,6.9,0,0,0,0,0,0
-Devil Daggers,2016-02-18,83,7.1,0,0,0,0,0,0
-Danganronpa: Trigger Happy Havoc,2016-02-18,83,8.1,0,0,0,0,0,0
-Deus Ex: Mankind Divided,2016-08-23,83,6.1,0,0,0,0,0,0
-ABZU,2016-08-02,83,6.5,0,0,0,0,0,0
-Duskers,2016-05-18,83,6.9,0,0,0,0,0,0
-The Walking Dead: The Telltale Series - A New Frontier Episode 1: Ties That Bind Part One,2016-12-20,83,7,0,0,0,0,0,0
-The Banner Saga 2,2016-04-19,82,8.1,0,0,0,0,0,0
-SUPERHOT,2016-02-25,82,7.4,0,0,0,0,0,0
-VIDEOBALL,2016-07-12,82,NA,0,0,0,0,0,0
-Duelyst,2016-05-03,82,8.1,0,0,0,0,0,0
-The Walking Dead: The Telltale Series - A New Frontier Episode 2: Ties That Bind Part Two,2016-12-20,82,7.4,0,0,0,0,0,0
-Starbound,2016-07-22,81,7.1,0,0,0,0,0,0
-Quadrilateral Cowboy,2016-07-25,81,7.5,0,0,0,0,0,0
-Unravel,2016-02-09,81,8,0,0,0,0,0,0
-SteamWorld Heist,2016-06-07,81,7.8,0,0,0,0,0,0
-Firewatch,2016-02-09,81,7.3,0,0,0,0,0,0
-Zombie Night Terror,2016-07-20,81,7.9,0,0,0,0,0,0
-Dragon's Dogma: Dark Arisen,2016-01-15,81,8.2,0,0,0,0,0,0
-The Bug Butcher,2016-01-19,81,8.2,0,0,0,0,0,0
-Nelly Cootalot: The Fowl Fleet,2016-03-22,81,7.9,0,0,0,0,0,0
-Overcooked,2016-08-03,81,7.6,0,0,0,0,0,0
-Motorsport Manager,2016-11-09,81,8.4,0,0,0,0,0,0
-Redout,2016-09-02,81,8.2,0,0,0,0,0,0
-Atlas Reactor,2016-10-04,81,8.4,0,0,0,0,0,0
-Leap of Fate,2016-03-30,80,7.4,0,0,0,0,0,0
-Tyranny,2016-11-10,80,7.8,0,0,0,0,0,0
-Oxenfree,2016-01-15,80,7.7,0,0,0,0,0,0
-Football Manager 2017,2016-11-04,80,4.5,0,0,0,0,0,0
-Cities: Skylines - Natural Disasters,2016-11-29,80,6.5,0,0,0,0,0,0
-BioShock: The Collection,2016-09-16,80,6.3,0,0,0,0,0,0
-Samorost 3,2016-03-24,80,8.1,0,0,0,0,0,0
-Ghost 1.0,2016-06-07,80,7.8,0,0,0,0,0,0
-1979 Revolution: Black Friday,2016-04-05,80,7.8,0,0,0,0,0,0
-Fractured Space,2016-09-22,79,8.6,0,0,0,0,0,0
-Fallout 4: Far Harbor,2016-05-19,79,6.6,0,0,0,0,0,0
-Goetia,2016-04-14,79,7.8,0,0,0,0,0,0
-Dying Light: The Following,2016-02-09,79,8.3,0,0,0,0,0,0
-Tom Clancy's The Division,2016-03-08,79,5.9,0,0,0,0,0,0
-Kelvin and the Infamous Machine,2016-07-21,79,7.9,0,0,0,0,0,0
-Offworld Trading Company,2016-04-28,79,7.3,0,0,0,0,0,0
-Pillars of Eternity: The White March - Part 2,2016-02-16,79,7,0,0,0,0,0,0
-Trackmania Turbo,2016-03-24,79,6.8,0,0,0,0,0,0
-Hitman - Episode 3: Marrakesh,2016-05-31,79,5.3,0,0,0,0,0,0
-Anarcute,2016-07-12,79,7.2,0,0,0,0,0,0
-Homeworld: Deserts of Kharak,2016-01-20,79,8.1,0,0,0,0,0,0
-Hue,2016-08-30,79,7.6,0,0,0,0,0,0
-Obliteracers,2016-02-23,78,7.4,0,0,0,0,0,0
-Shadow Warrior 2,2016-10-13,78,8.3,0,0,0,0,0,0
-DeathSmiles,2016-03-10,78,7.4,0,0,0,0,0,0
-The Sims 4: City Living,2016-11-01,78,6.3,0,0,0,0,0,0
-Stellaris,2016-05-09,78,8,0,0,0,0,0,0
-Xanadu Next,2016-11-03,78,7.2,0,0,0,0,0,0
+Magic: Duels of the Planeswalkers 2014,2013-06-26,77,6.1,35,78423,2109,26,0,464
+Ace Combat Assault Horizon: Enhanced Edition,2013-01-24,77,5.9,48,73444,1219,22,0,253
+Resident Evil: Revelations,2013-05-20,77,7,50,14408401,76906,3295,0,15751
+Angry Video Game Nerd Adventures,2013-09-20,77,7.5,38,203857,4609,124,0,1349
+Crusader Kings II: Sons of Abraham,2013-11-18,77,7.8,50,207911,2744,121,0,749
+Cognition: An Erica Reed Thriller Episode 3 - The Oracle,2013-06-30,77,7.5,49,19465507,342623,11943,0,63037
+Risk of Rain,2013-11-08,77,8.1,2,59914,1103,239,0,826
+Toki Tori 2 +,2013-07-11,76,7.6,50,901270,16699,323,0,3118
+SteamWorld Dig,2013-12-05,76,7.1,45,38091,914,30,0,355
+Kentucky Route Zero - Act III,2014-05-06,91,6.6,36,3409605,64943,864,0,11747
+Dark Souls II,2014-04-24,91,7.1,45,147705,3243,134,0,974
+Hearthstone: Heroes of Warcraft,2014-03-11,88,6.3,50,184758,4246,64,0,735
+Steins;Gate,2014-03-31,87,8.7,28,12992776,53465,3798,0,6392
+Year Walk,2014-03-06,87,7,27,758592,4220,139,0,463
+TowerFall Ascension,2014-03-11,87,6.6,26,44803,1433,6,0,125
+Diablo III: Reaper of Souls,2014-03-25,87,6.6,50,335632,3863,99,0,685
+Divinity: Original Sin,2014-01-17,87,8.7,40,105318,1322,36,0,409
+World of Warcraft: Warlords of Draenor,2014-11-13,87,5.9,50,1065828,4217,549,0,885
+Astebreed,2014-05-30,86,7.3,50,507291,10021,225,0,2047
+The Binding of Isaac: Rebirth,2014-11-04,86,8.2,31,24035,908,21,0,269
+Titanfall,2014-03-11,86,6.2,50,27285960,79776,7469,0,6646
+The Talos Principle,2014-12-11,85,8.5,50,4244241,66608,1069,0,13471
+Legend of Grimrock II,2014-10-15,85,8.1,45,1223598,16641,523,0,3239
+Dragon Age: Inquisition,2014-11-18,85,5.9,25,392312,2035,100,0,143
+South Park: The Stick of Truth,2014-03-04,85,8.6,32,78451,3021,50,0,882
+Shovel Knight,2014-06-26,85,7.9,38,374270,6392,335,0,2709
+Assetto Corsa,2014-12-19,85,8.3,44,377199,7895,80,0,2022
+Valkyria Chronicles,2014-11-11,85,8.2,48,122529,2267,60,0,680
+BattleBlock Theater,2014-05-15,85,7.9,37,55194,1544,19,0,428
+Middle-earth: Shadow of Mordor,2014-09-30,84,8,11,338191,1544,95,0,706
+Hearthstone: Goblins Vs. Gnomes,2014-12-08,84,6.4,44,75431,3787,60,0,347
+Tales From The Borderlands: Episode 1 - Zer0 Sum,2014-11-25,84,8.5,20,43982,890,15,0,306
+Metro Redux,2014-08-26,84,8,22,25506,431,6,0,72
+Europa Universalis IV: Wealth of Nations,2014-05-29,84,8.4,22,230979,4546,96,0,1303
+The Wolf Among Us: Episode 5 - Cry Wolf,2014-07-08,84,8.8,33,204897,1290,58,0,564
+Ultimate General: Gettysburg,2014-10-16,84,8,48,1410884,21370,370,0,2560
+SMITE,2014-03-25,83,8.2,46,691866,4876,98,0,1622
+The Blackwell Epiphany,2014-04-24,83,7.6,50,227568,7806,55,0,768
+This War of Mine,2014-11-14,83,8.3,25,79724,3141,33,0,561
+Metal Gear Rising: Revengeance,2014-01-09,83,7.9,49,400722,7986,214,0,1768
+Transistor,2014-05-20,83,8.3,9,3625,99,3,0,46
+Outland,2014-09-29,83,7.2,46,101576,3761,46,0,681
+Dark Souls II: Crown of the Ivory King,2014-09-29,82,8.1,47,283347,7417,237,0,1496
+Endless Legend,2014-04-24,82,7.9,21,671290,9160,253,0,1895
+Kero Blaster,2014-05-11,82,7.1,22,36321,1079,22,0,323
+The Wolf Among Us: Episode 3 - A Crooked Mile,2014-04-08,82,8.6,33,270317,2725,39,0,936
+ETHER One,2014-03-25,82,6.9,46,1031378,13040,186,0,3648
+The Vanishing of Ethan Carter,2014-09-25,82,8.1,36,2461700,63556,600,0,8562
+Age of Wonders III - Golden Realms,2014-09-18,82,8.6,45,800318,22449,323,0,6819
+Dark Souls II: Crown of the Sunken King,2014-07-22,82,7.4,47,1238243,5777,386,0,1278
+Lethal League,2014-08-27,82,7.5,45,167781,2556,52,0,526
+Pro Evolution Soccer 2015,2014-11-13,82,5.8,37,4351298,30731,762,0,7302
+WildStar,2014-06-03,82,7.4,13,14315,233,7,0,73
+Broken Age: Act 1,2014-01-28,82,7.7,50,9566426,160724,7463,0,28418
+Nidhogg,2014-01-13,81,6.6,44,297223,6473,143,0,801
+Sunless Sea,2014-07-01,81,7.5,50,488452,12386,241,0,2228
+The Walking Dead: Season Two Episode 3 - In Harm's Way,2014-05-13,81,8.3,19,82672,2621,21,0,489
+Marvel Heroes 2015,2014-06-04,81,7.9,43,724111,5475,98,0,699
+Wolfenstein: The New Order,2014-05-19,81,8.1,50,6623889,48835,2139,0,5890
+Alien: Isolation,2014-10-06,81,8.4,50,1521276,18541,242,0,4076
+Company of Heroes 2: Ardennes Assault,2014-11-17,81,6.1,34,241564,2534,173,0,626
+The Walking Dead: Season Two Episode 2 - A House Divided,2014-03-04,81,8.5,50,154395,1922,25,0,695
+Sid Meier's Civilization: Beyond Earth,2014-10-24,81,5.5,50,4015939,42420,994,0,11026
+Wasteland 2,2014-09-19,81,7.3,49,134611,1598,29,0,280
+Shadowrun: Dragonfall,2014-02-27,81,8.3,44,2066624,21065,500,0,2949
+Europa Universalis IV: Conquest of Paradise,2014-01-14,81,7.7,50,3377332,72972,1538,0,24508
+Company of Heroes 2: The Western Front Armies,2014-06-23,80,6.8,41,78623,2218,68,0,316
+Metal Gear Solid V: Ground Zeroes,2014-12-18,80,7.6,18,252726,8493,57,0,1008
+Trials Fusion,2014-04-16,80,6.8,49,2914743,64216,1170,0,13349
+The Banner Saga,2014-01-14,80,7.9,49,246254,3093,120,0,924
+Elite: Dangerous,2014-12-16,80,6.4,46,1383030,18084,515,0,2620
+Icewind Dale: Enhanced Edition,2014-10-30,80,7.2,49,30692,470,9,0,174
+Far Cry 4,2014-11-18,80,6.7,50,134503,3744,64,0,620
+Super Time Force Ultra,2014-08-25,80,6.5,49,8919197,52753,1635,0,14217
+Luftrausers,2014-03-18,80,6.8,47,381719,5024,80,0,673
+Age of Wonders III,2014-03-31,80,7.8,12,33041,413,5,0,88
+Football Manager 2015,2014-11-07,80,6.1,25,1009091,6702,90,0,1555
+BioShock Infinite: Burial at Sea - Episode Two,2014-03-25,80,8.4,29,1041990,33948,555,0,4508
+ArcheAge,2014-09-16,80,3.6,24,191612,3498,76,0,445
+Dungeon of the Endless,2014-10-27,79,8,40,82159,1996,40,0,534
+Valiant Hearts: The Great War,2014-06-25,79,8.5,50,228272,7240,102,0,1109
+Geometry Wars 3: Dimensions,2014-11-25,79,6.2,40,9129043,149436,4810,0,13146
+Resident Evil 4: Ultimate HD Edition,2014-02-27,79,7.8,15,38618,649,39,0,151
+The Last Door,2014-05-20,79,7.5,50,379032,13856,112,0,2039
+The Journey Down: Chapter Two,2014-08-25,78,7.1,47,393429,4753,109,0,685
+DeadCore,2014-10-17,78,6.8,49,1007590,25965,358,0,3083
+Call of Duty: Advanced Warfare,2014-11-03,78,4.5,13,96250,717,32,0,236
+LISA,2014-12-15,78,8.6,15,325842,1845,161,0,545
+OlliOlli,2014-07-22,78,6.7,31,181469,1728,105,0,611
+Strider,2014-02-19,78,7.4,50,830150,5300,174,0,1096
+So Many Me,2014-07-17,78,7,9,30331,633,3,0,122
+GRID Autosport,2014-06-26,78,6.2,46,152684,4509,61,0,647
+The Walking Dead: Season Two Episode 4 - Amid the Ruins,2014-07-22,78,8,50,318214,7387,172,0,1387
+Plants vs Zombies: Garden Warfare,2014-06-24,78,7.8,35,945517,8755,379,0,2413
+Wargame: Red Dragon,2014-04-17,78,8,49,246512,7181,226,0,1338
+Joe Dever's Lone Wolf HD Remastered,2014-11-27,78,6.8,50,1373240,28069,763,0,3686
+Five Nights at Freddy's,2014-08-19,78,7,48,296289,3105,196,0,704
+Sherlock Holmes: Crimes & Punishments,2014-09-30,77,7.7,50,5799408,131863,1835,0,13359
+Mini Metro,2014-08-11,77,8,47,1020487,10912,317,0,2341
+The Incredible Adventures of Van Helsing II,2014-05-22,77,7.6,14,510192,3496,74,0,1050
+Child of Light,2014-04-30,77,8.1,45,238904,2031,86,0,341
+Grand Theft Auto V,2015-04-14,96,7.9,50,214903,7014,38,0,665
+The Witcher 3: Wild Hunt,2015-05-18,93,9.3,46,340470,2391,51,0,838
+Undertale,2015-09-15,92,7.9,47,2376709,24530,1084,0,6112
+Metal Gear Solid V: The Phantom Pain,2015-09-01,91,7.7,50,5647408,204263,2525,0,20465
+The Witcher 3: Wild Hunt - Hearts of Stone,2015-10-13,89,8.9,47,281247,3120,61,0,409
+Pillars of Eternity,2015-03-26,89,8.3,44,324666,3083,130,0,1736
+Nuclear Throne,2015-12-05,88,7.6,48,1581083,8803,119,0,1369
+Kerbal Space Program,2015-04-27,88,8.2,49,7546710,97958,2331,0,11590
+Starcraft II: Legacy of the Void,2015-11-10,88,8.3,49,145342,4622,134,0,558
+Ori and the Blind Forest,2015-03-11,88,8.7,29,50276,1002,48,0,193
+Oddworld: Abe's Oddysee - New 'n' Tasty,2015-02-25,87,7.8,44,532809,5998,162,0,1215
+Crypt of the NecroDancer,2015-04-23,87,7.7,45,577203,14091,363,0,4154
+Tales From The Borderlands: Episode 5 - The Vault of the Traveler,2015-10-20,86,8.7,48,3257119,83179,691,0,11460
+Final Fantasy XIV: Heavensward,2015-06-23,86,7.7,36,578970,2123,219,0,1092
+Her Story,2015-06-24,86,5.8,48,87443,2207,38,0,340
+Homeworld Remastered Collection,2015-02-25,86,8.2,50,4639451,128514,1554,0,46400
+Heroes of the Storm,2015-06-02,86,6.6,50,247390,6090,217,0,826
+DiRT Rally,2015-12-07,86,8.7,49,3203060,29995,1092,0,6160
+Rocket League,2015-07-05,86,8.2,45,1740095,18813,307,0,3514
+Cities: Skylines,2015-03-10,85,8.9,21,277410,3311,54,0,735
+Tales from the Borderlands: A Telltale Game Series,2015-10-20,85,8.5,20,174709,2101,249,0,1004
+The Binding of Isaac: Afterbirth,2015-10-30,85,8.1,27,80079,1409,62,0,247
+Chaos Reborn,2015-10-26,85,8.3,11,90759,2194,259,0,1039
+System Shock: Enhanced Edition,2015-09-22,85,8.1,48,20242807,418219,8590,0,61290
+80 Days (2015),2015-09-29,84,6.5,36,2680563,15690,348,0,1853
+Hearthstone: The Grand Tournament,2015-08-24,84,4.1,32,65284,1406,35,0,198
+SOMA,2015-09-22,84,8.3,41,144945,1028,20,0,342
+Grim Fandango Remastered,2015-01-27,84,8,5,25964,112,26,0,36
+Fallout 4,2015-11-09,84,5.4,24,71270,1795,34,0,431
+Life is Strange,2015-10-20,83,8.6,50,5415166,65481,3779,0,34086
+Project CARS,2015-05-06,83,7,42,5539418,61485,1008,0,8759
+Helldivers,2015-12-07,83,6.8,50,23590636,110013,6071,0,20732
+Life is Strange: Episode 5 - Polarized,2015-10-20,83,8.4,44,103257,1955,38,0,502
+BROFORCE,2015-10-15,83,8,9,5575,124,2,0,37
+"Invisible, Inc.",2015-05-12,82,7.9,40,11035855,141505,5341,0,50594
+Hearthstone: Blackrock Mountain,2015-04-02,82,6.1,50,2976737,43077,1114,0,4430
+Hacknet,2015-08-12,82,7.6,21,5618422,75986,3314,0,35254
+King's Quest Chapter 1: A Knight to Remember,2015-07-28,82,7.2,49,250869,1449,112,0,190
+Technobabylon,2015-05-21,82,7.8,30,74341,1988,41,0,650
+Resident Evil HD Remaster,2015-01-20,82,8.2,49,1653419,23340,398,0,2509
+OlliOlli2: Welcome to Olliwood,2015-08-11,82,5.4,48,2024435,17226,330,0,3363
+Shadowrun: Hong Kong,2015-08-20,81,7.7,36,1717011,15283,168,0,1975
+Football Manager 2016,2015-11-13,81,7,49,8341627,169563,3227,0,114208
+Downwell,2015-10-15,81,6.2,50,9909561,132358,6314,0,32781
+Tales From The Borderlands: Episode 3 - Catch A Ride,2015-06-23,81,8.4,28,2414644,23015,268,0,2372
+Guild Wars 2: Heart of Thorns,2015-10-23,81,7.2,38,419440,2741,64,0,474
+The Age of Decadence,2015-10-15,81,7.9,49,154436,4581,91,0,1454
+Galactic Civilizations III,2015-05-14,81,6.5,45,149790,4027,85,0,1138
+Order of Battle: Pacific,2015-04-30,81,5.4,47,742253,5961,118,0,1563
+World of Warships,2015-09-17,81,6.4,50,3419773,87952,750,0,8691
+The Book of Unwritten Tales 2,2015-02-20,80,7.6,49,1546647,17096,561,0,2376
+Lovers in a Dangerous Spacetime,2015-09-09,80,6.7,50,892023,12351,207,0,1683
+Westerado: Double Barreled,2015-04-16,80,7.3,50,2104860,50180,1005,0,28147
+Volume,2015-08-18,80,7.3,49,1614635,14643,1340,0,5644
+Age of Wonders III - Eternal Lords,2015-04-14,80,8.4,2,8236759,6299,1830,0,1452
+Dariusburst: Chronicle Saviours,2015-12-03,80,8.4,50,1279373,21608,307,0,2097
+Grandia II Anniversary Edition,2015-08-24,80,7.9,32,616397,6323,122,0,585
+Dropsy,2015-09-10,80,7.1,49,1797925,35693,919,0,6978
+Company of Heroes 2: The British Forces,2015-09-03,80,5.9,49,1169268,27740,310,0,2785
+Read Only Memories,2015-10-05,80,6,48,2297638,21718,465,0,2400
+Life is Strange: Episode 3 - Chaos Theory,2015-05-19,80,9,47,5108588,112625,1903,0,30394
+The Legend of Heroes: Trails in the Sky SC,2015-10-29,80,8.6,50,5179701,125505,6151,0,23669
+Total War: Attila,2015-02-17,80,7.3,10,30222,459,2,0,77
+The Magic Circle,2015-07-09,79,7.4,37,163692,2873,203,0,976
+Stasis,2015-08-31,79,7.7,29,122302,1290,20,0,492
+Warhammer: End Times - Vermintide,2015-10-23,79,7.9,40,1688202,53994,773,0,2215
+Else Heart.Break(),2015-09-24,79,7.7,49,6308558,85295,1871,0,16839
+Cities: Skylines - After Dark,2015-09-24,79,7.8,44,438883,13842,180,0,2349
+Jotun,2015-09-29,79,7.2,49,1409556,30554,332,0,3016
+The Incredible Adventures of Van Helsing: Final Cut,2015-10-07,79,7.4,42,1829604,21677,1573,0,7043
+Sid Meier's Civilization: Beyond Earth - Rising Tide,2015-10-09,79,6,50,2878289,43759,784,0,7006
+Tales From The Borderlands: Episode 4 - Escape Plan Bravo,2015-08-18,79,8.4,32,165423,2010,86,0,571
+Frozen Cortex,2015-02-19,79,6.5,39,208755,3290,84,0,583
+Tom Clancy's Rainbow Six Siege,2015-12-01,79,6.9,50,4658011,147446,4366,0,53845
+Apotheon,2015-02-03,78,7.8,44,16747,506,22,0,170
+Human Resource Machine,2015-10-15,78,8,47,133139,3159,90,0,454
+Mushroom 11,2015-10-15,78,6.9,39,3365900,37213,743,0,3975
+Hand of Fate,2015-02-17,78,7.9,40,55344,619,47,0,366
+Avernum 2: Crystal Souls,2015-01-14,78,8.2,42,87614,818,40,0,267
+Galak-Z: The Dimensional,2015-10-29,78,6.3,50,199064,1544,59,0,619
+AR-K Episode 3: The Great Escape,2015-07-14,78,8.2,11,21951,238,6,0,84
+Tales From The Borderlands: Episode 2 - Atlas Mugged,2015-03-17,78,8.6,42,652793,13244,265,0,2507
+Deathtrap,2015-02-04,77,7.9,8,48752,1114,25,0,122
+Republique: Episode 1 - Exordium,2015-02-25,77,7.4,50,300215,7804,160,0,1290
+Life is Strange: Episode 1 - Chrysalis,2015-01-30,77,8.5,22,32822,1431,19,0,419
+Life is Strange: Episode 2 - Out of Time,2015-03-24,77,8.7,35,117101,2331,45,0,701
+Game of Thrones: Episode Three - The Sword in the Darkness,2015-03-24,77,7.8,50,3231921,74326,1338,0,28699
+Magic Duels: Origins,2015-07-29,77,6,48,865687,12769,713,0,3650
+Dragon Age: Inquisition - Trespasser,2015-09-09,77,7.6,45,38187,560,22,0,142
+Evolve,2015-02-09,77,4.3,25,93082,2648,19,0,299
+Grey Goo,2015-01-23,77,7.6,43,154738,1289,37,0,391
+Aviary Attorney,2015-12-18,77,7.4,40,2580790,27284,645,0,6560
+Three Fourths Home,2015-03-20,77,5.5,39,5057882,134801,4774,0,20542
+Out of the Park Baseball 17,2016-03-22,92,3.5,50,413648,9823,75,0,927
+The Witcher 3: Wild Hunt - Blood and Wine,2016-05-30,92,9.1,50,563704,13776,262,0,4182
+Overwatch,2016-05-23,91,6.8,50,1224928,24123,379,0,5922
+Stephen's Sausage Roll,2016-04-18,90,5.6,32,4885344,37344,1223,0,4215
+Kentucky Route Zero - Act IV,2016-07-20,90,6,41,452956,4027,129,0,1041
+Dark Souls III,2016-04-11,89,8.6,48,82990,609,29,0,176
+Stardew Valley,2016-02-26,88,8.6,50,208770,1337,34,0,502
+Owlboy,2016-11-01,88,7.1,32,19532,520,18,0,211
+Ori and the Blind Forest: Definitive Edition,2016-04-27,88,8.7,49,601414,8941,814,0,3003
+XCOM 2,2016-02-05,88,7.1,46,37956,991,12,0,293
+Sid Meier's Civilization VI,2016-10-21,88,7.2,47,2072243,49421,388,0,6150
+Battlefield 1,2016-10-21,88,7.5,50,4497646,100686,2244,0,30328
+World of Warcraft: Legion,2016-08-30,88,7.3,45,231958,1478,37,0,520
+The Witness,2016-01-26,87,6.6,50,2842946,20630,345,0,5529
+INSIDE,2016-07-07,87,8.5,14,111036,1003,43,0,237
+Hex: Shards of Fate,2016-01-26,87,6.4,38,23086,758,8,0,227
+Forza Horizon 3,2016-09-27,86,6.2,49,385039,8911,269,0,1068
+Rise of the Tomb Raider,2016-01-28,86,7.9,8,23912,319,28,0,65
+Total War: WARHAMMER,2016-05-24,86,7.3,50,752026,36709,247,0,2223
+Dishonored 2,2016-11-10,86,6.2,49,204231,6983,98,0,1230
+Chime Sharp,2016-07-19,86,7.8,43,293943,1403,104,0,184
+F1 2016,2016-08-19,86,8,31,414036,4661,189,0,659
+Pony Island,2016-01-04,86,7.1,50,1798852,39473,825,0,15228
+Gears of War 4,2016-10-11,86,6.8,34,192474,4203,59,0,309
+Titanfall 2,2016-10-28,86,8.1,50,56116,1444,48,0,359
+Day of the Tentacle Remastered,2016-03-21,86,7.9,50,14214719,366592,4100,0,29292
+Hearthstone: Whispers of the Old Gods,2016-04-26,85,5.5,27,5954,124,5,0,65
+Thumper,2016-10-10,85,7.6,13,38521,1795,54,0,280
+Candle,2016-11-11,85,7.7,34,5144329,33050,953,0,5320
+DOOM,2016-05-13,85,8.3,46,266713,3022,65,0,1062
+Shadow Tactics: Blades of the Shogun,2016-12-06,84,8.1,19,14201,206,7,0,90
+Darkest Dungeon,2016-01-19,84,7.8,50,114541,1717,46,0,323
+The Last Door: Season 2,2016-03-29,84,6.6,7,1947997,9147,808,0,2720
+Planet Coaster,2016-11-17,84,7,50,2171418,47539,844,0,13492
+Enter the Gungeon,2016-04-05,84,7.6,32,38020,478,23,0,167
+Hitman - Episode 2: Sapienza,2016-04-26,84,5.8,50,119751,1818,98,0,557
+Final Fantasy IX,2016-04-14,84,8.3,50,1963187,28957,584,0,5376
+Hyper Light Drifter,2016-03-31,84,8.2,50,1821412,22345,523,0,4097
+FIFA 17,2016-09-27,84,4.2,50,552497,5699,277,0,1331
+Hitman,2016-10-31,84,7.4,41,34769,893,34,0,445
+SpeedRunners,2016-04-19,84,8.2,47,129396,934,81,0,204
+Grim Dawn,2016-02-25,83,8.4,46,1742079,6850,158,0,4336
+Final Fantasy X / X-2 HD Remaster,2016-05-12,83,8.4,28,5415968,58186,1851,0,11867
+Hearts of Iron IV,2016-06-06,83,6.9,46,794842,14373,287,0,231
+Devil Daggers,2016-02-18,83,7.1,49,684642,16372,153,0,2642
+Danganronpa: Trigger Happy Havoc,2016-02-18,83,8.1,3,1000,15,0,0,13
+Deus Ex: Mankind Divided,2016-08-23,83,6.1,7,778,1,0,0,5
+ABZU,2016-08-02,83,6.5,49,8069559,142426,6103,0,40063
+Duskers,2016-05-18,83,6.9,49,1190371,13297,531,0,1843
+The Walking Dead: The Telltale Series - A New Frontier Episode 1: Ties That Bind Part One,2016-12-20,83,7,8,60260,874,52,0,155
+The Banner Saga 2,2016-04-19,82,8.1,46,78241,982,23,0,163
+SUPERHOT,2016-02-25,82,7.4,23,569078,9320,264,0,2051
+VIDEOBALL,2016-07-12,82,NA,48,3410859,98526,1664,0,26742
+Duelyst,2016-05-03,82,8.1,44,278276,6519,212,0,1217
+The Walking Dead: The Telltale Series - A New Frontier Episode 2: Ties That Bind Part Two,2016-12-20,82,7.4,50,1497543,19903,529,0,2797
+Starbound,2016-07-22,81,7.1,50,847276,13593,203,0,2892
+Quadrilateral Cowboy,2016-07-25,81,7.5,44,1349846,24550,579,0,3007
+Unravel,2016-02-09,81,8,50,5283301,69430,2074,0,16776
+SteamWorld Heist,2016-06-07,81,7.8,42,3730166,29150,399,0,5992
+Firewatch,2016-02-09,81,7.3,18,98532,1566,288,0,317
+Zombie Night Terror,2016-07-20,81,7.9,20,5125858,20609,1126,0,6479
+Dragon's Dogma: Dark Arisen,2016-01-15,81,8.2,37,48649,379,10,0,243
+The Bug Butcher,2016-01-19,81,8.2,48,1379935,21701,848,0,6150
+Nelly Cootalot: The Fowl Fleet,2016-03-22,81,7.9,45,3516006,84123,1620,0,13997
+Overcooked,2016-08-03,81,7.6,37,2370690,15875,293,0,4811
+Motorsport Manager,2016-11-09,81,8.4,47,866808,14657,265,0,2732
+Redout,2016-09-02,81,8.2,3,40284,377,5,0,37
+Atlas Reactor,2016-10-04,81,8.4,32,128078,4446,46,0,1420
+Leap of Fate,2016-03-30,80,7.4,46,114623,3334,74,0,1007
+Tyranny,2016-11-10,80,7.8,37,1594384,15351,518,0,2201
+Oxenfree,2016-01-15,80,7.7,35,308205,6657,155,0,839
+Football Manager 2017,2016-11-04,80,4.5,49,607008,13236,292,0,1678
+Cities: Skylines - Natural Disasters,2016-11-29,80,6.5,43,563822,8069,258,0,1933
+BioShock: The Collection,2016-09-16,80,6.3,38,103084,811,13,0,248
+Samorost 3,2016-03-24,80,8.1,49,225394,4420,131,0,1330
+Ghost 1.0,2016-06-07,80,7.8,15,1593820,5252,304,0,195
+1979 Revolution: Black Friday,2016-04-05,80,7.8,46,2853559,30074,582,0,5439
+Fractured Space,2016-09-22,79,8.6,50,183449,4320,150,0,808
+Fallout 4: Far Harbor,2016-05-19,79,6.6,48,820614,25180,351,0,3748
+Goetia,2016-04-14,79,7.8,50,232725,6399,91,0,659
+Dying Light: The Following,2016-02-09,79,8.3,50,6415015,163141,7619,0,17151
+Tom Clancy's The Division,2016-03-08,79,5.9,48,193131,5091,68,0,951
+Kelvin and the Infamous Machine,2016-07-21,79,7.9,50,9236239,201047,2857,0,27525
+Offworld Trading Company,2016-04-28,79,7.3,42,3739493,18593,186,0,5345
+Pillars of Eternity: The White March - Part 2,2016-02-16,79,7,50,318092,7108,70,0,1453
+Trackmania Turbo,2016-03-24,79,6.8,46,8469577,179338,5959,0,20019
+Hitman - Episode 3: Marrakesh,2016-05-31,79,5.3,49,1710941,15813,405,0,2992
+Anarcute,2016-07-12,79,7.2,45,145625,7611,91,0,675
+Homeworld: Deserts of Kharak,2016-01-20,79,8.1,50,5587,60,1,0,24
+Hue,2016-08-30,79,7.6,15,710247,3367,103,0,765
+Obliteracers,2016-02-23,78,7.4,49,405145,11543,144,0,2391
+Shadow Warrior 2,2016-10-13,78,8.3,16,12442,360,11,0,142
+DeathSmiles,2016-03-10,78,7.4,45,1873137,49016,387,0,11188
+The Sims 4: City Living,2016-11-01,78,6.3,50,3796754,51513,700,0,7791
+Stellaris,2016-05-09,78,8,38,389040,8197,165,0,1565
+Xanadu Next,2016-11-03,78,7.2,50,260108,9113,177,0,1900
 Zero Escape: Zero Time Dilemma,2016-06-29,78,8.6,0,0,0,0,0,0
-"That Dragon, Cancer",2016-01-12,78,5.9,0,0,0,0,0,0
+"That Dragon, Cancer",2016-01-12,78,5.9,42,355086,3726,62,0,448
